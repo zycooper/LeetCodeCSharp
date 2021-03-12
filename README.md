@@ -1,5 +1,7 @@
 ## LeetCode Progress
 
+### Submit queue(./Plan.md)
+
 | # | Title | Solution | Difficulty | Category | Submit |
 |---| ----- | -------- | ---------- | -------- | ------ |
 |001|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[C#](./Math/1.Two_Sum.cs)|Easy|Math|2020-11-16|
