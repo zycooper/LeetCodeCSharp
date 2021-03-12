@@ -1,6 +1,6 @@
 ## LeetCode Progress
 
-### Submit queue(./Plan.md)
+### [Submit queue](./Plan.md)
 
 | # | Title | Solution | Difficulty | Category | Submit |
 |---| ----- | -------- | ---------- | -------- | ------ |
