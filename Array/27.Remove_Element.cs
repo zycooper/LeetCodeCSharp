@@ -36,9 +36,26 @@ Note that the input array is passed in by reference, which means a modification 
     0 <= nums[i] <= 50
     0 <= val <= 100
 */
-
+/*
+    1st, on 3/16/2021
+*/
 public class Solution {
     public int RemoveElement(int[] nums, int val) {
+        //the official solution use i instead of ValueCount and j in stead of i
+        int ValueCount = 0;
         
+        if(nums.Length > 0)
+        {
+            for(int i=0;i<nums.Length;i++)
+            {
+                if (val != nums[i])
+                {
+                    nums[ValueCount] = nums[i];
+                    ValueCount++;
+                }
+            }
+        }
+       
+        return ValueCount;
     }
 }
