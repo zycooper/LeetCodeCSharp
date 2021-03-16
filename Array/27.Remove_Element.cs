@@ -58,4 +58,21 @@ public class Solution {
        
         return ValueCount;
     }
+
+    public int RemoveElement_current(int[] nums, int val) {
+        //above is wrong, array in java is different from C#
+        int j = 0;
+        for (int i = 0; i < nums.Length; i++)
+        {
+            if (nums[i] != val)
+            {
+                nums[j] = nums[i];
+                j++;
+            }
+        }
+
+        //below is a must for C# since nums[j] = nums[i] won't cut the val ones
+        Array.Resize(ref nums, j);
+        return j;
+    }
 }
