@@ -29,8 +29,8 @@
 |023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)|[C#](./LinkedList/23.Merge_k_Sorted_Lists.cs)|Hard|LinkedList||
 |024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)|[C#](./LinkedList/24.Swap_Nodes_in_Pairs.cs)|Medium|LinkedList||
 |025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)|[C#](./LinkedList/25.Reverse_Nodes_in_k-Group.cs)|Hard|LinkedList||
-|026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[C#](./Array/26.Remove_Duplicates_from_Sorted_Array.cs)|Easy|Array||
-|027|[Remove Element](https://leetcode.com/problems/remove-element/)|[C#](./Array/27.Remove_Element.cs)|Easy|Array||
+|026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[C#](./Array/26.Remove_Duplicates_from_Sorted_Array.cs)|Easy|Array|2021-03-16|
+|027|[Remove Element](https://leetcode.com/problems/remove-element/)|[C#](./Array/27.Remove_Element.cs)|Easy|Array|2021-03-16|
 |028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)|[C#](./String/28.Implement_strStr().cs)|Easy|String||
 |029|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/)|[C#](./Math/29.Divide_Two_Integers.cs)|Medium|Math||
 |030|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/)|[C#](./String/30.Substring_with_Concatenation_of_All_Words.cs)|Hard|String||
@@ -86,7 +86,7 @@
 |077|[Combinations](https://leetcode.com/problems/combinations/description/)|[C#](./Backtracking/77.Combinations.cs)|Medium|Backtracking||
 |078|[Subsets](https://leetcode.com/problems/subsets/description/)|[C#](./Backtracking/78.Subsets.cs)|Medium|Backtracking||
 |079|[Word Search](https://leetcode.com/problems/word-search/description/)|[C#](./Matrix/79.Word_Search.cs)|Medium|Matrix||
-|080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)|[C#](./Array/80.Remove_Duplicates_from_Sorted_Array_II.cs)|Medium|Array||
+|080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)|[C#](./Array/80.Remove_Duplicates_from_Sorted_Array_II.cs)|Medium|Array|2021-03-16|
 |081|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)|[C#](./Array/81.Search_in_Rotated_Sorted_Array_II.cs)|Medium|Array||
 |081|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)|[C#](./Binary_Search/81.Search_in_Rotated_Sorted_Array_II.cs)|Medium|Binary Search||
 |082|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)|[C#](./LinkedList/82.Remove_Duplicates_from_Sorted_List_II.cs)|Medium|LinkedList||
@@ -199,7 +199,7 @@
 |186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/description/)|[C#](./String/186.Reverse_Words_in_a_String_II.cs)|Medium|String||
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/description/)|[C#](./String/187.Repeated_DNA_Sequences.cs)|Medium|String||
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/)|[C#](./Array/188.Best_Time_to_Buy_and_Sell_Stock_IV.cs)|Hard|Array||
-|189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/)|[C#](./Array/189.Rotate_Array.cs)|Medium|Array||
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/)|[C#](./Array/189.Rotate_Array.cs)|Medium|Array|2021-03-17|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/description/)|[C#](./Bit_Manipulation/190.Reverse_Bits.cs)|Easy|Bit Manipulation||
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)|[C#](./Bit_Manipulation/191.Number_of_1_Bits.cs)|Easy|Bit Manipulation||
 |192|[Word Frequency    ]()|[C#](./UnCategory/192.Word_Frequency.cs)|Medium|UnCategory||
