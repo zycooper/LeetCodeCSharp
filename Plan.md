@@ -1,11 +1,11 @@
 <--- Edit on 03/11/2021 --->
 | # | Title | Difficulty | Category | Submit |
 |---| ----- | ---------- | -------- | ------ |
-|027|[Remove Element](https://leetcode.com/problems/remove-element/)|Easy|Array||
-|026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|Easy|Array||
-|080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)|Medium|Array||
+|027|[Remove Element](https://leetcode.com/problems/remove-element/)|Easy|Array|2021-03-16|
+|026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|Easy|Array|2021-03-16|
+|080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)|Medium|Array|2021-03-16|
 |277|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/description/)|Medium|Array||
-|189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/)|Medium|Array||
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/)|Medium|Array|2021-03-17|
 |041|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|Hard|Array||
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|Medium|Array||
 |134|[Gas Station](https://leetcode.com/problems/gas-station/description/)|Medium|Array||
