@@ -42,6 +42,9 @@ nums is sorted in ascending order.
 
 public class Solution {
     public int RemoveDuplicates(int[] nums) {
+         if(nums.Length ==0)
+            return 0;
+            
         int index_slow = 0;
 
         for(int index_fast = 1; index_fast< nums.Length; index_fast++)
