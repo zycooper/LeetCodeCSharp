@@ -1,6 +1,6 @@
 ## LeetCode Progress (out of first 400 problems)
-![2.25%](https://progress-bar.dev/2)
-### [Submit queue](./Plan.md)
+![2.25%](https://progress-bar.dev/2)<br>
+[Submit queue](./Plan.md)<br>
 **Title** goes to Leetcode problem<br>
 **Difficulty** goes to my solution<br>
 **Submit** is the last date I subtmit an solution for this problem<br>
