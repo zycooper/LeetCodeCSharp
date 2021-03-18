@@ -47,6 +47,7 @@ secret and guess consist of digits only.
 
 public class Solution {
     public string GetHint(string secret, string guess) {
+        //HashMap: Two Passes
             //create and initiate hashmap(dic)
             Dictionary<char, int> CharFrequencyList = new Dictionary<char, int>();
             int Bull = 0;
