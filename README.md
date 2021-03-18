@@ -1,6 +1,8 @@
 ## LeetCode Progress (out of first 400 problems)
-By 2021-03-18  ![2.25%](https://progress-bar.dev/2)<br>
+![2.25%](https://progress-bar.dev/2)<br>
+<br>
 [Submit queue](./Plan.md)<br>
+<br>
 **Title** goes to Leetcode problem<br>
 **Difficulty** goes to my solution<br>
 **Submit** is the last date I subtmit an solution for this problem<br>
