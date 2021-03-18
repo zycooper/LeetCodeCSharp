@@ -7,10 +7,10 @@
 |277|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/description/)|Medium|Array||
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/)|Medium|Array|2021-03-17|
 |041|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|Hard|Array||
-|299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|Medium|Array||
-|134|[Gas Station](https://leetcode.com/problems/gas-station/description/)|Medium|Array||
-|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)|Easy|Array||
-|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)|Easy|Array||
+|299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|Medium|Array|2021-03-18|
+|134|[Gas Station](https://leetcode.com/problems/gas-station/description/)|Medium|Array|2021-03-18|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)|Easy|Array|2021-03-18|
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)|Easy|Array|2021-03-18|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/description/)|Easy|Array||
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/description/)|Medium|Array||
 |274|[H-Index](https://leetcode.com/problems/h-index/description/)|Medium|Array||

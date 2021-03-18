@@ -125,8 +125,8 @@
 |115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/)|[C#](./String/115.Distinct_Subsequences.cs)|Hard|String||
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/)|[C#](./Tree/116.Populating_Next_Right_Pointers_in_Each_Node.cs)|Medium|Tree||
 |117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/)|[C#](./Tree/117.Populating_Next_Right_Pointers_in_Each_Node_II.cs)|Medium|Tree||
-|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)|[C#](./Array/118.Pascal's_Triangle.cs)|Easy|Array||
-|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)|[C#](./Array/119.Pascal's_Triangle_II.cs)|Easy|Array||
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)|[C#](./Array/118.Pascal's_Triangle.cs)|Easy|Array|2021-03-18|
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)|[C#](./Array/119.Pascal's_Triangle_II.cs)|Easy|Array|2021-03-18|
 |120|[Triangle](https://leetcode.com/problems/triangle/description/)|[C#](./Dynamic_Programming/120.Triangle.cs)|Medium|Dynamic Programming||
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)|[C#](./Array/121.Best_Time_to_Buy_and_Sell_Stock.cs)|Easy|Array||
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)|[C#](./Array/122.Best_Time_to_Buy_and_Sell_Stock_II.cs)|Easy|Array||
@@ -141,7 +141,7 @@
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/)|[C#](./String/131.Palindrome_Partitioning.cs)|Medium|String||
 |132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/description/)|[C#](./String/132.Palindrome_Partitioning_II.cs)|Hard|String||
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/description/)|[C#](./Graph/133.Clone_Graph.cs)|Medium|Graph||
-|134|[Gas Station](https://leetcode.com/problems/gas-station/description/)|[C#](./Array/134.Gas_Station.cs)|Medium|Array||
+|134|[Gas Station](https://leetcode.com/problems/gas-station/description/)|[C#](./Array/134.Gas_Station.cs)|Medium|Array|2021-03-18|
 |135|[Candy](https://leetcode.com/problems/candy/description/)|[C#](./Array/135.Candy.cs)|Hard|Array||
 |136|[Single Number](https://leetcode.com/problems/single-number/description/)|[C#](./Bit_Manipulation/136.Single_Number.cs)|Easy|Bit Manipulation||
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/description/)|[C#](./Bit_Manipulation/137.Single_Number_II.cs)|Medium|Bit Manipulation||
@@ -310,7 +310,7 @@
 |296|[Best Meeting Point](https://leetcode.com/problems/best-meeting-point/description/)|[C#](./Matrix/296.Best_Meeting_Point.cs)|Hard|Matrix||
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)|[C#](./Tree/297.Serialize_and_Deserialize_Binary_Tree.cs)|Hard|Tree||
 |298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/description/)|[C#](./Tree/298.Binary_Tree_Longest_Consecutive_Sequence.cs)|Medium|Tree||
-|299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[C#](./Array/299.Bulls_and_Cows.cs)|Medium|Array||
+|299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[C#](./Array/299.Bulls_and_Cows.cs)|Medium|Array|2021-03-18|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)|[C#](./Array/300.Longest_Increasing_Subsequence.cs)|Medium|Array||
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)|[C#](./Binary_Search/300.Longest_Increasing_Subsequence.cs)|Medium|Binary Search||
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/description/)|[C#](./String/301.Remove_Invalid_Parentheses.cs)|Hard|String||
