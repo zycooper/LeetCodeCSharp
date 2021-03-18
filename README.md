@@ -2,9 +2,10 @@
 
 ### [Submit queue](./Plan.md)
 
-#### Title goes to Leetcode problem
-#### Difficulty goes to my solution
-#### Submit is the last date I subtmit an solution for this problem
+**Title** goes to Leetcode problem<br>
+**Difficulty** goes to my solution<br>
+**Submit** is the last date I subtmit an solution for this problem<br>
+
 | # | Title | Difficulty | Category | Submit |
 |---| ----- | ---------- | -------- | ------ |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[Easy](./Math/1.Two_Sum.cs)|Math|2020-11-16|
