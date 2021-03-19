@@ -57,4 +57,66 @@ public class Solution {
 
             return result.ToArray();
     }
+
+    public IList<int> MajorityElement_2(int[] nums)
+    {
+           //Boyer-Moore voting
+        int? el1=null;
+        int? el2=null;
+        int counter1 = 0;
+        int counter2 = 0;
+
+        for(int i =0; i < nums.Length;i++)
+        {
+            if(el1 != null && el1 == nums[i])
+            {
+                counter1++;
+            }
+            else if(el2 != null && el2 == nums[i])
+            {
+                counter2++;
+            }
+            else if(counter1 == 0)
+            {
+                el1 = nums[i];
+                counter1++;
+            }
+            else if(counter2 == 0)
+            {
+                el2 = nums[i];
+                counter2++;
+            }
+            else
+            {
+                counter1--;
+                counter2--;
+            }
+        }
+
+        counter1 = 0;
+        counter2 = 0;
+
+        for(int i =0; i < nums.Length; i++)
+        {
+            if(el1 == nums[i])
+            {
+                counter1++;
+            }
+
+            if(el2 == nums[i])
+            {
+                counter2++;    
+            }
+        }
+        
+      
+
+
+       List<int> result = new List<int>() { };
+           
+       if (el1 != null && counter1 > nums.Length / 3) { result.Add((int)el1); }
+       if (el2 != null && counter2 > nums.Length / 3) { result.Add((int)el2); }
+
+       return result;
+    }
 }
