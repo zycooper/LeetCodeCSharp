@@ -57,4 +57,23 @@ public class Solution {
         Array.Sort(nums);
         return nums[nums.Length / 2];
     }
+
+    public int MajorityElementSort(int[] nums) 
+    {
+        //Boyer-Moore Voting 
+        int el =0;
+        int counter =0;
+
+        for(int i =0; i < nums.Length; i++)
+        {
+            if(counter ==0)
+            {
+                el = nums[i];
+            }
+
+            counter += (el == nums[i])? 1 : -1 ;
+        }
+
+        return el;
+    }
 }
