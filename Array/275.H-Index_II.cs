@@ -29,6 +29,19 @@ citations is sorted in ascending order.
 
 public class Solution {
     public int HIndex(int[] citations) {
-        
+        //????? I'm confused there is literily no different between this problem and Q274        
+        //Array.Sort(citations);
+        Array.Reverse(citations);
+
+        int h_index =0;
+        for(int i =0; i< citations.Length;i++)
+        {
+            if(i < citations[i])
+            {
+                h_index++;
+            }
+        }
+
+        return h_index;
     }
 }
