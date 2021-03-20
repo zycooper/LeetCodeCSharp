@@ -28,6 +28,18 @@ n == citations.length
 
 public class Solution {
     public int HIndex(int[] citations) {
-        
+        Array.Sort(citations);
+        Array.Reverse(citations);
+
+        int h_index;
+        for(int i =0; i< citations.Length;i++)
+        {
+            if(i < citations[i])
+            {
+                h_index++;
+            }
+        }
+
+        return h_index;
     }
 }
