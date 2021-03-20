@@ -31,7 +31,7 @@ public class Solution {
         Array.Sort(citations);
         Array.Reverse(citations);
 
-        int h_index;
+        int h_index =0;
         for(int i =0; i< citations.Length;i++)
         {
             if(i < citations[i])
