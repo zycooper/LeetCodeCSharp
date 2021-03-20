@@ -11,10 +11,10 @@
 |134|[Gas Station](https://leetcode.com/problems/gas-station/description/)|Medium|Array|2021-03-18|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)|Easy|Array|2021-03-18|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)|Easy|Array|2021-03-18|
-|169|[Majority Element](https://leetcode.com/problems/majority-element/description/)|Easy|Array||
-|229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/description/)|Medium|Array||
-|274|[H-Index](https://leetcode.com/problems/h-index/description/)|Medium|Array||
-|275|[H-Index II](https://leetcode.com/problems/h-index-ii/description/)|Medium|Array||
+|169|[Majority Element](https://leetcode.com/problems/majority-element/description/)|Easy|Array|2021-03-19|
+|229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/description/)|Medium|Array|2021-03-19|
+|274|[H-Index](https://leetcode.com/problems/h-index/description/)|Medium|Array|2021-03-19|
+|275|[H-Index II](https://leetcode.com/problems/h-index-ii/description/)|Medium|Array|2021-03-19|
 |243|[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/description/)|Easy|Array||
 |244|[Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/description/)|Medium|Array||
 |245|[Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/description/)|Medium|Array||
