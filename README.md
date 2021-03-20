@@ -184,7 +184,7 @@
 |166|[Fraction to Recurring Decimal    ]()|[Medium](./UnCategory/166.Fraction_to_Recurring_Decimal.cs)|UnCategory||
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[Easy](./Math/167.Two_Sum_II_Input_array_is_sorted.cs)|Math||
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)|[Easy](./String/168.Excel_Sheet_Column_Title.cs)|String||
-|169|[Majority Element](https://leetcode.com/problems/majority-element/description/)|[Easy](./Array/169.Majority_Element.cs)|Array||
+|169|[Majority Element](https://leetcode.com/problems/majority-element/description/)|[Easy](./Array/169.Majority_Element.cs)|Array|2021-03-19|
 |170|[Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/description/)|[Easy](./Design/170.Two_Sum_III_Data_structure_design.cs)|Design||
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/)|[Easy](./String/171.Excel_Sheet_Column_Number.cs)|String||
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/)|[Easy](./Math/172.Factorial_Trailing_Zeroes.cs)|Math||
@@ -244,7 +244,7 @@
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)|[Easy](./Tree/226.Invert_Binary_Tree.cs)|Tree||
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/description/)|[Medium](./Stack&PriorityQueue/227.Basic_Calculator_II.cs)|Stack & Priority_Queue||
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/description/)|[Easy](./Array/228.Summary_Ranges.cs)|Array||
-|229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/description/)|[Medium](./Array/229.Majority_Element_II.cs)|Array||
+|229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/description/)|[Medium](./Array/229.Majority_Element_II.cs)|Array|2021-03-19|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)|[Medium](./Tree/230.Kth_Smallest_Element_in_a_BST.cs)|Tree||
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/description/)|[Easy](./Math/231.Power_of_Two.cs)|Math||
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)|[Easy](./Stack&PriorityQueue/232.Implement_Queue_using_Stacks.cs)|Stack & Priority_Queue||
@@ -289,8 +289,8 @@
 |271|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/description/)|[Medium](./String/271.Encode_and_Decode_Strings.cs)|String||
 |272|[Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/description/)|[Hard](./Tree/272.Closest_Binary_Search_Tree_Value_II.cs)|Tree||
 |273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/)|[Hard](./String/273.Integer_to_English_Words.cs)|String||
-|274|[H-Index](https://leetcode.com/problems/h-index/description/)|[Medium](./Array/274.H-Index.cs)|Array||
-|275|[H-Index II](https://leetcode.com/problems/h-index-ii/description/)|[Medium](./Array/275.H-Index_II.cs)|Array||
+|274|[H-Index](https://leetcode.com/problems/h-index/description/)|[Medium](./Array/274.H-Index.cs)|Array|2021-03-19|
+|275|[H-Index II](https://leetcode.com/problems/h-index-ii/description/)|[Medium](./Array/275.H-Index_II.cs)|Array|2021-03-19|
 |276|[Paint Fence](https://leetcode.com/problems/paint-fence/description/)|[Medium](./Dynamic_Programming/276.Paint_Fence.cs)|Dynamic Programming||
 |277|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/description/)|[Medium](./Array/277.Find_the_Celebrity.cs)|Array||
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/description/)|[Easy](./Array/278.First_Bad_Version.cs)|Array||
