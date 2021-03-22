@@ -232,9 +232,9 @@
 |214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/description/)|[Hard](./String/214.Shortest_Palindrome.cs)|String||
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)|[Medium](./Stack&PriorityQueue/215.Kth_Largest_Element_in_an_Array.cs)|Stack & Priority_Queue||
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/)|[Medium](./Backtracking/216.Combination_Sum_III.cs)|Backtracking||
-|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)|[Easy](./Array/217.Contains_Duplicate.cs)|Array||
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)|[Easy](./Array/217.Contains_Duplicate.cs)|Array|2021-03-22|
 |218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/)|[Hard](./Stack&PriorityQueue/218.The_Skyline_Problem.cs)|Stack & Priority_Queue||
-|219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)|[Easy](./Array/219.Contains_Duplicate_II.cs)|Array||
+|219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)|[Easy](./Array/219.Contains_Duplicate_II.cs)|Array|2021-03-22|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/)|[Medium](./Array/220.Contains_Duplicate_III.cs)|Array||
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/description/)|[Medium](./Dynamic_Programming/221.Maximal_Square.cs)|Dynamic Programming||
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/description/)|[Medium](./Tree/222.Count_Complete_Tree_Nodes.cs)|Tree||
@@ -258,9 +258,9 @@
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)|[Medium](./Matrix/240.Search_a_2D_Matrix_II.cs)|Matrix||
 |241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/description/)|[Medium](./String/241.Different_Ways_to_Add_Parentheses.cs)|String||
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)|[Easy](./String/242.Valid_Anagram.cs)|String||
-|243|[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/description/)|[Easy](./Array/243.Shortest_Word_Distance.cs)|Array||
-|244|[Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/description/)|[Medium](./Array/244.Shortest_Word_Distance_II.cs)|Array||
-|245|[Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/description/)|[Medium](./Array/245.Shortest_Word_Distance_III.cs)|Array||
+|243|[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/description/)|[Easy](./Array/243.Shortest_Word_Distance.cs)|Array|2021-03-22|
+|244|[Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/description/)|[Medium](./Array/244.Shortest_Word_Distance_II.cs)|Array|2021-03-22|
+|245|[Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/description/)|[Medium](./Array/245.Shortest_Word_Distance_III.cs)|Array|2021-03-22|
 |246|[Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/description/)|[Easy](./String/246.Strobogrammatic_Number.cs)|String||
 |247|[Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/description/)|[Medium](./String/247.Strobogrammatic_Number_II.cs)|String||
 |248|[Strobogrammatic Number III](https://leetcode.com/problems/strobogrammatic-number-iii/description/)|[Hard](./String/248.Strobogrammatic_Number_III.cs)|String||
