@@ -1,5 +1,5 @@
 ## LeetCode Progress (out of first 400 problems)
-![3%](https://progress-bar.dev/3)<br>
+![4.5%](https://progress-bar.dev/4.5)<br>
 <br>
 [Submit queue](./Plan.md)<br>
 <br>
