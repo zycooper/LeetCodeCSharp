@@ -20,6 +20,36 @@ word1 != word2
 
 public class Solution {
     public int ShortestDistance(string[] wordsDict, string word1, string word2) {
-        
+        /*
+        Note:
+
+        result initial should be wordsDict.Length
+        Math.Min and Math Abs
+        Abs only take on value which is one index minus another
+        */
+        //add two index and result
+        int index_1 = -1;
+        int index_2 = -1;
+        int result = wordsDict.Length;
+        //loop through
+
+        for(int i =0; i < wordsDict.Length;i++)
+        {
+            if(wordsDict[i] == word1)
+            {
+                index_1 = i ;
+            }
+            else if(wordsDict[i] == word2)
+            {
+                index_2 = i;
+            }
+
+            if(index_1 != -1 && index_2 != -1)
+            {
+                result = Math.Min(result,Math.Abs(index_1-index_2));
+            }
+        }
+
+        return result;
     }
 }
