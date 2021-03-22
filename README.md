@@ -1,5 +1,5 @@
 ## LeetCode Progress (out of first 400 problems)
-Total Submit Problem Number:<br>
+Total Submit Problem Number:
 ### 18
 ![5%](https://progress-bar.dev/5)<br>
 <br>
