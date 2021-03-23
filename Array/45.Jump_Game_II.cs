@@ -19,6 +19,7 @@ Constraints:
 0 <= nums[i] <= 105
 */
 public class Solution {
+    //BFS!!!!!
     public int Jump(int[] nums) {
         
     }
