@@ -1,5 +1,5 @@
 ## LeetCode Progress (out of first 400 problems)
-# :heavy_check_mark::one::eight:<br>
+# :heavy_check_mark:       :one::eight:<br>
 ![5%](https://progress-bar.dev/5)<br>
 <br>
 [Submit queue](./Plan.md)<br>
