@@ -1,4 +1,4 @@
-### By Category
+#### By Category
 
 | Category | # |
 | -------- | --- |
@@ -22,7 +22,7 @@
 |Design|17|
 |UnCategory|18|
 
-### By Difficulty
+#### By Difficulty
 
 | Difficulty | # |
 | -------- | --- |
