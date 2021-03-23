@@ -1,6 +1,5 @@
 ## LeetCode Progress (out of first 400 problems)
-Total Submit Problem Number:
-## :one::eight:<br>
+# :white_check_mark::one::eight:<br>
 ![5%](https://progress-bar.dev/5)<br>
 <br>
 [Submit queue](./Plan.md)<br>
