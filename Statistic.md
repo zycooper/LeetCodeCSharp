@@ -1,6 +1,6 @@
 ### By Category
 
-|Category | # |
+| Category | # |
 | -------- | --- |
 |Array|73|
 |String|59|
