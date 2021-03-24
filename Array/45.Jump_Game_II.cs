@@ -21,6 +21,26 @@ Constraints:
 public class Solution {
     //BFS!!!!!
     public int Jump(int[] nums) {
-        
+        int JumpCount = 0;
+        int max = 0;
+        int currMax = 0;
+
+        for(int i =0; i < nums.Length-1; i++)
+        {
+            max = Math.Max(max, i + nums[i]);
+
+            if(currMax == nums.Length)
+            {
+                return JumpCount;
+            }
+
+            // if(currMax == i)
+            // {
+            //     JumpCount++;
+            //     currMax = max;
+            // }
+        }
+
+        return JumpCount;
     }
 }
