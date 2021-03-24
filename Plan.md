@@ -21,8 +21,8 @@
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)|[Easy](./Array/217.Contains_Duplicate.cs)|Array|2021-03-22|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)|[Easy](./Array/219.Contains_Duplicate_II.cs)|Array|2021-03-22|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/)|[Medium](./Array/220.Contains_Duplicate_III.cs)|Array||
-|55|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[Medium](./Array/55.Jump_Game.cs)|Array||
-|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)|[Medium](./Array/45.Jump_Game_II.cs)|Array||
+|55|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[Medium](./Array/55.Jump_Game.cs)|Array|2021-03-23|
+|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)|[Medium](./Array/45.Jump_Game_II.cs)|Array|2021-03-23|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)|[Easy](./Array/121.Best_Time_to_Buy_and_Sell_Stock.cs)|Array||
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)|[Easy](./Array/122.Best_Time_to_Buy_and_Sell_Stock_II.cs)|Array||
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/)|[Hard](./Array/123.Best_Time_to_Buy_and_Sell_Stock_III.cs)|Array||
