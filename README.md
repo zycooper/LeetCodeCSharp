@@ -1,5 +1,5 @@
 ## LeetCode Progress (out of first 400 problems)
-# :heavy_check_mark:       :one::eight:<br>
+# :heavy_check_mark:       :two::zero:<br>
 ![5%](https://progress-bar.dev/5)<br>
 <br>
 [Submit queue](./Plan.md)<br>
@@ -57,7 +57,7 @@
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)|[Hard](./Array/42.Trapping_Rain_Water.cs)|Array||
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)|[Medium](./Math/43.Multiply_Strings.cs)|Math||
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)|[Hard](./Dynamic_Programming/44.Wildcard_Matching.cs)|Dynamic Programming||
-|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)|[Medium](./Array/45.Jump_Game_II.cs)|Array||
+|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)|[Medium](./Array/45.Jump_Game_II.cs)|Array|2021-03-23|
 |46|[Permutations](https://leetcode.com/problems/permutations/description/)|[Medium](./Backtracking/46.Permutations.cs)|Backtracking||
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/description/)|[Medium](./Backtracking/47.Permutations_II.cs)|Backtracking||
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[Medium](./Matrix/48.Rotate_Image.cs)|Matrix||
@@ -67,7 +67,7 @@
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/description/)|[Hard](./DFS&BFS/52.N-Queens_II.cs)|DFS&BFS||
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[Easy](./Array/53.Maximum_Subarray.cs)|Array||
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)|[Medium](./Matrix/54.Spiral_Matrix.cs)|Matrix||
-|55|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[Medium](./Array/55.Jump_Game.cs)|Array||
+|55|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[Medium](./Array/55.Jump_Game.cs)|Array|2021-03-23|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)|[Medium](./Array/56.Merge_Intervals.cs)|Array||
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/description/)|[Medium](./Array/57.Insert_Interval.cs)|Array||
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)|[Easy](./String/58.Length_of_Last_Word.cs)|String||
