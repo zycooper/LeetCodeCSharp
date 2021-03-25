@@ -40,4 +40,30 @@ public class Solution {
         
         return maxProfit;
     }
+
+    public int MaxProfit_2(int[] prices) {
+        //wrong answer, since the initial min and max price will stay the same till the end if no criteria matches the if.
+        //[7,6,4,3,1]
+        int maxProfit = 0;
+
+        int minPrice = prices[0];
+        int maxPrice = prices[prices.Length -1];
+        for(int l = 0, r = prices.Length-1; l < r;)
+        {
+            if(minPrice > prices[l])
+            {
+                minPrice = prices[l];                
+            }
+            l++;
+            if(maxPrice < prices[r])
+            {
+                maxPrice = prices[r];
+                
+            }
+            r--;
+            maxProfit = Math.Max(maxProfit, Math.Abs(prices[l] - prices[r]));
+        }
+
+        return maxProfit;
+    }
 }
