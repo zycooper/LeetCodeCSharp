@@ -134,8 +134,8 @@
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)|[Easy](./Array/118.Pascal's_Triangle.cs)|Array|2021-03-18|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)|[Easy](./Array/119.Pascal's_Triangle_II.cs)|Array|2021-03-18|
 |120|[Triangle](https://leetcode.com/problems/triangle/description/)|[Medium](./Dynamic_Programming/120.Triangle.cs)|Dynamic Programming||
-|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)|[Easy](./Array/121.Best_Time_to_Buy_and_Sell_Stock.cs)|Array||
-|122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)|[Easy](./Array/122.Best_Time_to_Buy_and_Sell_Stock_II.cs)|Array||
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)|[Easy](./Array/121.Best_Time_to_Buy_and_Sell_Stock.cs)|Array|2021-03-24|
+|122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)|[Easy](./Array/122.Best_Time_to_Buy_and_Sell_Stock_II.cs)|Array|2021-03-24|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/)|[Hard](./Array/123.Best_Time_to_Buy_and_Sell_Stock_III.cs)|Array||
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)|[Hard](./Tree/124.Binary_Tree_Maximum_Path_Sum.cs)|Tree||
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)|[Easy](./String/125.Valid_Palindrome.cs)|String||
