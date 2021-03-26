@@ -28,8 +28,47 @@ graph[i][i] == 1
 /* The Knows API is defined in the parent class Relation.
       bool Knows(int a, int b); */
 
+/*
+two pass:
+
+first pass: use API knows to loop through the array, every time we can make sure one param is not a celebrity candidate:
+Knows(i,j) == true => i know j so i can't be celebrity
+Knows(i,j) == false => k doesn't know j, so j cannot be celebrity
+since the celebrity doesn't know anybody and everybody else know him/her, so after the first pass, there will only be one candidate
+
+second pass: since we loop through once, but everytime we only ask one way: if the candidate knows i or if the i knows candidate, so we have to loop through the array again to make sure the final result.
+
+*/
 public class Solution : Relation {
     public int FindCelebrity(int n) {
-        
+        /*
+        Runtime: 200 ms, faster than 64.86% of C# online submissions for Find the Celebrity.
+        Memory Usage: 29.6 MB, less than 34.29% of C# online submissions for Find the Celebrity.
+        */
+        //two pass
+
+        int candidate_idx = 0;
+        //first pass
+        for(int i = 1; i < n; i++)
+        {
+            if(Knows(candidate_idx,i))
+            {
+                candidate_idx = i;
+            }
+        }
+
+        //second pass
+        for(int i = 0; i < n; i++)
+        {
+            if(i != candidate_idx)
+            {
+                if(!Knows(i,candidate_idx) || Knows(candidate_idx,i))
+                {
+                    return -1;
+                }
+            }
+        }
+
+        return candidate_idx;
     }
 }
