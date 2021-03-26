@@ -1,5 +1,7 @@
 ## LeetCode Progress (out of first 400 problems)
-# :heavy_check_mark:       :two::four:<br>
+ :arrow_lower_right::arrow_down::arrow_down::arrow_lower_left:<br>
+ :arrow_right::two::four::arrow_left:<br>
+ :arrow_upper_right::arrow_up::arrow_up::arrow_upper_left:<br>
 ![6%](https://progress-bar.dev/6)<br>
 <br>
 [Submit queue](./Plan.md)<br>
