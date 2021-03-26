@@ -52,7 +52,7 @@ public class Solution {
         {
             if(minPrice > prices[l])
             {
-                minPrice = prices[l];                
+                minPrice = prices[l];
             }
             l++;
             if(maxPrice < prices[r])
@@ -66,4 +66,17 @@ public class Solution {
 
         return maxProfit;
     }
+
+     public int MaxProfit_2(int[] prices) {
+        int minPrice = prices[0];
+        int maxProfit = 0;
+        
+        for(int i = 1; i < prices.Length;i++)
+        {
+            minPrice =Math.Min(minPrice,prices[i]);
+            maxProfit =Math.Max(maxProfit,prices[i] - minPrice);           
+        }
+        
+        return maxProfit;
+    }     
 }
