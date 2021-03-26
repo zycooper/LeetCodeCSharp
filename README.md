@@ -1,6 +1,6 @@
 ## LeetCode Progress (out of first 400 problems)
 :arrow_lower_right::arrow_down::arrow_down::arrow_lower_left:<br>
-:arrow_right::two::four::arrow_left:<br>
+:arrow_right::two::seven::arrow_left:<br>
 :arrow_upper_right::arrow_up::arrow_up::arrow_upper_left:<br>
 ![6%](https://progress-bar.dev/6)<br>
 <br>
@@ -295,7 +295,7 @@
 |274|[H-Index](https://leetcode.com/problems/h-index/description/)|[Medium](./Array/274.H-Index.cs)|Array|2021-03-19|
 |275|[H-Index II](https://leetcode.com/problems/h-index-ii/description/)|[Medium](./Array/275.H-Index_II.cs)|Array|2021-03-19|
 |276|[Paint Fence](https://leetcode.com/problems/paint-fence/description/)|[Medium](./Dynamic_Programming/276.Paint_Fence.cs)|Dynamic Programming||
-|277|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/description/)|[Medium](./Array/277.Find_the_Celebrity.cs)|Array||
+|277|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/description/)|[Medium](./Array/277.Find_the_Celebrity.cs)|Array|2021-03-26|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/description/)|[Easy](./Array/278.First_Bad_Version.cs)|Array||
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/description/)|[Easy](./Binary_Search/278.First_Bad_Version.cs)|Binary Search||
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)|[Medium](./Dynamic_Programming/279.Perfect_Squares.cs)|Dynamic Programming||
@@ -306,7 +306,7 @@
 |284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/description/)|[Medium](./Design/284.Peeking_Iterator.cs)|Design||
 |285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/description/)|[Medium](./Tree/285.Inorder_Successor_in_BST.cs)|Tree||
 |286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/description/)|[Medium](./DFS&BFS/286.Walls_and_Gates.cs)|DFS&BFS||
-|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)|[Medium](./Array/287.Find_the_Duplicate_Number.cs)|Array||
+|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)|[Medium](./Array/287.Find_the_Duplicate_Number.cs)|Array|2021-03-26|
 |288|[Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/description/)|[Medium](./Design/288.Unique_Word_Abbreviation.cs)|Design||
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/description/)|[Medium](./Array/289.Game_of_Life.cs)|Array||
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/description/)|[Easy](./String/290.Word_Pattern.cs)|String||
@@ -355,7 +355,7 @@
 |331|[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/description/)|[Medium](./Tree/331.Verify_Preorder_Serialization_of_a_Binary_Tree.cs)|Tree||
 |332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/description/)|[Medium](./Stack&PriorityQueue/332.Reconstruct_Itinerary.cs)|Stack & Priority_Queue||
 |333|[Largest BST Subtree](https://leetcode.com/problems/largest-bst-subtree/description/)|[Medium](./Tree/333.Largest_BST_Subtree.cs)|Tree||
-|334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description/)|[Medium](./Array/334.Increasing_Triplet_Subsequence.cs)|Array||
+|334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description/)|[Medium](./Array/334.Increasing_Triplet_Subsequence.cs)|Array|2021-03-26|
 |335|[Self Crossing](https://leetcode.com/problems/self-crossing/description/)|[Hard](./Graph/335.Self_Crossing.cs)|Graph||
 |336|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/description/)|[Hard](./String/336.Palindrome_Pairs.cs)|String||
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/description/)|[Medium](./Tree/337.House_Robber_III.cs)|Tree||

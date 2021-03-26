@@ -4,7 +4,7 @@
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Easy](./Array/27.Remove_Element.cs)|Array|2021-03-16|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[Easy](./Array/26.Remove_Duplicates_from_Sorted_Array.cs)|Array|2021-03-16|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)|[Medium](./Array/80.Remove_Duplicates_from_Sorted_Array_II.cs)|Array|2021-03-16|
-|277|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/description/)|[Medium](./Array/277.Find_the_Celebrity.cs)|Array||
+|277|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/description/)|[Medium](./Array/277.Find_the_Celebrity.cs)|Array|2021-03-26|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/)|[Medium](./Array/189.Rotate_Array.cs)|Array|2021-03-17|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|[Hard](./Array/41.First_Missing_Positive.cs)|Array||
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[Medium](./Array/299.Bulls_and_Cows.cs)|Array|2021-03-18|
@@ -30,10 +30,10 @@
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/)|[Medium](./Array/309.Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.cs)|Array||
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)|[Medium](./Array/11.Container_With_Most_Water.cs)|Array|2021-03-25|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)|[Hard](./Array/42.Trapping_Rain_Water.cs)|Array||
-|334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description/)|[Medium](./Array/334.Increasing_Triplet_Subsequence.cs)|Array||
+|334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description/)|[Medium](./Array/334.Increasing_Triplet_Subsequence.cs)|Array|2021-03-26|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)|[Hard](./Array/128.Longest_Consecutive_Sequence.cs)|Array||
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/description/)|[Hard](./Array/164.Maximum_Gap.cs)|Array||
-|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)|[Medium](./Array/287.Find_the_Duplicate_Number.cs)|Array||
+|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)|[Medium](./Array/287.Find_the_Duplicate_Number.cs)|Array|2021-03-26|
 |135|[Candy](https://leetcode.com/problems/candy/description/)|[Hard](./Array/135.Candy.cs)|Array||
 |330|[Patching Array](https://leetcode.com/problems/patching-array/description/)|[Hard](./Array/330.Patching_Array.cs)|Array||
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)|[Hard](./Array/4.Median_of_Two_Sorted_Arrays.cs)|Array||
