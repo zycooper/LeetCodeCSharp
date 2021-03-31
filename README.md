@@ -1,8 +1,5 @@
 ## LeetCode Progress (out of first 400 problems)
-:arrow_lower_right::arrow_down::arrow_down::arrow_lower_left:<br>
-:arrow_right::two::eight::arrow_left:<br>
-:arrow_upper_right::arrow_up::arrow_up::arrow_upper_left:<br>
-<br>
+![](https://img.shields.io/badge/Submitted-28-orange)<br>
 ![6%](https://progress-bar.dev/6)<br>
 <br>
 [Submit queue](./Plan.md)<br>
