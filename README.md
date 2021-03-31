@@ -1,6 +1,6 @@
 ## LeetCode Progress (out of first 400 problems)
 :arrow_lower_right::arrow_down::arrow_down::arrow_lower_left:<br>
-:arrow_right::two::seven::arrow_left:<br>
+:arrow_right::two::eight::arrow_left:<br>
 :arrow_upper_right::arrow_up::arrow_up::arrow_upper_left:<br>
 <br>
 ![6%](https://progress-bar.dev/6)<br>
@@ -271,7 +271,7 @@
 |249|[Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/description/)|[Medium](./String/249.Group_Shifted_Strings.cs)|String||
 |250|[Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/description/)|[Medium](./Tree/250.Count_Univalue_Subtrees.cs)|Tree||
 |251|[Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/description/s)|[Medium](./Design/251.Flatten_2D_Vector.cs)|Design||
-|252|[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/description/)|[Easy](./Array/252.Meeting_Rooms.cs)|Array||
+|252|[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/description/)|[Easy](./Array/252.Meeting_Rooms.cs)|Array|2021-03-30|
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/description/)|[Medium](./Array/253.Meeting_Rooms_II.cs)|Array||
 |254|[Factor Combinations](https://leetcode.com/problems/factor-combinations/description/)|[Medium](./Backtracking/254.Factor_Combinations.cs)|Backtracking||
 |255|[Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/description/)|[Medium](./Tree/255.Verify_Preorder_Sequence_in_Binary_Search_Tree.cs)|Tree||
