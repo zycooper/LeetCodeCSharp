@@ -1,6 +1,6 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-28-orange)<br>
-![6%](https://progress-bar.dev/6)<br>
+![](https://img.shields.io/badge/Submitted-29-orange)<br>
+![7%](https://progress-bar.dev/7)<br>
 <br>
 [Submit queue](./Plan.md)<br>
 <br>
@@ -53,7 +53,7 @@
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/description/)|[Medium](./String/38.Count_and_Say.cs)|String||
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/description/)|[Medium](./Backtracking/39.Combination_Sum.cs)|Backtracking||
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)|[Medium](./Backtracking/40.Combination_Sum_II.cs)|Backtracking||
-|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|[Hard](./Array/41.First_Missing_Positive.cs)|Array||
+|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|[Hard](./Array/41.First_Missing_Positive.cs)|Array|2021-03-31|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)|[Hard](./Array/42.Trapping_Rain_Water.cs)|Array||
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)|[Medium](./Math/43.Multiply_Strings.cs)|Math||
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)|[Hard](./Dynamic_Programming/44.Wildcard_Matching.cs)|Dynamic Programming||

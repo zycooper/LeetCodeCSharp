@@ -6,7 +6,7 @@
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)|[Medium](./Array/80.Remove_Duplicates_from_Sorted_Array_II.cs)|Array|2021-03-16|
 |277|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/description/)|[Medium](./Array/277.Find_the_Celebrity.cs)|Array|2021-03-26|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/)|[Medium](./Array/189.Rotate_Array.cs)|Array|2021-03-17|
-|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|[Hard](./Array/41.First_Missing_Positive.cs)|Array||
+|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|[Hard](./Array/41.First_Missing_Positive.cs)|Array|2021-03-31|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[Medium](./Array/299.Bulls_and_Cows.cs)|Array|2021-03-18|
 |134|[Gas Station](https://leetcode.com/problems/gas-station/description/)|[Medium](./Array/134.Gas_Station.cs)|Array|2021-03-18|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)|[Easy](./Array/118.Pascal's_Triangle.cs)|Array|2021-03-18|
