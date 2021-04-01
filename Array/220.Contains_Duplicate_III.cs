@@ -42,12 +42,53 @@ public class Solution {
             else
             {
                 sortedSet.Add(nums[i]);
+
                 if (i >= k)
                 {                    
                     sortedSet.Remove(nums[i - k]);
                 }
             } 
         }
+        return false;
+    }
+
+    public bool ContainsNearbyAlmostDuplicate(int[] nums, int k, int t) {
+        // k is distance
+    // t is abs different
+        if(t < 0) return false;
+        
+        SortedSet<long> sets = new SortedSet<long>();
+        //loop through array nums and start place item in sorted set
+        for(int i = 0; i < nums.Length; i++)
+        {
+			//for t constrain
+			//GetViewBetween
+            //use long instead of int!!!!! because long value has larger maximun than int, if the nums[i] is more than the max int, the (long)nums[i] + t probablly will be negative
+            //int max -> 
+            //2147483647
+            //2147483640
+			int matchValueCount = sets.GetViewBetween((long)nums[i] - t, (long)nums[i] + t).Count;
+			if(matchValueCount > 0)
+			{
+				return true;
+			}
+			else
+			{
+				//for k constrain
+				//no current value in sort matches the current nums[i], add nums[i] 
+				sets.Add(nums[i]);
+				
+				//remove the value which is more than k far away
+				if(i >= k)
+				{
+					//since remove 1 item everytime with k distance, add first then remove, won't remove item from an empty sets
+					//even if there are several same values in the sets, since there is no match value in previous matchValueCount step, so all the values for nums[i-k] won't affect after remove
+					sets.Remove(nums[i-k]);
+				}
+			}
+			
+        }
+        
         return false;
     }
 }

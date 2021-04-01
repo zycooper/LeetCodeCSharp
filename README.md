@@ -1,5 +1,5 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-29-orange)<br>
+![](https://img.shields.io/badge/Submitted-30-orange)<br>
 ![7%](https://progress-bar.dev/7)<br>
 <br>
 [Submit queue](./Plan.md)<br>
@@ -236,7 +236,7 @@
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)|[Easy](./Array/217.Contains_Duplicate.cs)|Array|2021-03-22|
 |218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/)|[Hard](./Stack&PriorityQueue/218.The_Skyline_Problem.cs)|Stack & Priority_Queue||
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)|[Easy](./Array/219.Contains_Duplicate_II.cs)|Array|2021-03-22|
-|220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/)|[Medium](./Array/220.Contains_Duplicate_III.cs)|Array||
+|220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/)|[Medium](./Array/220.Contains_Duplicate_III.cs)|Array|2021-04-01|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/description/)|[Medium](./Dynamic_Programming/221.Maximal_Square.cs)|Dynamic Programming||
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/description/)|[Medium](./Tree/222.Count_Complete_Tree_Nodes.cs)|Tree||
 |223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/description/)|[Medium](./Graph/223.Rectangle_Area.cs)|Graph||

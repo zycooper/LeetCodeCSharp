@@ -20,7 +20,7 @@
 |245|[Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/description/)|[Medium](./Array/245.Shortest_Word_Distance_III.cs)|Array|2021-03-22|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)|[Easy](./Array/217.Contains_Duplicate.cs)|Array|2021-03-22|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)|[Easy](./Array/219.Contains_Duplicate_II.cs)|Array|2021-03-22|
-|220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/)|[Medium](./Array/220.Contains_Duplicate_III.cs)|Array||
+|220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/)|[Medium](./Array/220.Contains_Duplicate_III.cs)|Array|2021-04-01|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[Medium](./Array/55.Jump_Game.cs)|Array|2021-03-23|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)|[Medium](./Array/45.Jump_Game_II.cs)|Array|2021-03-23|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)|[Easy](./Array/121.Best_Time_to_Buy_and_Sell_Stock.cs)|Array|2021-03-24|
