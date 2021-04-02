@@ -57,8 +57,7 @@ public class Solution {
             l++;
             if(maxPrice < prices[r])
             {
-                maxPrice = prices[r];
-                
+                maxPrice = prices[r];                
             }
             r--;
             maxProfit = Math.Max(maxProfit, Math.Abs(prices[l] - prices[r]));
