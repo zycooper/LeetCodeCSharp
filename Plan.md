@@ -43,7 +43,7 @@
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/description/)|[Medium](./Array/57.Insert_Interval.cs)|Array||
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)|[Medium](./Array/56.Merge_Intervals.cs)|Array||
 |252|[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/description/)|[Easy](./Array/252.Meeting_Rooms.cs)|Array|2021-03-30|
-|253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/description/)|[Medium](./Array/253.Meeting_Rooms_II.cs)|Array||
+|253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/description/)|[Medium](./Array/253.Meeting_Rooms_II.cs)|Array|2021-04-07|
 |352|[Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/description/)|[Hard](./Array/352.Data_Stream_as_Disjoint_Intervals.cs)|Array||
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/)|[Hard](./Array/239.Sliding_Window_Maximum.cs)|Array||
 |295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/)|[Hard](./Array/295.Find_Median_from_Data_Stream.cs)|Array||
