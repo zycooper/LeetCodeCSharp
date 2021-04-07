@@ -35,11 +35,55 @@ public class Solution {
             }
         }
 
+        //not back
         return result;
     }
 
      public int MinMeetingRooms_1(int[][] intervals) 
      {
+        //Priority Queues or mean heap
+        [[1,2],[2,3],[3,4],[4,5],[5,6]]
+            
+     }  
 
-     }
+      public int MinMeetingRooms_2(int[][] intervals) 
+     {
+         /*
+         Runtime: 96 ms, faster than 98.75% of C# online submissions for Meeting Rooms II.
+         Memory Usage: 27.7 MB, less than 75.70% of C# online submissions for Meeting Rooms II.
+         */
+        //sort
+        //[[1,2],[2,3],[3,4],[4,5],[5,6]]
+
+        //define start and end point array
+        int[] Start = new int[intervals.Length];
+        int[] End = new int[intervals.Length];
+
+        //assign values to start and end point array        
+        for(int i =0; i < intervals.Length; i++)
+        {
+            Start[i] = intervals[i][0];
+            End[i] = intervals[i][1];
+        }
+
+        //sort start and end point array
+        Array.Sort(Start);
+        Array.Sort(End);
+
+        int MeetingRoomNum = 0;
+
+        for(int i =0, j=0; i < Start.Length;i++)
+        {
+            if(Start[i] < End[j])
+            {
+                MeetingRoomNum++;
+            }
+            else
+            {
+                j++;
+            }
+        }
+
+        return MeetingRoomNum;
+     }  
 }
