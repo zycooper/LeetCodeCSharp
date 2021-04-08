@@ -39,7 +39,7 @@
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)|[Hard](./Array/4.Median_of_Two_Sorted_Arrays.cs)|Array||
 |321|[Create Maximum Number](https://leetcode.com/problems/create-maximum-number/description/)|[Hard](./Array/321.Create_Maximum_Number.cs)|Array||
 |327|[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/description/)|[Hard](./Array/327.Count_of_Range_Sum.cs)|Array||
-|289|[Game of Life](https://leetcode.com/problems/game-of-life/description/)|[Medium](./Array/289.Game_of_Life.cs)|Array||
+|289|[Game of Life](https://leetcode.com/problems/game-of-life/description/)|[Medium](./Array/289.Game_of_Life.cs)|Array|2021-04-08|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/description/)|[Medium](./Array/57.Insert_Interval.cs)|Array||
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)|[Medium](./Array/56.Merge_Intervals.cs)|Array||
 |252|[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/description/)|[Easy](./Array/252.Meeting_Rooms.cs)|Array|2021-03-30|

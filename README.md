@@ -1,6 +1,6 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-31-orange)<br>
-![](https://progress-bar.dev/7)<br>
+![](https://img.shields.io/badge/Submitted-32-orange)<br>
+![](https://progress-bar.dev/8)<br>
 <br>
 [Submit queue](./Plan.md)<br>
 <br>
@@ -306,7 +306,7 @@
 |286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/description/)|[Medium](./DFS&BFS/286.Walls_and_Gates.cs)|DFS&BFS||
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)|[Medium](./Array/287.Find_the_Duplicate_Number.cs)|Array|2021-03-26|
 |288|[Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/description/)|[Medium](./Design/288.Unique_Word_Abbreviation.cs)|Design||
-|289|[Game of Life](https://leetcode.com/problems/game-of-life/description/)|[Medium](./Array/289.Game_of_Life.cs)|Array||
+|289|[Game of Life](https://leetcode.com/problems/game-of-life/description/)|[Medium](./Array/289.Game_of_Life.cs)|Array|2021-04-08|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/description/)|[Easy](./String/290.Word_Pattern.cs)|String||
 |291|[Word Pattern II](https://leetcode.com/problems/word-pattern-ii/description/)|[Medium](./Backtracking/291.Word_Pattern_II.cs)|Backtracking||
 |292|[Nim Game](https://leetcode.com/problems/nim-game/description/)|[Easy](./Math/292.Nim_Game.cs)|Math||
