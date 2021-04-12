@@ -40,9 +40,13 @@ Greedy problems usually look like "Find minimum number of something to do someth
 
 class Solution {
   public int[][] insert(int[][] intervals, int[] newInterval) {
+    /*below is official solution*/
+    
     // init data
-    int newStart = newInterval[0], newEnd = newInterval[1];
-    int idx = 0, n = intervals.length;
+    int newStart = newInterval[0];
+    int newEnd = newInterval[1];
+    int idx = 0;
+    int n = intervals.length;
     LinkedList<int[]> output = new LinkedList<int[]>();
 
     // add all intervals starting before newInterval
@@ -56,6 +60,7 @@ class Solution {
       output.add(newInterval);
     // if there is an overlap, merge with the last interval
     else {
+      //output.removeLast(); returns the last element of the linked list and the origin linked list will remove this element
       interval = output.removeLast();
       interval[1] = Math.max(interval[1], newEnd);
       output.add(interval);
@@ -115,5 +120,58 @@ public class Solution {
                 //
             }
         }
+    }
+    public int[][] Insert_discussion_solution(int[][] intervals, int[] newInterval) 
+    {
+        List<int[]> res = new List<int[]>();
+        int i = 0;
+        
+        for (;i < intervals.Length && intervals[i][1] < newInterval[0]; i++)
+            res.Add(intervals[i]);
+        
+        for (;i < intervals.Length && newInterval[0] <= intervals[i][1] && newInterval[1] >= intervals[i][0]; i++)
+            newInterval = new int[] { Math.Min(intervals[i][0], newInterval[0]), Math.Max(intervals[i][1], newInterval[1]) };
+        
+        res.Add(newInterval);
+        
+        for (;i < intervals.Length; i++)
+                res.Add(intervals[i]);
+        
+        return res.ToArray();
+    }
+
+    public int[][] Insert_own_version(int[][] intervals, int[] newInterval)
+    {
+      /*
+      Runtime: 244 ms, faster than 96.10% of C# online submissions for Insert Interval.
+      Memory Usage: 33.8 MB, less than 93.04% of C# online submissions for Insert Interval.
+      */
+      List<int[]> Result = new List<int[]>();
+      int index = 0;
+      
+      //only loop through intervals once, but in three section maxium
+
+      //before first overlap occured
+      for(;index < intervals.Length && intervals[index][1] < newInterval[0]; index++)
+      {
+        Result.Add(intervals[index]);
+      }
+
+      //overlap happens, keep updating the newInterval to include all the overlaps intervals[index]
+      //the interfier condistion I made a mistake, it was intervals[index][0] <= newInterval[0] && intervals[index][1] >= newInterval[1] and in this situation it won't interfier
+      for(; index < intervals.Length && intervals[index][1] >= newInterval[0] && intervals[index][0] <= newInterval[1]; index++)
+      {
+        newInterval = new int[2]{Math.Min(intervals[index][0],newInterval[0]), Math.Max(intervals[index][1],newInterval[1])};
+      }
+
+      Result.Add(newInterval);
+
+      for(; index < intervals.Length; index++)
+      {
+        //rest of intervals
+        Result.Add(intervals[index]);
+      }
+
+      return Result.ToArray();
     }
 }
