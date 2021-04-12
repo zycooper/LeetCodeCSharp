@@ -1,5 +1,5 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-36-orange)<br>
+![](https://img.shields.io/badge/Submitted-38-orange)<br>
 ![](https://progress-bar.dev/9)<br>
 <br>
 [Submit queue](./Plan.md)<br>
@@ -225,7 +225,7 @@
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)|[Easy](./LinkedList/206.Reverse_Linked_List.cs)|LinkedList||
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/description/)|[Medium](./Topological_Sort/207.Course_Schedule.cs)|Topological Sort||
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)|[Medium](./Trie/208.Implement_Trie_(Prefix_Tree).cs)|Trie||
-|209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)|[Medium](./Array/209.Minimum_Size_Subarray_Sum.cs)|Array||
+|209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)|[Medium](./Array/209.Minimum_Size_Subarray_Sum.cs)|Array|2021-04-12|
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)|[Medium](./Topological_Sort/210.Course_Schedule_II.cs)|Topological Sort||
 |211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/description/)|[Medium](./Trie/211.Add_and_Search_Word_Data_structure_design.cs)|Trie||
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/description/)|[Hard](./Trie/212.Word_Search_II.cs)|Trie||
@@ -254,7 +254,7 @@
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)|[Easy](./Tree/235.Lowest_Common_Ancestor_of_a_Binary_Search_Tree.cs)|Tree||
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)|[Medium](./Tree/236.Lowest_Common_Ancestor_of_a_Binary_Tree.cs)|Tree||
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)|[Easy](./LinkedList/237.Delete_Node_in_a_Linked_List.cs)|LinkedList||
-|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)|[Medium](./Array/238.Product_of_Array_Except_Self.cs)|Array||
+|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)|[Medium](./Array/238.Product_of_Array_Except_Self.cs)|Array|2021-04-12|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/)|[Hard](./Array/239.Sliding_Window_Maximum.cs)|Array||
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)|[Medium](./Matrix/240.Search_a_2D_Matrix_II.cs)|Matrix||
 |241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/description/)|[Medium](./String/241.Different_Ways_to_Add_Parentheses.cs)|String||

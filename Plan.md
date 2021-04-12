@@ -49,8 +49,8 @@
 |295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/)|[Hard](./Array/295.Find_Median_from_Data_Stream.cs)|Array||
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[Easy](./Array/53.Maximum_Subarray.cs)|Array|2021-04-12|
 |325|[Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)|[Medium](./Array/325.Maximum_Size_Subarray_Sum_Equals_k.cs)|Array|2021-04-12|
-|209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)|[Medium](./Array/209.Minimum_Size_Subarray_Sum.cs)|Array||
-|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)|[Medium](./Array/238.Product_of_Array_Except_Self.cs)|Array||
+|209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)|[Medium](./Array/209.Minimum_Size_Subarray_Sum.cs)|Array|2021-04-12|
+|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)|[Medium](./Array/238.Product_of_Array_Except_Self.cs)|Array|2021-04-12|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)|[Medium](./Array/152.Maximum_Product_Subarray.cs)|Array||
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/description/)|[Easy](./Array/228.Summary_Ranges.cs)|Array||
 |163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/description/)|[Easy](./Array/163.Missing_Ranges.cs)|Array||
