@@ -1,5 +1,5 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-32-orange)<br>
+![](https://img.shields.io/badge/Submitted-35-orange)<br>
 ![](https://progress-bar.dev/8)<br>
 <br>
 [Submit queue](./Plan.md)<br>
@@ -65,11 +65,11 @@
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/)|[Medium](./Math/50.Pow(x,_n).cs)|Math||
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)|[Hard](./DFS&BFS/51.N-Queens.cs)|DFS&BFS||
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/description/)|[Hard](./DFS&BFS/52.N-Queens_II.cs)|DFS&BFS||
-|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[Easy](./Array/53.Maximum_Subarray.cs)|Array||
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[Easy](./Array/53.Maximum_Subarray.cs)|Array|2021-04-12|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)|[Medium](./Matrix/54.Spiral_Matrix.cs)|Matrix||
 |55|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[Medium](./Array/55.Jump_Game.cs)|Array|2021-03-23|
-|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)|[Medium](./Array/56.Merge_Intervals.cs)|Array||
-|57|[Insert Interval](https://leetcode.com/problems/insert-interval/description/)|[Medium](./Array/57.Insert_Interval.cs)|Array||
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)|[Medium](./Array/56.Merge_Intervals.cs)|Array|2021-04-12|
+|57|[Insert Interval](https://leetcode.com/problems/insert-interval/description/)|[Medium](./Array/57.Insert_Interval.cs)|Array|2021-04-12|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)|[Easy](./String/58.Length_of_Last_Word.cs)|String||
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/)|[Medium](./Matrix/59.Spiral_Matrix_II.cs)|Matrix||
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/)|[Hard](./Backtracking/60.Permutation_Sequence.cs)|Backtracking||

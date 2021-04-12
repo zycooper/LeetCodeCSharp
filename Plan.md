@@ -40,14 +40,14 @@
 |321|[Create Maximum Number](https://leetcode.com/problems/create-maximum-number/description/)|[Hard](./Array/321.Create_Maximum_Number.cs)|Array||
 |327|[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/description/)|[Hard](./Array/327.Count_of_Range_Sum.cs)|Array||
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/description/)|[Medium](./Array/289.Game_of_Life.cs)|Array|2021-04-08|
-|57|[Insert Interval](https://leetcode.com/problems/insert-interval/description/)|[Medium](./Array/57.Insert_Interval.cs)|Array||
-|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)|[Medium](./Array/56.Merge_Intervals.cs)|Array||
+|57|[Insert Interval](https://leetcode.com/problems/insert-interval/description/)|[Medium](./Array/57.Insert_Interval.cs)|Array|2021-04-12|
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)|[Medium](./Array/56.Merge_Intervals.cs)|Array|2021-04-12|
 |252|[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/description/)|[Easy](./Array/252.Meeting_Rooms.cs)|Array|2021-03-30|
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/description/)|[Medium](./Array/253.Meeting_Rooms_II.cs)|Array|2021-04-07|
 |352|[Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/description/)|[Hard](./Array/352.Data_Stream_as_Disjoint_Intervals.cs)|Array||
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/)|[Hard](./Array/239.Sliding_Window_Maximum.cs)|Array||
 |295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/)|[Hard](./Array/295.Find_Median_from_Data_Stream.cs)|Array||
-|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[Easy](./Array/53.Maximum_Subarray.cs)|Array||
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[Easy](./Array/53.Maximum_Subarray.cs)|Array|2021-04-12|
 |325|[Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)|[Medium](./Array/325.Maximum_Size_Subarray_Sum_Equals_k.cs)|Array||
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)|[Medium](./Array/209.Minimum_Size_Subarray_Sum.cs)|Array||
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)|[Medium](./Array/238.Product_of_Array_Except_Self.cs)|Array||
