@@ -1,4 +1,3 @@
-<--- Edit on 03/11/2021 --->
 | # | Title | Difficulty | Category | Submit |
 |---| ----- | ---------- | -------- | ------ |
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Easy](./Array/27.Remove_Element.cs)|Array|2021-03-16|
