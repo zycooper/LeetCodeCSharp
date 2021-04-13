@@ -52,8 +52,8 @@
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)|[Medium](./Array/209.Minimum_Size_Subarray_Sum.cs)|Array|2021-04-12|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)|[Medium](./Array/238.Product_of_Array_Except_Self.cs)|Array|2021-04-12|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)|[Medium](./Array/152.Maximum_Product_Subarray.cs)|Array|2021-04-12|
-|228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/description/)|[Easy](./Array/228.Summary_Ranges.cs)|Array||
-|163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/description/)|[Easy](./Array/163.Missing_Ranges.cs)|Array||
+|228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/description/)|[Easy](./Array/228.Summary_Ranges.cs)|Array|2021-04-13|
+|163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/description/)|[Easy](./Array/163.Missing_Ranges.cs)|Array|2021-04-13|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)|[Easy](./Array/88.Merge_Sorted_Array.cs)|Array||
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/description/)|[Medium](./Array/75.Sort_Colors.cs)|Array||
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)|[Easy](./Array/283.Move_Zeroes.cs)|Array||

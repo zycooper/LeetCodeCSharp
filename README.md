@@ -1,6 +1,6 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-39-orange)<br>
-![](https://progress-bar.dev/9)<br>
+![](https://img.shields.io/badge/Submitted-41-orange)<br>
+![](https://progress-bar.dev/10)<br>
 <br>
 [Submit queue](./Plan.md)<br>
 <br>
@@ -179,7 +179,7 @@
 |161|[One Edit Distance](https://leetcode.com/problems/one-edit-distance/)|[Medium](./String/161.One_Edit_Distance.cs)|String||
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)|[Medium](./Array/162.Find_Peak_Element.cs)|Array||
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)|[Medium](./Binary_Search/162.Find_Peak_Element.cs)|Binary Search||
-|163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/description/)|[Easy](./Array/163.Missing_Ranges.cs)|Array||
+|163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/description/)|[Easy](./Array/163.Missing_Ranges.cs)|Array|2021-04-13|
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/description/)|[Hard](./Array/164.Maximum_Gap.cs)|Array||
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/)|[Medium](./Math/165.Compare_Version_Numbers.cs)|Math||
 |166|[Fraction to Recurring Decimal    ]()|[Medium](./UnCategory/166.Fraction_to_Recurring_Decimal.cs)|UnCategory||
@@ -244,7 +244,7 @@
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/)|[Easy](./Stack&PriorityQueue/225.Implement_Stack_using_Queues.cs)|Stack & Priority_Queue||
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)|[Easy](./Tree/226.Invert_Binary_Tree.cs)|Tree||
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/description/)|[Medium](./Stack&PriorityQueue/227.Basic_Calculator_II.cs)|Stack & Priority_Queue||
-|228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/description/)|[Easy](./Array/228.Summary_Ranges.cs)|Array||
+|228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/description/)|[Easy](./Array/228.Summary_Ranges.cs)|Array|2021-04-13|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/description/)|[Medium](./Array/229.Majority_Element_II.cs)|Array|2021-03-19|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)|[Medium](./Tree/230.Kth_Smallest_Element_in_a_BST.cs)|Tree||
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/description/)|[Easy](./Math/231.Power_of_Two.cs)|Math||
