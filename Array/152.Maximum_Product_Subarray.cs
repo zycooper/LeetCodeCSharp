@@ -36,6 +36,7 @@ The product of any prefix or suffix of nums is guaranteed to fit in a 32-bit int
      public int MaxProduct(int[] nums) {
 
        //need to add one more param min_curr since the negative could be maximum if product by another negative
+       //??
         int[] max_cur = new int[nums.Length];
         int[] min_cur = new int[nums.Length];
 
