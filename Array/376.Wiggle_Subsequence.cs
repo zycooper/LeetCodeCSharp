@@ -29,7 +29,7 @@ Constraints:
 */
 
  /********************************************************************************
- Attampt Times: 1
+ Attampt Times: 2
  *********************************************************************************
  Time Range:
  From: 2021-04-14 09:49
@@ -38,6 +38,10 @@ Constraints:
  Submission Result:
     Runtime: 92 ms, faster than 41.10% of C# online submissions for Wiggle Subsequence.
     Memory Usage: 24.9 MB, less than 7.02% of C# online submissions for Wiggle Subsequence.
+
+    DP:
+    Runtime: 80 ms, faster than 98.00% of C# online submissions for Wiggle Subsequence.
+    Memory Usage: 24.6 MB, less than 29.82% of C# online submissions for Wiggle Subsequence.
  *********************************************************************************
  Note: 
 1st try use greedy, need to use int diff instead of positive or negative
@@ -45,7 +49,27 @@ in the if, > and <= or < and <= will count something like 1,0,0,1 as one not two
 since i starts from 2, and cur_wiggle_len initial as 1, so at last the cur_wiggle_len should count as +1
  *********************************************************************************/
 public class Solution {         
+    //typical dp, up and down was two array to store up and down, but actually each one stores a convert point
+    public int WiggleMaxLength_dp(int[] nums) {
+       if(nums.Length < 2){return nums.Length;;}
 
+       int up = 1;
+       int down = 1;
+
+       for(int i = 1; i < nums.Length; i++)
+       {
+           if(nums[i] > nums[i - 1])
+           {
+               up = down + 1;
+           }
+           else if(nums[i] < nums[i - 1])
+           {
+               down = up + 1;
+           }
+       }
+
+       return Math.Max(down, up);
+    }
     public int WiggleMaxLength(int[] nums) {
         if(nums.Length <= 1){return nums.Length;}
         
