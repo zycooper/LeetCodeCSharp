@@ -11,3 +11,6 @@ Major Data Structure:
 https://towardsdatascience.com/8-common-data-structures-every-programmer-must-know-171acf6a1a42
 
 https://www.cnblogs.com/gaochundong/p/algorithmic_paradigms.html
+
+二分搜索法小结:
+https://www.cnblogs.com/grandyang/p/6854825.html
