@@ -21,8 +21,8 @@ It is guaranteed that there will be an answer for the given input nums.
  Attampt Times: 0
  *********************************************************************************
  Time Range:
- From: 
- To: 
+ From: 2021-04-14 14:31
+ To: 2021-04-14 14:31
  *********************************************************************************
  Submission Result:
 
@@ -32,6 +32,26 @@ It is guaranteed that there will be an answer for the given input nums.
  *********************************************************************************/
 public class Solution {
     public void WiggleSort(int[] nums) {
+        if(nums.Length <= 1){return;}
+
+        Array.Sort(nums);       
         
+        int k = (int)Math.Ceiling((double)nums.Length/(double)2);
+        int[] small = nums.Take(k).ToArray();
+        int[] large = nums.Skip(k).ToArray();
+
+        for(int i = 1; i < nums.Length; i++)
+        {
+            if(i%2 ==0)
+            {
+                //even
+                nums[i] = small[i/2];
+            }
+            else
+            {
+                //odd
+                nums[i] = large[(i-1)/2];
+            }
+        }
     }
 }
