@@ -54,12 +54,12 @@
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/description/)|[Easy](./Array/228.Summary_Ranges.cs)|Array|2021-04-13|
 |163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/description/)|[Easy](./Array/163.Missing_Ranges.cs)|Array|2021-04-13|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)|[Easy](./Array/88.Merge_Sorted_Array.cs)|Array|2021-04-13|
-|75|[Sort Colors](https://leetcode.com/problems/sort-colors/description/)|[Medium](./Array/75.Sort_Colors.cs)|Array||
-|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)|[Easy](./Array/283.Move_Zeroes.cs)|Array||
-|376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/description/)|[Medium](./Array/376.Wiggle_Subsequence.cs)|Array||
-|280|[Wiggle Sort](https://leetcode.com/problems/wiggle-sort/description/)|[Medium](./Array/280.Wiggle_Sort.cs)|Array||
-|324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/description/)|[Medium](./Array/324.Wiggle_Sort_II.cs)|Array||
-|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/description/)|[Easy](./Array/278.First_Bad_Version.cs)|Array||
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors/description/)|[Medium](./Array/75.Sort_Colors.cs)|Array|2021-04-14|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)|[Easy](./Array/283.Move_Zeroes.cs)|Array|2021-04-14|
+|376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/description/)|[Medium](./Array/376.Wiggle_Subsequence.cs)|Array|2021-04-14|
+|280|[Wiggle Sort](https://leetcode.com/problems/wiggle-sort/description/)|[Medium](./Array/280.Wiggle_Sort.cs)|Array|2021-04-14|
+|324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/description/)|[Medium](./Array/324.Wiggle_Sort_II.cs)|Array|Hold|
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/description/)|[Easy](./Array/278.First_Bad_Version.cs)|Array|2021-04-14|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|[Easy](./Array/35.Search_Insert_Position.cs)|Array||
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[Medium](./Array/33.Search_in_Rotated_Sorted_Array.cs)|Array||
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)|[Medium](./Array/81.Search_in_Rotated_Sorted_Array_II.cs)|Array||

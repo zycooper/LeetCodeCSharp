@@ -1,6 +1,6 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-42-orange)<br>
-![](https://progress-bar.dev/10)<br>
+![](https://img.shields.io/badge/Submitted-47-orange)<br>
+![](https://progress-bar.dev/11)<br>
 <br>
 [Submit queue](./Plan.md)<br>
 <br>
@@ -87,7 +87,7 @@
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/description/)|[Hard](./Dynamic_Programming/72.Edit_Distance.cs)|Dynamic Programming||
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)|[Medium](./Matrix/73.Set_Matrix_Zeroes.cs)|Matrix||
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)|[Medium](./Matrix/74.Search_a_2D_Matrix.cs)|Matrix||
-|75|[Sort Colors](https://leetcode.com/problems/sort-colors/description/)|[Medium](./Array/75.Sort_Colors.cs)|Array||
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors/description/)|[Medium](./Array/75.Sort_Colors.cs)|Array|2021-04-14|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)|[Hard](./String/76.Minimum_Window_Substring.cs)|String||
 |77|[Combinations](https://leetcode.com/problems/combinations/description/)|[Medium](./Backtracking/77.Combinations.cs)|Backtracking||
 |78|[Subsets](https://leetcode.com/problems/subsets/description/)|[Medium](./Backtracking/78.Subsets.cs)|Backtracking||
@@ -294,13 +294,13 @@
 |275|[H-Index II](https://leetcode.com/problems/h-index-ii/description/)|[Medium](./Array/275.H-Index_II.cs)|Array|2021-03-19|
 |276|[Paint Fence](https://leetcode.com/problems/paint-fence/description/)|[Medium](./Dynamic_Programming/276.Paint_Fence.cs)|Dynamic Programming||
 |277|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/description/)|[Medium](./Array/277.Find_the_Celebrity.cs)|Array|2021-03-26|
-|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/description/)|[Easy](./Array/278.First_Bad_Version.cs)|Array||
-|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/description/)|[Easy](./Binary_Search/278.First_Bad_Version.cs)|Binary Search||
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/description/)|[Easy](./Array/278.First_Bad_Version.cs)|Array|2021-04-14|
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/description/)|[Easy](./Binary_Search/278.First_Bad_Version.cs)|Binary Search|2021-04-14|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)|[Medium](./Dynamic_Programming/279.Perfect_Squares.cs)|Dynamic Programming||
-|280|[Wiggle Sort](https://leetcode.com/problems/wiggle-sort/description/)|[Medium](./Array/280.Wiggle_Sort.cs)|Array||
+|280|[Wiggle Sort](https://leetcode.com/problems/wiggle-sort/description/)|[Medium](./Array/280.Wiggle_Sort.cs)|Array|2021-04-14|
 |281|[Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator/description/)|[Medium](./Design/281.Zigzag_Iterator.cs)|Design||
 |282|[Expression Add Operators](https://leetcode.com/problems/expression-add-operators/description/)|[Hard](./Backtracking/282.Expression_Add_Operators.cs)|Backtracking||
-|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)|[Easy](./Array/283.Move_Zeroes.cs)|Array||
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)|[Easy](./Array/283.Move_Zeroes.cs)|Array|2021-04-14|
 |284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/description/)|[Medium](./Design/284.Peeking_Iterator.cs)|Design||
 |285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/description/)|[Medium](./Tree/285.Inorder_Successor_in_BST.cs)|Tree||
 |286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/description/)|[Medium](./DFS&BFS/286.Walls_and_Gates.cs)|DFS&BFS||
@@ -343,7 +343,7 @@
 |321|[Create Maximum Number](https://leetcode.com/problems/create-maximum-number/description/)|[Hard](./Array/321.Create_Maximum_Number.cs)|Array||
 |322|[Coin Change](https://leetcode.com/problems/coin-change/description/)|[Medium](./Dynamic_Programming/322.Coin_Change.cs)|Dynamic Programming||
 |323|[Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/)|[Medium](./Union_Find/323.Number_of_Connected_Components_in_an_Undirected_Graph.cs)|Union Find||
-|324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/description/)|[Medium](./Array/324.Wiggle_Sort_II.cs)|Array||
+|324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/description/)|[Medium](./Array/324.Wiggle_Sort_II.cs)|Array|Hold|
 |325|[Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)|[Medium](./Array/325.Maximum_Size_Subarray_Sum_Equals_k.cs)|Array|2021-04-12|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/description/)|[Easy](./Math/326.Power_of_Three.cs)|Math||
 |327|[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/description/)|[Hard](./Array/327.Count_of_Range_Sum.cs)|Array||
@@ -399,7 +399,7 @@
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[Easy](./Array/374.Guess_Number_Higher_or_Lower.cs)|Array||
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[Easy](./Binary_Search/374.Guess_Number_Higher_or_Lower.cs)|Binary Search||
 |375|[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/description/)|[Medium](./Dynamic_Programming/375.Guess_Number_Higher_or_Lower_II.cs)|Dynamic Programming||
-|376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/description/)|[Medium](./Array/376.Wiggle_Subsequence.cs)|Array||
+|376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/description/)|[Medium](./Array/376.Wiggle_Subsequence.cs)|Array|2021-04-14|
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/)|[Medium](./Backtracking/377.Combination_Sum_IV.cs)|Backtracking||
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/)|[Medium](./Matrix/378.Kth_Smallest_Element_in_a_Sorted_Matrix.cs)|Matrix||
 |379|[Design Phone Directory](https://leetcode.com/problems/design-phone-directory/description/)|[Medium](./Design/379.Design_Phone_Directory.cs)|Design||
