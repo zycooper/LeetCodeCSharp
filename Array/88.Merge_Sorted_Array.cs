@@ -31,7 +31,9 @@ Runtime: 232 ms, faster than 84.85% of C# online submissions for Merge Sorted Ar
 Memory Usage: 31.2 MB, less than 18.72% of C# online submissions for Merge Sorted Array.
  *********************************************************************************
  Note: 
-
+  //because nums1 is the array which will be merged into, so check nums1_index along with nums1[i] with nums2[i]
+  //if last number is in nums2, so nums1_index will be negative since the last one in nums_index has already been placed in the right place
+  //then the last number in nums2 automatically goes to the first place
  *********************************************************************************/
 public class Solution {
     public void Merge(int[] nums1, int m, int[] nums2, int n) {
@@ -56,9 +58,12 @@ public class Solution {
 
         while(k >=0)
         {
+            //because nums1 is the array which will be merged into, so check nums1_index along with nums1[i] with nums2[i]
+            //if last number is in nums2, so nums1_index will be negative since the last one in nums_index has already been placed in the right place
+            //then the last number in nums2 automatically goes to the first place
             if(nums2_index < 0){ break;}
 
-            if(nums1_index >=0 && nums1[nums1_index] > nums2[nums2_index])
+            if(nums1_index >= 0 && nums1[nums1_index] > nums2[nums2_index])
             {
                 nums1[k] = nums1[nums1_index--];
             }
