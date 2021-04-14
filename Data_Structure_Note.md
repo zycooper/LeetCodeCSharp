@@ -14,3 +14,4 @@ https://www.cnblogs.com/gaochundong/p/algorithmic_paradigms.html
 
 二分搜索法小结:
 https://www.cnblogs.com/grandyang/p/6854825.html
+https://www.cnblogs.com/grandyang/p/4606334.html

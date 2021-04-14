@@ -23,8 +23,8 @@ nums is guaranteed to be rotated at some pivot.
  Attampt Times: 0
  *********************************************************************************
  Time Range:
- From: 
- To: 
+ From: 2021-04-14 16:41
+ To:  2021-04-14 16:41
  *********************************************************************************
  Submission Result:
 
@@ -34,6 +34,40 @@ nums is guaranteed to be rotated at some pivot.
  *********************************************************************************/
 public class Solution {
     public bool Search(int[] nums, int target) {
-        
+        int left = 0;
+        int right = nums.Length - 1;
+
+        while(left <= right)
+        {
+            int mid = left + (right - left)/2;
+            if(nums[mid] == target){ return true;}
+
+            if(nums[mid] < nums[right])
+            {
+                //right part is sorted
+                if(nums[mid] < target && target <= nums[right])
+                {
+                    left = mid + 1;
+                }
+                else
+                {
+                    right = mid - 1;
+                }
+            }
+            else
+            {
+                //left part is sorted
+                if(nums[mid] > target && nums[left] <= target)
+                {
+                    right = mid - 1;
+                }
+                else
+                {
+                    left = mid + 1;
+                }
+            }
+        }
+
+        return false;
     }
 }
