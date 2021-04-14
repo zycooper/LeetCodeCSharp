@@ -41,8 +41,10 @@ Constraints:
  *********************************************************************************
  Note: 
 1st try use greedy, need to use int diff instead of positive or negative
+in the if, > and <= or < and <= will count something like 1,0,0,1 as one not two.
+since i starts from 2, and cur_wiggle_len initial as 1, so at last the cur_wiggle_len should count as +1
  *********************************************************************************/
-public class Solution {
+public class Solution {         
 
     public int WiggleMaxLength(int[] nums) {
         if(nums.Length <= 1){return nums.Length;}
