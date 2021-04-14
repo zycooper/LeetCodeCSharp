@@ -53,7 +53,7 @@
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)|[Medium](./Array/152.Maximum_Product_Subarray.cs)|Array|2021-04-12|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/description/)|[Easy](./Array/228.Summary_Ranges.cs)|Array|2021-04-13|
 |163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/description/)|[Easy](./Array/163.Missing_Ranges.cs)|Array|2021-04-13|
-|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)|[Easy](./Array/88.Merge_Sorted_Array.cs)|Array||
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)|[Easy](./Array/88.Merge_Sorted_Array.cs)|Array|2021-04-13|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/description/)|[Medium](./Array/75.Sort_Colors.cs)|Array||
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)|[Easy](./Array/283.Move_Zeroes.cs)|Array||
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/description/)|[Medium](./Array/376.Wiggle_Subsequence.cs)|Array||

@@ -1,5 +1,5 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-41-orange)<br>
+![](https://img.shields.io/badge/Submitted-42-orange)<br>
 ![](https://progress-bar.dev/10)<br>
 <br>
 [Submit queue](./Plan.md)<br>
@@ -101,7 +101,7 @@
 |85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/)|[Hard](./Dynamic_Programming/85.Maximal_Rectangle.cs)|Dynamic Programming||
 |86|[Partition List](https://leetcode.com/problems/partition-list/description/)|[Medium](./LinkedList/86.Partition_List.cs)|LinkedList||
 |87|[Scramble String](https://leetcode.com/problems/scramble-string/description/)|[Hard](./String/87.Scramble_String.cs)|String||
-|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)|[Easy](./Array/88.Merge_Sorted_Array.cs)|Array||
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)|[Easy](./Array/88.Merge_Sorted_Array.cs)|Array|2021-04-13|
 |89|[Gray Code](https://leetcode.com/problems/gray-code/description/)|[Medium](./Bit_Manipulation/89.Gray_Code.cs)|Bit Manipulation||
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/description/)|[Medium](./Backtracking/90.Subsets_II.cs)|Backtracking||
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/description/)|[Medium](./Dynamic_Programming/91.Decode_Ways.cs)|Dynamic Programming||
