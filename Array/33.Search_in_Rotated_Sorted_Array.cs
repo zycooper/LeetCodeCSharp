@@ -31,16 +31,51 @@ nums is guaranteed to be rotated at some pivot.
  *********************************************************************************
  Time Range:
  From: 2021-04-14 16:16
- To: 2021-04-14 16:16
+ To: 2021-04-14 16:40
  *********************************************************************************
  Submission Result:
-
+    Runtime: 84 ms, faster than 97.44% of C# online submissions for Search in Rotated Sorted Array.
+    Memory Usage: 25.4 MB, less than 32.58% of C# online submissions for Search in Rotated Sorted Array.
  *********************************************************************************
  Note: 
-
+https://www.cnblogs.com/grandyang/p/4325648.html
  *********************************************************************************/
 public class Solution {
     public int Search(int[] nums, int target) {
-        
+        int left = 0;
+        int right = nums.Length - 1;
+
+        while(left <= right)
+        {
+            int mid = left + (right - left)/2;
+            if(nums[mid] == target){ return mid;}
+
+            if(nums[mid] < nums[right])
+            {
+                //right part is sorted
+                if(nums[mid] < target && target <= nums[right])
+                {
+                    left = mid + 1;
+                }
+                else
+                {
+                    right = mid - 1;
+                }
+            }
+            else
+            {
+                //left part is sorted
+                if(nums[mid] > target && nums[left] <= target)
+                {
+                    right = mid - 1;
+                }
+                else
+                {
+                    left = mid + 1;
+                }
+            }
+        }
+
+        return -1;
     }
 }
