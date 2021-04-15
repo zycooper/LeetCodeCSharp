@@ -1,6 +1,6 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-55-orange)<br>
-![](https://progress-bar.dev/13)<br>
+![](https://img.shields.io/badge/Submitted-56-orange)<br>
+![](https://progress-bar.dev/14)<br>
 <br>
 [Submit queue](./Plan.md)<br>
 <br>
@@ -166,8 +166,8 @@
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)|[Medium](./Stack&PriorityQueue/150.Evaluate_Reverse_Polish_Notation.cs)|Stack & Priority_Queue||
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/)|[Medium](./String/151.Reverse_Words_in_a_String.cs)|String||
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)|[Medium](./Array/152.Maximum_Product_Subarray.cs)|Array|2021-04-12|
-|153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)|[Medium](./Array/153.Find_Minimum_in_Rotated_Sorted_Array.cs)|Array||
-|153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)|[Medium](./Binary_Search/153.Find_Minimum_in_Rotated_Sorted_Array.cs)|Binary Search||
+|153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)|[Medium](./Array/153.Find_Minimum_in_Rotated_Sorted_Array.cs)|Array|2021-04-15|
+|153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)|[Medium](./Binary_Search/153.Find_Minimum_in_Rotated_Sorted_Array.cs)|Binary Search|2021-04-15|
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/)|[Hard](./Array/154.Find_Minimum_in_Rotated_Sorted_Array_II.cs)|Array||
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/)|[Hard](./Binary_Search/154.Find_Minimum_in_Rotated_Sorted_Array_II.cs)|Binary Search||
 |155|[Min Stack](https://leetcode.com/problems/min-stack/description/)|[Easy](./Stack&PriorityQueue/155.Min_Stack.cs)|Stack & Priority_Queue||
