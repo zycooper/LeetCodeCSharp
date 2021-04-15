@@ -27,10 +27,11 @@ nums is guaranteed to be rotated at some pivot.
  To:  2021-04-14 16:41
  *********************************************************************************
  Submission Result:
-
+Runtime: 96 ms, faster than 59.12% of C# online submissions for Search in Rotated Sorted Array II.
+Memory Usage: 25.8 MB, less than 78.62% of C# online submissions for Search in Rotated Sorted Array II.
  *********************************************************************************
  Note: 
-
+only different is the right--, when nums[mid] == nums[right], move right index to left, and keep going, until there is equal one
  *********************************************************************************/
 public class Solution {
     public bool Search(int[] nums, int target) {
@@ -54,7 +55,7 @@ public class Solution {
                     right = mid - 1;
                 }
             }
-            else
+            else if(nums[mid] > nums[right])
             {
                 //left part is sorted
                 if(nums[mid] > target && nums[left] <= target)
@@ -65,6 +66,10 @@ public class Solution {
                 {
                     left = mid + 1;
                 }
+            }
+            else
+            {
+                right--;
             }
         }
 
