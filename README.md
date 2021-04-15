@@ -1,6 +1,6 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-47-orange)<br>
-![](https://progress-bar.dev/11)<br>
+![](https://img.shields.io/badge/Submitted-50-orange)<br>
+![](https://progress-bar.dev/12)<br>
 <br>
 [Submit queue](./Plan.md)<br>
 <br>
@@ -42,11 +42,11 @@
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/)|[Hard](./String/30.Substring_with_Concatenation_of_All_Words.cs)|String||
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/description/)|[Medium](./Backtracking/31.Next_Permutation.cs)|Backtracking||
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)|[Hard](./String/32.Longest_Valid_Parentheses.cs)|String||
-|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[Medium](./Array/33.Search_in_Rotated_Sorted_Array.cs)|Array||
-|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[Medium](./Binary_Search/33.Search_in_Rotated_Sorted_Array.cs)|Binary Search||
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[Medium](./Array/33.Search_in_Rotated_Sorted_Array.cs)|Array|2021-04-14|
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[Medium](./Binary_Search/33.Search_in_Rotated_Sorted_Array.cs)|Binary Search|2021-04-14|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|[Medium](./Array/34.Find_First_and_Last_Position_of_Element_in_Sorted_Array.cs)|Array||
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|[Medium](./Binary_Search/34.Find_First_and_Last_Position_of_Element_in_Sorted_Array.cs)|Binary Search||
-|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|[Easy](./Array/35.Search_Insert_Position.cs)|Array||
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|[Easy](./Array/35.Search_Insert_Position.cs)|Array|2021-04-14|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|[Easy](./Binary_Search/35.Search_Insert_Position.cs)|Binary Search||
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)|[Medium](./Matrix/36.Valid_Sudoku.cs)|Matrix||
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/)|[Hard](./Matrix/37.Sudoku_Solver.cs)|Matrix||
@@ -93,8 +93,8 @@
 |78|[Subsets](https://leetcode.com/problems/subsets/description/)|[Medium](./Backtracking/78.Subsets.cs)|Backtracking||
 |79|[Word Search](https://leetcode.com/problems/word-search/description/)|[Medium](./Matrix/79.Word_Search.cs)|Matrix||
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)|[Medium](./Array/80.Remove_Duplicates_from_Sorted_Array_II.cs)|Array|2021-03-16|
-|81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)|[Medium](./Array/81.Search_in_Rotated_Sorted_Array_II.cs)|Array||
-|81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)|[Medium](./Binary_Search/81.Search_in_Rotated_Sorted_Array_II.cs)|Binary Search||
+|81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)|[Medium](./Array/81.Search_in_Rotated_Sorted_Array_II.cs)|Array|2021-04-14|
+|81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)|[Medium](./Binary_Search/81.Search_in_Rotated_Sorted_Array_II.cs)|Binary Search|2021-04-14|
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)|[Medium](./LinkedList/82.Remove_Duplicates_from_Sorted_List_II.cs)|LinkedList||
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[Easy](./LinkedList/83.Remove_Duplicates_from_Sorted_List.cs)|LinkedList||
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)|[Hard](./Stack&PriorityQueue/84.Largest_Rectangle_in_Histogram.cs)|Stack & Priority_Queue||
