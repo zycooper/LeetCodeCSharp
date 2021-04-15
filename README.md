@@ -43,11 +43,8 @@
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/description/)|[Medium](./Backtracking/31.Next_Permutation.cs)||
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)|[Hard](./String/32.Longest_Valid_Parentheses.cs)||
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[Medium](./Array/33.Search_in_Rotated_Sorted_Array.cs)|2021-04-14|
-|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[Medium](./Binary_Search/33.Search_in_Rotated_Sorted_Array.cs)|2021-04-14|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|[Medium](./Array/34.Find_First_and_Last_Position_of_Element_in_Sorted_Array.cs)|2021-04-15|
-|34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|[Medium](./Binary_Search/34.Find_First_and_Last_Position_of_Element_in_Sorted_Array.cs)|2021-04-15|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|[Easy](./Array/35.Search_Insert_Position.cs)|2021-04-14|
-|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|[Easy](./Binary_Search/35.Search_Insert_Position.cs)||
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)|[Medium](./Matrix/36.Valid_Sudoku.cs)||
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/)|[Hard](./Matrix/37.Sudoku_Solver.cs)||
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/description/)|[Medium](./String/38.Count_and_Say.cs)||
@@ -94,7 +91,6 @@
 |79|[Word Search](https://leetcode.com/problems/word-search/description/)|[Medium](./Matrix/79.Word_Search.cs)||
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)|[Medium](./Array/80.Remove_Duplicates_from_Sorted_Array_II.cs)|2021-03-16|
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)|[Medium](./Array/81.Search_in_Rotated_Sorted_Array_II.cs)|2021-04-14|
-|81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)|[Medium](./Binary_Search/81.Search_in_Rotated_Sorted_Array_II.cs)|2021-04-14|
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)|[Medium](./LinkedList/82.Remove_Duplicates_from_Sorted_List_II.cs)||
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[Easy](./LinkedList/83.Remove_Duplicates_from_Sorted_List.cs)||
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)|[Hard](./Stack&PriorityQueue/84.Largest_Rectangle_in_Histogram.cs)||
@@ -167,9 +163,7 @@
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/)|[Medium](./String/151.Reverse_Words_in_a_String.cs)||
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)|[Medium](./Array/152.Maximum_Product_Subarray.cs)|2021-04-12|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)|[Medium](./Array/153.Find_Minimum_in_Rotated_Sorted_Array.cs)|2021-04-15|
-|153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)|[Medium](./Binary_Search/153.Find_Minimum_in_Rotated_Sorted_Array.cs)|2021-04-15|
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/)|[Hard](./Array/154.Find_Minimum_in_Rotated_Sorted_Array_II.cs)||
-|154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/)|[Hard](./Binary_Search/154.Find_Minimum_in_Rotated_Sorted_Array_II.cs)||
 |155|[Min Stack](https://leetcode.com/problems/min-stack/description/)|[Easy](./Stack&PriorityQueue/155.Min_Stack.cs)||
 |156|[Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/description/)|[Medium](./Tree/156.Binary_Tree_Upside_Down.cs)||
 |157|[Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/description/)|[Easy](./String/157.Read_N_Characters_Given_Read4.cs)||
@@ -178,7 +172,6 @@
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)|[Easy](./LinkedList/160.Intersection_of_Two_Linked_Lists.cs)||
 |161|[One Edit Distance](https://leetcode.com/problems/one-edit-distance/)|[Medium](./String/161.One_Edit_Distance.cs)||
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)|[Medium](./Array/162.Find_Peak_Element.cs)|2021-04-15|
-|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)|[Medium](./Binary_Search/162.Find_Peak_Element.cs)|2021-04-15|
 |163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/description/)|[Easy](./Array/163.Missing_Ranges.cs)|2021-04-13|
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/description/)|[Hard](./Array/164.Maximum_Gap.cs)||
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/)|[Medium](./Math/165.Compare_Version_Numbers.cs)||
@@ -295,7 +288,6 @@
 |276|[Paint Fence](https://leetcode.com/problems/paint-fence/description/)|[Medium](./Dynamic_Programming/276.Paint_Fence.cs)||
 |277|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/description/)|[Medium](./Array/277.Find_the_Celebrity.cs)|2021-03-26|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/description/)|[Easy](./Array/278.First_Bad_Version.cs)|2021-04-14|
-|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/description/)|[Easy](./Binary_Search/278.First_Bad_Version.cs)|2021-04-14|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)|[Medium](./Dynamic_Programming/279.Perfect_Squares.cs)||
 |280|[Wiggle Sort](https://leetcode.com/problems/wiggle-sort/description/)|[Medium](./Array/280.Wiggle_Sort.cs)|2021-04-14|
 |281|[Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator/description/)|[Medium](./Design/281.Zigzag_Iterator.cs)||
@@ -318,7 +310,6 @@
 |298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/description/)|[Medium](./Tree/298.Binary_Tree_Longest_Consecutive_Sequence.cs)||
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[Medium](./Array/299.Bulls_and_Cows.cs)|2021-03-18|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)|[Medium](./Array/300.Longest_Increasing_Subsequence.cs)||
-|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)|[Medium](./Binary_Search/300.Longest_Increasing_Subsequence.cs)||
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/description/)|[Hard](./String/301.Remove_Invalid_Parentheses.cs)||
 |302|[Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/description/)|[Hard](./Matrix/302.Smallest_Rectangle_Enclosing_Black_Pixels.cs)||
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/)|[Easy](./Design/303.Range_Sum_Query_Immutable.cs)||
@@ -334,7 +325,6 @@
 |313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/description/)|[Medium](./Stack&PriorityQueue/313.Super_Ugly_Number.cs)||
 |314|[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/)|[Medium](./Tree/314.Binary_Tree_Vertical_Order_Traversal.cs)||
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)|[Hard](./Array/315.Count_of_Smaller_Numbers_After_Self.cs)||
-|315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)|[Hard](./Binary_Search/315.Count_of_Smaller_Numbers_After_Self.cs)||
 |316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/description/)|[Medium](./String/316.Remove_Duplicate_Letters.cs)||
 |317|[Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/description/)|[Hard](./Matrix/317.Shortest_Distance_from_All_Buildings.cs)||
 |318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/description/)|[Medium](./Bit_Manipulation/318.Maximum_Product_of_Word_Lengths.cs)||
@@ -369,14 +359,11 @@
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)|[Medium](./Stack&PriorityQueue/347.Top_K_Frequent_Elements.cs)||
 |348|[Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/description/)|[Medium](./Design/348.Design_Tic-Tac-Toe.cs)||
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)|[Easy](./Array/349.Intersection_of_Two_Arrays.cs)|2021-04-15|
-|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)|[Easy](./Binary_Search/349.Intersection_of_Two_Arrays.cs)|2021-04-15|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)|[Easy](./Array/350.Intersection_of_Two_Arrays_II.cs)|2021-04-15|
-|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)|[Easy](./Binary_Search/350.Intersection_of_Two_Arrays_II.cs)|2021-04-15|
 |351|[Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/description/)|[Medium](./Backtracking/351.Android_Unlock_Patterns.cs)||
 |352|[Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/description/)|[Hard](./Array/352.Data_Stream_as_Disjoint_Intervals.cs)||
 |353|[Design Snake Game](https://leetcode.com/problems/design-snake-game/description/)|[Medium](./Design/353.Design_Snake_Game.cs)||
 |354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/)|[Hard](./Array/354.Russian_Doll_Envelopes.cs)||
-|354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/)|[Hard](./Binary_Search/354.Russian_Doll_Envelopes.cs)||
 |355|[Design Twitter](https://leetcode.com/problems/design-twitter/description/s)|[Medium](./Design/355.Design_Twitter.cs)||
 |356|[Line Reflection](https://leetcode.com/problems/line-reflection/description/)|[Medium](./Graph/356.Line_Reflection.cs)||
 |357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/description/)|[Medium](./Math/357.Count_Numbers_with_Unique_Digits.cs)||
@@ -397,7 +384,6 @@
 |372|[Super Pow](https://leetcode.com/problems/super-pow/description/)|[Medium](./Math/372.Super_Pow.cs)||
 |373|[Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/)|[Medium](./Stack&PriorityQueue/373.Find_K_Pairs_with_Smallest_Sums.cs)||
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[Easy](./Array/374.Guess_Number_Higher_or_Lower.cs)|2021-04-15|
-|374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[Easy](./Binary_Search/374.Guess_Number_Higher_or_Lower.cs)|2021-04-15|
 |375|[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/description/)|[Medium](./Dynamic_Programming/375.Guess_Number_Higher_or_Lower_II.cs)||
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/description/)|[Medium](./Array/376.Wiggle_Subsequence.cs)|2021-04-14|
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/)|[Medium](./Backtracking/377.Combination_Sum_IV.cs)||
