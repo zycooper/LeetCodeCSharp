@@ -1,6 +1,6 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-50-orange)<br>
-![](https://progress-bar.dev/12)<br>
+![](https://img.shields.io/badge/Submitted-55-orange)<br>
+![](https://progress-bar.dev/13)<br>
 <br>
 [Submit queue](./Plan.md)<br>
 <br>
@@ -44,8 +44,8 @@
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)|[Hard](./String/32.Longest_Valid_Parentheses.cs)|String||
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[Medium](./Array/33.Search_in_Rotated_Sorted_Array.cs)|Array|2021-04-14|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[Medium](./Binary_Search/33.Search_in_Rotated_Sorted_Array.cs)|Binary Search|2021-04-14|
-|34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|[Medium](./Array/34.Find_First_and_Last_Position_of_Element_in_Sorted_Array.cs)|Array||
-|34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|[Medium](./Binary_Search/34.Find_First_and_Last_Position_of_Element_in_Sorted_Array.cs)|Binary Search||
+|34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|[Medium](./Array/34.Find_First_and_Last_Position_of_Element_in_Sorted_Array.cs)|Array|2021-04-15|
+|34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|[Medium](./Binary_Search/34.Find_First_and_Last_Position_of_Element_in_Sorted_Array.cs)|Binary Search|2021-04-15|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|[Easy](./Array/35.Search_Insert_Position.cs)|Array|2021-04-14|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|[Easy](./Binary_Search/35.Search_Insert_Position.cs)|Binary Search||
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)|[Medium](./Matrix/36.Valid_Sudoku.cs)|Matrix||
@@ -177,8 +177,8 @@
 |159|[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/description/)|[Medium](./String/159.Longest_Substring_with_At_Most_Two_Distinct_Characters.cs)|String||
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)|[Easy](./LinkedList/160.Intersection_of_Two_Linked_Lists.cs)|LinkedList||
 |161|[One Edit Distance](https://leetcode.com/problems/one-edit-distance/)|[Medium](./String/161.One_Edit_Distance.cs)|String||
-|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)|[Medium](./Array/162.Find_Peak_Element.cs)|Array||
-|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)|[Medium](./Binary_Search/162.Find_Peak_Element.cs)|Binary Search||
+|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)|[Medium](./Array/162.Find_Peak_Element.cs)|Array|2021-04-15|
+|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)|[Medium](./Binary_Search/162.Find_Peak_Element.cs)|Binary Search|2021-04-15|
 |163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/description/)|[Easy](./Array/163.Missing_Ranges.cs)|Array|2021-04-13|
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/description/)|[Hard](./Array/164.Maximum_Gap.cs)|Array||
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/)|[Medium](./Math/165.Compare_Version_Numbers.cs)|Math||
@@ -368,10 +368,10 @@
 |346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/description/)|[Easy](./Design/346.Moving_Average_from_Data_Stream.cs)|Design||
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)|[Medium](./Stack&PriorityQueue/347.Top_K_Frequent_Elements.cs)|Stack & Priority_Queue||
 |348|[Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/description/)|[Medium](./Design/348.Design_Tic-Tac-Toe.cs)|Design||
-|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)|[Easy](./Array/349.Intersection_of_Two_Arrays.cs)|Array||
-|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)|[Easy](./Binary_Search/349.Intersection_of_Two_Arrays.cs)|Binary Search||
-|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)|[Easy](./Array/350.Intersection_of_Two_Arrays_II.cs)|Array||
-|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)|[Easy](./Binary_Search/350.Intersection_of_Two_Arrays_II.cs)|Binary Search||
+|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)|[Easy](./Array/349.Intersection_of_Two_Arrays.cs)|Array|2021-04-15|
+|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)|[Easy](./Binary_Search/349.Intersection_of_Two_Arrays.cs)|Binary Search|2021-04-15|
+|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)|[Easy](./Array/350.Intersection_of_Two_Arrays_II.cs)|Array|2021-04-15|
+|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)|[Easy](./Binary_Search/350.Intersection_of_Two_Arrays_II.cs)|Binary Search|2021-04-15|
 |351|[Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/description/)|[Medium](./Backtracking/351.Android_Unlock_Patterns.cs)|Backtracking||
 |352|[Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/description/)|[Hard](./Array/352.Data_Stream_as_Disjoint_Intervals.cs)|Array||
 |353|[Design Snake Game](https://leetcode.com/problems/design-snake-game/description/)|[Medium](./Design/353.Design_Snake_Game.cs)|Design||
@@ -396,8 +396,8 @@
 |371|[Sum of Two Integers emove Element](https://leetcode.com/problems/sum-of-two-integers/description/)|[Medium](./Bit_Manipulation/371.Sum_of_Two_Integers_emove_Element.cs)|Bit Manipulation||
 |372|[Super Pow](https://leetcode.com/problems/super-pow/description/)|[Medium](./Math/372.Super_Pow.cs)|Math||
 |373|[Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/)|[Medium](./Stack&PriorityQueue/373.Find_K_Pairs_with_Smallest_Sums.cs)|Stack & Priority_Queue||
-|374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[Easy](./Array/374.Guess_Number_Higher_or_Lower.cs)|Array||
-|374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[Easy](./Binary_Search/374.Guess_Number_Higher_or_Lower.cs)|Binary Search||
+|374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[Easy](./Array/374.Guess_Number_Higher_or_Lower.cs)|Array|2021-04-15|
+|374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[Easy](./Binary_Search/374.Guess_Number_Higher_or_Lower.cs)|Binary Search|2021-04-15|
 |375|[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/description/)|[Medium](./Dynamic_Programming/375.Guess_Number_Higher_or_Lower_II.cs)|Dynamic Programming||
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/description/)|[Medium](./Array/376.Wiggle_Subsequence.cs)|Array|2021-04-14|
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/)|[Medium](./Backtracking/377.Combination_Sum_IV.cs)|Backtracking||
