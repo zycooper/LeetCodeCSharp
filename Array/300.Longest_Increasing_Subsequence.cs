@@ -27,20 +27,20 @@ Could you improve it to O(n log(n)) time complexity?
 */
 
  /********************************************************************************
- Attampt Times: 0
+ Attampt Times: 1
  *********************************************************************************
  Time Range:
- From: 
+ From: 2021-04-16 16:27
  To: 
  *********************************************************************************
  Submission Result:
 
  *********************************************************************************
  Note: 
-
+    before writing code: this question is a typical Dynamic Programming - DP question
  *********************************************************************************/
 public class Solution {
     public int LengthOfLIS(int[] nums) {
-        
+        //
     }
 }
