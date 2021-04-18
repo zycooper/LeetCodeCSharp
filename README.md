@@ -4,6 +4,8 @@
 <br>
 [Submit queue](./Plan.md)<br>
 <br>
+<br>
+<br>
 **Title** goes to Leetcode problem<br>
 **Difficulty** goes to my solution<br>
 **Submit** is the last date I subtmit an solution for this problem<br>
