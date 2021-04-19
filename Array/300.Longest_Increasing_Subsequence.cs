@@ -31,16 +31,44 @@ Could you improve it to O(n log(n)) time complexity?
  *********************************************************************************
  Time Range:
  From: 2021-04-16 16:27
- To: 
+ To: 2021-04-19 13:55
  *********************************************************************************
  Submission Result:
-
+    Runtime: 172 ms, faster than 65.04% of C# online submissions for Longest Increasing Subsequence.
+    Memory Usage: 25.9 MB, less than 93.22% of C# online submissions for Longest Increasing Subsequence.
  *********************************************************************************
  Note: 
     before writing code: this question is a typical Dynamic Programming - DP question
+    youtube: huahua
+    DP: create a int[] to store the lonest length till current i, then create another loop through j which j < i, then find the biggest j, dp[i] = thisvalue +1
+    final result is the max of this dp int[]
  *********************************************************************************/
 public class Solution {
     public int LengthOfLIS(int[] nums) {
-        //
+        if(nums.Length == 0 ){ return 0;}
+
+        int[] dp = new int[nums.Length];
+        dp[0] = 1;
+
+        int maxResult = 1;
+
+        for(int i = 1; i < nums.Length; i++)
+        {
+            int max_dp_value_before_i = 0;
+
+            for(int j = 0; j < i; j++)
+            {
+                //loop through all items before i and find the biggest value where nums[i] > nums[j]
+                if(nums[i] > nums[j])
+                {
+                    //since j < i, so dp[j] is always valid
+                    max_dp_value_before_i = Math.Max(max_dp_value_before_i, dp[j]);
+                }
+            }
+
+            dp[i] = max_dp_value_before_i + 1;
+            maxResult = Math.Max(dp[i],maxResult);            
+        }
+        return maxResult;
     }
 }
