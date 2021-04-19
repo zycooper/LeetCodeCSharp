@@ -335,7 +335,7 @@
 |321|[Create Maximum Number](https://leetcode.com/problems/create-maximum-number/description/)|[Hard](./Array/321.Create_Maximum_Number.cs)||
 |322|[Coin Change](https://leetcode.com/problems/coin-change/description/)|[Medium](./Dynamic_Programming/322.Coin_Change.cs)||
 |323|[Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/)|[Medium](./Union_Find/323.Number_of_Connected_Components_in_an_Undirected_Graph.cs)||
-|324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/description/)|[Medium](./Array/324.Wiggle_Sort_II.cs)|Hold|
+|324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/description/)|[Medium](./Array/324.Wiggle_Sort_II.cs)||
 |325|[Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)|[Medium](./Array/325.Maximum_Size_Subarray_Sum_Equals_k.cs)|2021-04-12|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/description/)|[Easy](./Math/326.Power_of_Three.cs)||
 |327|[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/description/)|[Hard](./Array/327.Count_of_Range_Sum.cs)||
