@@ -1,5 +1,5 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-57-orange)<br>
+![](https://img.shields.io/badge/Submitted-58-orange)<br>
 ![](https://progress-bar.dev/14)<br>
 <br>
 [Submit queue](./Plan.md)<br>
@@ -53,7 +53,7 @@
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/description/)|[Medium](./Backtracking/39.Combination_Sum.cs)||
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)|[Medium](./Backtracking/40.Combination_Sum_II.cs)||
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|[Hard](./Array/41.First_Missing_Positive.cs)|2021-03-31|
-|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)|[Hard](./Array/42.Trapping_Rain_Water.cs)||
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)|[Hard](./Array/42.Trapping_Rain_Water.cs)|2021-04-19|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)|[Medium](./Math/43.Multiply_Strings.cs)||
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)|[Hard](./Dynamic_Programming/44.Wildcard_Matching.cs)||
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)|[Medium](./Array/45.Jump_Game_II.cs)|2021-03-23|

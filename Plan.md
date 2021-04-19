@@ -28,7 +28,7 @@
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/)|[Hard](./Array/188.Best_Time_to_Buy_and_Sell_Stock_IV.cs)|Array||
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/)|[Medium](./Array/309.Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.cs)|Array||
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)|[Medium](./Array/11.Container_With_Most_Water.cs)|Array|2021-03-25|
-|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)|[Hard](./Array/42.Trapping_Rain_Water.cs)|Array||
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)|[Hard](./Array/42.Trapping_Rain_Water.cs)|Array|2021-04-19|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description/)|[Medium](./Array/334.Increasing_Triplet_Subsequence.cs)|Array|2021-03-26|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)|[Hard](./Array/128.Longest_Consecutive_Sequence.cs)|Array||
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/description/)|[Hard](./Array/164.Maximum_Gap.cs)|Array||
