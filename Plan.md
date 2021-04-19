@@ -71,7 +71,7 @@
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)|[Easy](./Array/349.Intersection_of_Two_Arrays.cs)|Array|2021-04-15|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)|[Easy](./Array/350.Intersection_of_Two_Arrays_II.cs)|Array|2021-04-15|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)|[Hard](./Array/315.Count_of_Smaller_Numbers_After_Self.cs)|Array||
-|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)|[Medium](./Array/300.Longest_Increasing_Subsequence.cs)|Array||
+|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)|[Medium](./Array/300.Longest_Increasing_Subsequence.cs)|Array|2021-04-19|
 |354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/)|[Hard](./Array/354.Russian_Doll_Envelopes.cs)|Array||
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)|[Easy](./String/28.Implement_strStr().cs)|String||
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)|[Easy](./String/14.Longest_Common_Prefix.cs)|String||
@@ -297,7 +297,7 @@
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)|[Easy](./Array/349.Intersection_of_Two_Arrays.cs)|Binary Search|2021-04-15|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)|[Easy](./Array/350.Intersection_of_Two_Arrays_II.cs)|Binary Search|2021-04-15|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)|[Hard](./Array/315.Count_of_Smaller_Numbers_After_Self.cs)|Binary Search||
-|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)|[Medium](./Array/300.Longest_Increasing_Subsequence.cs)|Binary Search||
+|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)|[Medium](./Array/300.Longest_Increasing_Subsequence.cs)|Binary Search|2021-04-19|
 |354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/)|[Hard](./Array/354.Russian_Doll_Envelopes.cs)|Binary Search||
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[Medium](./Matrix/48.Rotate_Image.cs)|Matrix||
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)|[Medium](./Matrix/54.Spiral_Matrix.cs)|Matrix||

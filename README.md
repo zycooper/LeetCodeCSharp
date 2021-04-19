@@ -1,5 +1,5 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-56-orange)<br>
+![](https://img.shields.io/badge/Submitted-57-orange)<br>
 ![](https://progress-bar.dev/14)<br>
 <br>
 [Submit queue](./Plan.md)<br>
@@ -311,7 +311,7 @@
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)|[Hard](./Tree/297.Serialize_and_Deserialize_Binary_Tree.cs)||
 |298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/description/)|[Medium](./Tree/298.Binary_Tree_Longest_Consecutive_Sequence.cs)||
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[Medium](./Array/299.Bulls_and_Cows.cs)|2021-03-18|
-|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)|[Medium](./Array/300.Longest_Increasing_Subsequence.cs)||
+|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)|[Medium](./Array/300.Longest_Increasing_Subsequence.cs)|2021-04-19|
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/description/)|[Hard](./String/301.Remove_Invalid_Parentheses.cs)||
 |302|[Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/description/)|[Hard](./Matrix/302.Smallest_Rectangle_Enclosing_Black_Pixels.cs)||
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/)|[Easy](./Design/303.Range_Sum_Query_Immutable.cs)||
