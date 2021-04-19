@@ -23,10 +23,16 @@ n == height.length
  Time Range:
  From: 
  To: 2021-04-19 15:11
+
+ From: 2021-04-19 15:15
+ To: 2021-04-19 15:48
  *********************************************************************************
  Submission Result:
 Runtime: 92 ms, faster than 78.27% of C# online submissions for Trapping Rain Water.
 Memory Usage: 25.9 MB, less than 45.21% of C# online submissions for Trapping Rain Water.
+
+Runtime: 92 ms, faster than 78.27% of C# online submissions for Trapping Rain Water.
+Memory Usage: 25.8 MB, less than 82.43% of C# online submissions for Trapping Rain Water.
  *********************************************************************************
  Note: 
     [2-pointer] [dp] [daynamic programming]
@@ -60,6 +66,37 @@ public class Solution {
             ans += Math.Min(max_left_dp[i],max_right_dp[i]) - height[i];
         }
 
+        return ans;
+    }
+
+     public int Trap_two_pointers(int[] height) {
+        int ans = 0;
+        //two pointers one pass
+        if(height.Length < 3){ return ans;}
+
+        int l_index = 0;
+        int r_index = height.Length - 1;
+
+        //r_max and r_max means till the current one, the max, that's the reason why it's l_index < r_index in the while at beginning
+        int l_max = 0;
+        int r_max = 0;
+
+        while(l_index < r_index)
+        {
+            if(height[l_index] < height[r_index])
+            {
+                //left is smaller
+                if(height[l_index] < l_max){ans += (l_max - height[l_index]);}else{ l_max = height[l_index];};
+                l_index++;
+            }
+            else
+            {
+                //right is smaller or equal
+                if(height[r_index] < r_max){ans += (r_max - height[r_index]);}else{r_max= height[r_index];};
+                r_index--;
+            }
+        }
+       
         return ans;
     }
 }
