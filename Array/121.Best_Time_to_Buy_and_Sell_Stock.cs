@@ -73,7 +73,7 @@ public class Solution {
         for(int i = 1; i < prices.Length;i++)
         {
             minPrice =Math.Min(minPrice,prices[i]);
-            maxProfit =Math.Max(maxProfit,prices[i] - minPrice);           
+            maxProfit =Math.Max(maxProfit,prices[i] - minPrice);
         }
         
         return maxProfit;
