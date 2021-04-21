@@ -26,7 +26,7 @@
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)|[Easy](./Array/122.Best_Time_to_Buy_and_Sell_Stock_II.cs)|Array|2021-03-24|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/)|[Hard](./Array/123.Best_Time_to_Buy_and_Sell_Stock_III.cs)|Array|2021-03-25|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/)|[Hard](./Array/188.Best_Time_to_Buy_and_Sell_Stock_IV.cs)|Array||
-|309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/)|[Medium](./Array/309.Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.cs)|Array||
+|309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/)|[Medium](./Array/309.Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.cs)|Array|2021-04-21|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)|[Medium](./Array/11.Container_With_Most_Water.cs)|Array|2021-03-25|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)|[Hard](./Array/42.Trapping_Rain_Water.cs)|Array|2021-04-19|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description/)|[Medium](./Array/334.Increasing_Triplet_Subsequence.cs)|Array|2021-03-26|
