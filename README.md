@@ -1,5 +1,5 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-61-orange)<br>
+![](https://img.shields.io/badge/Submitted-62-orange)<br>
 ![](https://progress-bar.dev/15)<br>
 <br>
 [Submit queue](./Plan.md)<br>
@@ -144,7 +144,7 @@
 |132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/description/)|[Hard](./String/132.Palindrome_Partitioning_II.cs)||
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/description/)|[Medium](./Graph/133.Clone_Graph.cs)||
 |134|[Gas Station](https://leetcode.com/problems/gas-station/description/)|[Medium](./Array/134.Gas_Station.cs)|2021-03-18|
-|135|[Candy](https://leetcode.com/problems/candy/description/)|[Hard](./Array/135.Candy.cs)||
+|135|[Candy](https://leetcode.com/problems/candy/description/)|[Hard](./Array/135.Candy.cs)|2021-04-21|
 |136|[Single Number](https://leetcode.com/problems/single-number/description/)|[Easy](./Bit_Manipulation/136.Single_Number.cs)||
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/description/)|[Medium](./Bit_Manipulation/137.Single_Number_II.cs)||
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Medium](./Random/138.Copy_List_with_Random_Pointer.cs)||

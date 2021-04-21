@@ -33,7 +33,7 @@
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)|[Hard](./Array/128.Longest_Consecutive_Sequence.cs)|Array|2021-04-21|
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/description/)|[Hard](./Array/164.Maximum_Gap.cs)|Array|2021-04-21|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)|[Medium](./Array/287.Find_the_Duplicate_Number.cs)|Array|2021-03-26|
-|135|[Candy](https://leetcode.com/problems/candy/description/)|[Hard](./Array/135.Candy.cs)|Array||
+|135|[Candy](https://leetcode.com/problems/candy/description/)|[Hard](./Array/135.Candy.cs)|Array|2021-04-21|
 |330|[Patching Array](https://leetcode.com/problems/patching-array/description/)|[Hard](./Array/330.Patching_Array.cs)|Array|Hold|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)|[Hard](./Array/4.Median_of_Two_Sorted_Arrays.cs)|Array||
 |321|[Create Maximum Number](https://leetcode.com/problems/create-maximum-number/description/)|[Hard](./Array/321.Create_Maximum_Number.cs)|Array|Hold|
