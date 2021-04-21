@@ -30,7 +30,7 @@
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)|[Medium](./Array/11.Container_With_Most_Water.cs)|Array|2021-03-25|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)|[Hard](./Array/42.Trapping_Rain_Water.cs)|Array|2021-04-19|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description/)|[Medium](./Array/334.Increasing_Triplet_Subsequence.cs)|Array|2021-03-26|
-|128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)|[Hard](./Array/128.Longest_Consecutive_Sequence.cs)|Array||
+|128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)|[Hard](./Array/128.Longest_Consecutive_Sequence.cs)|Array|2021-04-21|
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/description/)|[Hard](./Array/164.Maximum_Gap.cs)|Array||
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)|[Medium](./Array/287.Find_the_Duplicate_Number.cs)|Array|2021-03-26|
 |135|[Candy](https://leetcode.com/problems/candy/description/)|[Hard](./Array/135.Candy.cs)|Array||

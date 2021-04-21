@@ -1,6 +1,6 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-59-orange)<br>
-![](https://progress-bar.dev/14)<br>
+![](https://img.shields.io/badge/Submitted-60-orange)<br>
+![](https://progress-bar.dev/15)<br>
 <br>
 [Submit queue](./Plan.md)<br>
 
@@ -137,7 +137,7 @@
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)|[Easy](./String/125.Valid_Palindrome.cs)||
 |126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/description/)|[Hard](./DFS&BFS/126.Word_Ladder_II.cs)||
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/description/)|[Hard](./DFS&BFS/127.Word_Ladder.cs)||
-|128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)|[Hard](./Array/128.Longest_Consecutive_Sequence.cs)||
+|128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)|[Hard](./Array/128.Longest_Consecutive_Sequence.cs)|2021-04-21|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/)|[Medium](./Tree/129.Sum_Root_to_Leaf_Numbers.cs)||
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/)|[Medium](./DFS&BFS/130.Surrounded_Regions.cs)||
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/)|[Medium](./String/131.Palindrome_Partitioning.cs)||
