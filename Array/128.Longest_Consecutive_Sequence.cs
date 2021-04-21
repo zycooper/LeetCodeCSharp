@@ -20,7 +20,7 @@ Constraints:
  *********************************************************************************
  Time Range:
  From: 2021-04-21 10:35
- To: 
+ To: 2021-04-21 10:55
  *********************************************************************************
  Submission Result:
     Runtime: 92 ms, faster than 91.19% of C# online submissions for Longest Consecutive Sequence.
@@ -30,6 +30,8 @@ Constraints:
     it could be duplicate
 
     be carefull about the nest if
+
+    And Hash | HashTable | Hash Table | Dictionary
  *********************************************************************************/
 public class Solution {
     public int LongestConsecutive(int[] nums) {

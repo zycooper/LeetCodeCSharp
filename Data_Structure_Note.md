@@ -15,3 +15,6 @@ https://www.cnblogs.com/gaochundong/p/algorithmic_paradigms.html
 二分搜索法小结:
 https://www.cnblogs.com/grandyang/p/6854825.html
 https://www.cnblogs.com/grandyang/p/4606334.html
+
+算法珠玑——一个最精简的题库
+https://soulmachine.gitbooks.io/algorithm-essentials/content/java/
