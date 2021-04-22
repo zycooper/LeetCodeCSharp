@@ -42,17 +42,33 @@ Constraints:
  Attampt Times: 0
  *********************************************************************************
  Time Range:
- From: 
+ From: 2021-04-22 16:11
  To: 
  *********************************************************************************
  Submission Result:
 
  *********************************************************************************
  Note: 
-
+    | Monotonic Queue | Deque | Daynamic Programming | Brute Force |
  *********************************************************************************/
 public class Solution {
     public int[] MaxSlidingWindow(int[] nums, int k) {
-        
+        //wrong
+        if(nums.Length * k == 0){ return new int[0];}
+        if(k == 1) {return nums;}
+        //brute force
+        int[] Result = new int[nums.Length - k + 1];
+
+        int curr_max = int.MinValue;
+        for(int i = 0; i < nums.Length - k + 1;i++)
+        {           
+            for(int j = i; j < i + k; j++)
+            {
+                curr_max = Math.Max(curr_max, nums[j]);
+            }
+            Result[i] = curr_max;
+        }
+
+        return Result;
     }
 }
