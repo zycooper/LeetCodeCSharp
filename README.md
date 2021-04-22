@@ -1,5 +1,5 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-62-orange)<br>
+![](https://img.shields.io/badge/Submitted-63-orange)<br>
 ![](https://progress-bar.dev/15)<br>
 <br>
 [Submit queue](./Plan.md)<br>
@@ -13,7 +13,7 @@
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[Easy](./Math/1.Two_Sum.cs)|2020-11-16|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)|[Medium](./LinkedList/2.Add_Two_Numbers.cs)||
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|[Medium](./String/3.Longest_Substring_Without_Repeating_Characters.cs)||
-|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)|[Hard](./Array/4.Median_of_Two_Sorted_Arrays.cs)||
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)|[Hard](./Array/4.Median_of_Two_Sorted_Arrays.cs)|2021-04-21|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)|[Medium](./String/5.Longest_Palindromic_Substring.cs)||
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)|[Medium](./String/6.ZigZag_Conversion.cs)||
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)|[Easy](./Math/7.Reverse_Integer.cs)||
