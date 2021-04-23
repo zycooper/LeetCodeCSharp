@@ -45,7 +45,7 @@
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/description/)|[Medium](./Array/253.Meeting_Rooms_II.cs)|Array|2021-04-07|
 |352|[Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/description/)|[Hard](./Array/352.Data_Stream_as_Disjoint_Intervals.cs)|Array|Hold|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/)|[Hard](./Array/239.Sliding_Window_Maximum.cs)|Array||
-|295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/)|[Hard](./Array/295.Find_Median_from_Data_Stream.cs)|Array||
+|295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/)|[Hard](./Array/295.Find_Median_from_Data_Stream.cs)|Array|2021-04-23|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[Easy](./Array/53.Maximum_Subarray.cs)|Array|2021-04-12|
 |325|[Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)|[Medium](./Array/325.Maximum_Size_Subarray_Sum_Equals_k.cs)|Array|2021-04-12|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)|[Medium](./Array/209.Minimum_Size_Subarray_Sum.cs)|Array|2021-04-12|

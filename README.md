@@ -1,6 +1,6 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-63-orange)<br>
-![](https://progress-bar.dev/15)<br>
+![](https://img.shields.io/badge/Submitted-64-orange)<br>
+![](https://progress-bar.dev/16)<br>
 <br>
 [Submit queue](./Plan.md)<br>
 
@@ -304,7 +304,7 @@
 |292|[Nim Game](https://leetcode.com/problems/nim-game/description/)|[Easy](./Math/292.Nim_Game.cs)||
 |293|[Flip Game](https://leetcode.com/problems/flip-game/description/)|[Easy](./String/293.Flip_Game.cs)||
 |294|[Flip Game II](https://leetcode.com/problems/flip-game-ii/description/)|[Medium](./String/294.Flip_Game_II.cs)||
-|295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/)|[Hard](./Array/295.Find_Median_from_Data_Stream.cs)||
+|295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/)|[Hard](./Array/295.Find_Median_from_Data_Stream.cs)|2021-04-23|
 |296|[Best Meeting Point](https://leetcode.com/problems/best-meeting-point/description/)|[Hard](./Matrix/296.Best_Meeting_Point.cs)||
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)|[Hard](./Tree/297.Serialize_and_Deserialize_Binary_Tree.cs)||
 |298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/description/)|[Medium](./Tree/298.Binary_Tree_Longest_Consecutive_Sequence.cs)||
