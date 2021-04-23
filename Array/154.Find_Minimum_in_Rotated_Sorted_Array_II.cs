@@ -22,20 +22,45 @@ nums is sorted and rotated between 1 and n times.
 */
 
  /********************************************************************************
- Solution Category: 0
+ Solution Category: 
+ | Binary Search |
  *********************************************************************************
  Time Range:
- From: 
- To: 
+ From: 2021-04-23 15:20
+ To: 2021-04-23 15:43
  *********************************************************************************
  Submission Result:
-
+    Runtime: 96 ms, faster than 60.20% of C# online submissions for Find Minimum in Rotated Sorted Array II.
+    Memory Usage: 25.6 MB, less than 67.35% of C# online submissions for Find Minimum in Rotated Sorted Array II.
  *********************************************************************************
  Note: 
-
+    when move left, keep note you should move the left to the one more right position by mid
+    left = mid + 1;
  *********************************************************************************/
 public class Solution {
     public int FindMin(int[] nums) {
-        
+        int left = 0;
+        int right = nums.Length - 1;
+
+        while(left < right)
+        {
+            //because there is duplicate, so use < instead of <=
+            int mid = left + (right - left)/2;
+
+            if(nums[mid] < nums[right])
+            {
+                right = mid;
+            }
+            else if(nums[mid] > nums[right])
+            {
+                left = mid + 1;
+            }
+            else
+            {
+                right--;
+            }
+        }
+
+        return nums[left];
     }
 }
