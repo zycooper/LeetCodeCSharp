@@ -34,16 +34,12 @@
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/description/)|[Hard](./Array/164.Maximum_Gap.cs)|Array|2021-04-21|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)|[Medium](./Array/287.Find_the_Duplicate_Number.cs)|Array|2021-03-26|
 |135|[Candy](https://leetcode.com/problems/candy/description/)|[Hard](./Array/135.Candy.cs)|Array|2021-04-21|
-|330|[Patching Array](https://leetcode.com/problems/patching-array/description/)|[Hard](./Array/330.Patching_Array.cs)|Array|Hold|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)|[Hard](./Array/4.Median_of_Two_Sorted_Arrays.cs)|Array|2021-04-21|
-|321|[Create Maximum Number](https://leetcode.com/problems/create-maximum-number/description/)|[Hard](./Array/321.Create_Maximum_Number.cs)|Array|Hold|
-|327|[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/description/)|[Hard](./Array/327.Count_of_Range_Sum.cs)|Array|Hold|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/description/)|[Medium](./Array/289.Game_of_Life.cs)|Array|2021-04-08|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/description/)|[Medium](./Array/57.Insert_Interval.cs)|Array|2021-04-12|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)|[Medium](./Array/56.Merge_Intervals.cs)|Array|2021-04-12|
 |252|[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/description/)|[Easy](./Array/252.Meeting_Rooms.cs)|Array|2021-03-30|
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/description/)|[Medium](./Array/253.Meeting_Rooms_II.cs)|Array|2021-04-07|
-|352|[Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/description/)|[Hard](./Array/352.Data_Stream_as_Disjoint_Intervals.cs)|Array|Hold|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/)|[Hard](./Array/239.Sliding_Window_Maximum.cs)|Array||
 |295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/)|[Hard](./Array/295.Find_Median_from_Data_Stream.cs)|Array|2021-04-23|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[Easy](./Array/53.Maximum_Subarray.cs)|Array|2021-04-12|
@@ -58,7 +54,6 @@
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)|[Easy](./Array/283.Move_Zeroes.cs)|Array|2021-04-14|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/description/)|[Medium](./Array/376.Wiggle_Subsequence.cs)|Array|2021-04-14|
 |280|[Wiggle Sort](https://leetcode.com/problems/wiggle-sort/description/)|[Medium](./Array/280.Wiggle_Sort.cs)|Array|2021-04-14|
-|324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/description/)|[Medium](./Array/324.Wiggle_Sort_II.cs)|Array|Hold|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/description/)|[Easy](./Array/278.First_Bad_Version.cs)|Array|2021-04-14|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|[Easy](./Array/35.Search_Insert_Position.cs)|Array|2021-04-14|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[Medium](./Array/33.Search_in_Rotated_Sorted_Array.cs)|Array|2021-04-14|
@@ -530,6 +525,11 @@
 |1531|||Wait_To_Fill||
 |1570|||Wait_To_Fill||
 |1578|||Wait_To_Fill||
+|330|[Patching Array](https://leetcode.com/problems/patching-array/description/)|[Hard](./Array/330.Patching_Array.cs)|Array|Hold|
+|321|[Create Maximum Number](https://leetcode.com/problems/create-maximum-number/description/)|[Hard](./Array/321.Create_Maximum_Number.cs)|Array|Hold|
+|327|[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/description/)|[Hard](./Array/327.Count_of_Range_Sum.cs)|Array|Hold|
+|352|[Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/description/)|[Hard](./Array/352.Data_Stream_as_Disjoint_Intervals.cs)|Array|Hold|
+|324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/description/)|[Medium](./Array/324.Wiggle_Sort_II.cs)|Array|Hold|
 
 
 <--- Edit on 03/09/2021 --->
