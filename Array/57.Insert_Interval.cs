@@ -34,6 +34,21 @@ newInterval.length == 2
 0 <= newInterval[0] <= newInterval[1] <= 105
 */
 
+/********************************************************************************
+Solution Category: 
+
+*********************************************************************************
+Time Range:
+From: 
+To: 
+*********************************************************************************
+Submission Result:
+
+*********************************************************************************
+Note: 
+
+*********************************************************************************/
+
 /*
 Greedy problems usually look like "Find minimum number of something to do something" or "Find maximum number of something to fit in some conditions", and typically propose an unsorted input.
 */

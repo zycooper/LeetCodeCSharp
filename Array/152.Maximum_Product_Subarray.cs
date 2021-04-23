@@ -20,7 +20,7 @@ The product of any prefix or suffix of nums is guaranteed to fit in a 32-bit int
 */
 
  /********************************************************************************
- Attampt Times: 2
+ Solution Category: 2
  *********************************************************************************
  Time Range:
  From: 2021-04-12 15:56

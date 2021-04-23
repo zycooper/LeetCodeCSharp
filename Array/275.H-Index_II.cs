@@ -26,7 +26,20 @@ n == citations.length
 0 <= citations[i] <= 1000
 citations is sorted in ascending order.
 */
+/********************************************************************************
+Solution Category: 
 
+*********************************************************************************
+Time Range:
+From: 
+To: 
+*********************************************************************************
+Submission Result:
+
+*********************************************************************************
+Note: 
+
+*********************************************************************************/
 public class Solution {
     public int HIndex(int[] citations) {
         //????? I'm confused there is literily no different between this problem and Q274        

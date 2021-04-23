@@ -19,21 +19,23 @@ Constraints:
 1 <= nums.length <= 3 * 104
 -105 <= nums[i] <= 105
 */
-public class Solution {
-    /*
-    Attampt Index: 0
-    *********************************************************************************
-    Time Range:
-    From: 2021-04-21 10:50:00
-    To: 2021-04-21 11:11:00
-    *********************************************************************************
-    Submission Result:
-    Runtime: 100 ms, faster than 40.81% of C# online submissions for Maximum Subarray.
-    Memory Usage: 26.2 MB, less than 24.42% of C# online submissions for Maximum Subarray.
-    *********************************************************************************
-    Note:
-    Kadane's algorithm
-    **********************************************************************************/
+
+/********************************************************************************
+Solution Category: 
+
+*********************************************************************************
+Time Range:
+From: 2021-04-21 10:50:00
+To: 2021-04-21 11:11:00
+*********************************************************************************
+Submission Result:
+Runtime: 100 ms, faster than 40.81% of C# online submissions for Maximum Subarray.
+Memory Usage: 26.2 MB, less than 24.42% of C# online submissions for Maximum Subarray.
+*********************************************************************************
+Note: 
+Kadane's algorithm
+*********************************************************************************/
+public class Solution {   
     public int MaxSubArray(int[] nums) {
        int Max_SubArray = nums[0];
        int Current_SubArray = nums[0];

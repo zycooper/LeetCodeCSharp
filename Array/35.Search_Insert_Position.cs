@@ -30,7 +30,7 @@ nums contains distinct values sorted in ascending order.
 */
 
  /********************************************************************************
- Attampt Times: 1
+ Solution Category: 1
  *********************************************************************************
  Time Range:
  From: 2021-04-14 16:04

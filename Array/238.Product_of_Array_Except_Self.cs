@@ -21,7 +21,7 @@ Could you solve it with O(1) constant space complexity? (The output array does n
 */
 
  /********************************************************************************
- Attampt Times: 1
+ Solution Category: 1
  *********************************************************************************
  Time Range:
  From: 2021-04-12 15:09

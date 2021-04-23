@@ -39,6 +39,22 @@ Note that the input array is passed in by reference, which means a modification 
 /*
     1st, on 3/16/2021
 */
+
+
+/********************************************************************************
+Solution Category: 
+
+*********************************************************************************
+Time Range:
+From: 
+To: 
+*********************************************************************************
+Submission Result:
+
+*********************************************************************************
+Note: 
+
+*********************************************************************************/
 public class Solution {
     public int RemoveElement(int[] nums, int val) {
         //the official solution use i instead of ValueCount and j in stead of i

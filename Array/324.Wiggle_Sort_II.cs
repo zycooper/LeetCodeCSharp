@@ -18,7 +18,7 @@ It is guaranteed that there will be an answer for the given input nums.
 */
 
  /********************************************************************************
- Attampt Times: 0
+ Solution Category: 0
  *********************************************************************************
  Time Range:
  From: 2021-04-14 14:31

@@ -14,7 +14,20 @@ Constraints:
 1 <= intervals.length <= 104
 0 <= starti < endi <= 106
 */
+/********************************************************************************
+Solution Category: 
 
+*********************************************************************************
+Time Range:
+From: 
+To: 
+*********************************************************************************
+Submission Result:
+
+*********************************************************************************
+Note: 
+
+*********************************************************************************/
 public class Solution {
     public int MinMeetingRooms(int[][] intervals) {
         //doesn't work below, just write it out but didn't even run it
@@ -42,7 +55,7 @@ public class Solution {
      public int MinMeetingRooms_1(int[][] intervals) 
      {
         //Priority Queues or mean heap
-        [[1,2],[2,3],[3,4],[4,5],[5,6]]
+        //[[1,2],[2,3],[3,4],[4,5],[5,6]]
             
      }  
 

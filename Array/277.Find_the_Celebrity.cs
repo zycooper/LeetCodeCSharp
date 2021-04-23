@@ -39,6 +39,20 @@ since the celebrity doesn't know anybody and everybody else know him/her, so aft
 second pass: since we loop through once, but everytime we only ask one way: if the candidate knows i or if the i knows candidate, so we have to loop through the array again to make sure the final result.
 
 */
+/********************************************************************************
+Solution Category: 
+
+*********************************************************************************
+Time Range:
+From: 
+To: 
+*********************************************************************************
+Submission Result:
+
+*********************************************************************************
+Note: 
+
+*********************************************************************************/
 public class Solution : Relation {
     public int FindCelebrity(int n) {
         /*

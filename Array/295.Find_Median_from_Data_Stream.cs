@@ -35,7 +35,7 @@ If 99% of all integer numbers from the stream are in the range [0, 100], how wou
 */
 
  /********************************************************************************
- Attampt Times: 0
+ Solution Category: 0
  *********************************************************************************
  Time Range:
  From: 2021-04-23 14:00

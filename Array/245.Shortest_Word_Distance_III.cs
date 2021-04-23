@@ -18,7 +18,20 @@ Constraints:
 wordsDict[i] consists of lowercase English letters.
 word1 and word2 are in wordsDict.
 */
+/********************************************************************************
+Solution Category: 
 
+*********************************************************************************
+Time Range:
+From: 
+To: 
+*********************************************************************************
+Submission Result:
+
+*********************************************************************************
+Note: 
+
+*********************************************************************************/
 public class Solution {
     public int ShortestWordDistance(string[] wordsDict, string word1, string word2) {
         Dictionary<string, List<int>> _dict = new Dictionary<string, List<int>>();

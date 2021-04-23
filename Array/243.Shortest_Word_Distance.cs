@@ -17,7 +17,20 @@ wordsDict[i] consists of lowercase English letters.
 word1 and word2 are in wordsDict.
 word1 != word2
 */
+/********************************************************************************
+Solution Category: 
 
+*********************************************************************************
+Time Range:
+From: 
+To: 
+*********************************************************************************
+Submission Result:
+
+*********************************************************************************
+Note: 
+
+*********************************************************************************/
 public class Solution {
     public int ShortestDistance(string[] wordsDict, string word1, string word2) {
         /*

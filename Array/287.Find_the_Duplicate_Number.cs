@@ -39,8 +39,21 @@ Can you solve the problem using only constant, O(1) extra space?
 Can you solve the problem with runtime complexity less than O(n2)?
 */
 
-//Floyd's Tortoise and Hare?????
 
+/********************************************************************************
+Solution Category: 
+
+*********************************************************************************
+Time Range:
+From: 
+To: 
+*********************************************************************************
+Submission Result:
+
+*********************************************************************************
+Note: 
+//Floyd's Tortoise and Hare?????
+*********************************************************************************/
 public class Solution {
     public int FindDuplicate(int[] nums) {
         /*

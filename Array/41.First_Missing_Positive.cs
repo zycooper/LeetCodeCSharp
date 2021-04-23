@@ -27,6 +27,21 @@ then loop through the sorted array again, if current item doesn't equal to the c
 
 basically: loop through the original array make sure all the values which have correct positon to the correct position(eg, 6,7,-1,1 -> only 1 has correct position and the position is 0, otherwise it doesn't matter since 2 is not the array value)
 */
+
+/********************************************************************************
+Solution Category: 
+
+*********************************************************************************
+Time Range:
+From: 
+To: 
+*********************************************************************************
+Submission Result:
+
+*********************************************************************************
+Note: 
+
+*********************************************************************************/
 public class Solution {
     public int FirstMissingPositive(int[] nums) {
         /*
@@ -62,6 +77,5 @@ public class Solution {
         }
         
         return nums.Length + 1;
-    }
-    }
+    }    
 }
