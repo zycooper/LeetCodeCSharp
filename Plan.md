@@ -285,7 +285,7 @@
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[Medium](./Array/33.Search_in_Rotated_Sorted_Array.cs)|Binary Search|2021-04-14|
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)|[Medium](./Array/81.Search_in_Rotated_Sorted_Array_II.cs)|Binary Search|2021-04-14|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)|[Medium](./Array/153.Find_Minimum_in_Rotated_Sorted_Array.cs)|Binary Search|2021-04-15|
-|154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/)|[Hard](./Array/154.Find_Minimum_in_Rotated_Sorted_Array_II.cs)|Binary Search||
+|154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/)|[Hard](./Array/154.Find_Minimum_in_Rotated_Sorted_Array_II.cs)|Binary Search|2021-04-23|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)|[Medium](./Array/162.Find_Peak_Element.cs)|Binary Search|2021-04-15|
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[Easy](./Array/374.Guess_Number_Higher_or_Lower.cs)|Binary Search|2021-04-15|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|[Medium](./Array/34.Find_First_and_Last_Position_of_Element_in_Sorted_Array.cs)|Binary Search|2021-04-15|
@@ -293,7 +293,7 @@
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)|[Easy](./Array/350.Intersection_of_Two_Arrays_II.cs)|Binary Search|2021-04-15|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)|[Hard](./Array/315.Count_of_Smaller_Numbers_After_Self.cs)|Binary Search||
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)|[Medium](./Array/300.Longest_Increasing_Subsequence.cs)|Binary Search|2021-04-19|
-|354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/)|[Hard](./Array/354.Russian_Doll_Envelopes.cs)|Binary Search||
+|354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/)|[Hard](./Array/354.Russian_Doll_Envelopes.cs)|Binary Search|2021-04-23|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[Medium](./Matrix/48.Rotate_Image.cs)|Matrix||
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)|[Medium](./Matrix/54.Spiral_Matrix.cs)|Matrix||
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/)|[Medium](./Matrix/59.Spiral_Matrix_II.cs)|Matrix||
