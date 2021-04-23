@@ -72,7 +72,7 @@
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)|[Easy](./Array/350.Intersection_of_Two_Arrays_II.cs)|Array|2021-04-15|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)|[Hard](./Array/315.Count_of_Smaller_Numbers_After_Self.cs)|Array||
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)|[Medium](./Array/300.Longest_Increasing_Subsequence.cs)|Array|2021-04-19|
-|354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/)|[Hard](./Array/354.Russian_Doll_Envelopes.cs)|Array||
+|354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/)|[Hard](./Array/354.Russian_Doll_Envelopes.cs)|Array|2021-04-23|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)|[Easy](./String/28.Implement_strStr().cs)|String||
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)|[Easy](./String/14.Longest_Common_Prefix.cs)|String||
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)|[Easy](./String/58.Length_of_Last_Word.cs)|String||
