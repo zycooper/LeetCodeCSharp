@@ -38,29 +38,64 @@ If 99% of all integer numbers from the stream are in the range [0, 100], how wou
  Attampt Times: 0
  *********************************************************************************
  Time Range:
- From: 
- To: 
+ From: 2021-04-23 14:00
+ To: 2021-04-23 14:50
  *********************************************************************************
  Submission Result:
-
+    Runtime: 344 ms, faster than 43.44% of C# online submissions for Find Median from Data Stream.
+    Memory Usage: 53.6 MB, less than 54.52% of C# online submissions for Find Median from Data Stream.
  *********************************************************************************
  Note: 
+    | Sorting | Heap |
 
+    be carefull,
+    in an array
+    if even, [length/2 - 1] and [length/2] return the before and after item between middle
+    if odd, [length/2] returns the middle
+
+    if use BinarySearch, use ~pos when insert
  *********************************************************************************/
 public class MedianFinder {
-
+    private List<double> result = new List<double>();
     /** initialize your data structure here. */
     public MedianFinder() {
         
     }
     
     public void AddNum(int num) {
-        
+        //int pos = result.BinaryResearch(num);BinarySearch
+        int pos = result.BinarySearch(num);
+
+            if (result.Count() == 0)
+            {
+                result.Add(num);
+            }
+            else if (pos >= 0)
+            {
+                result.Insert(pos, num);
+            }
+            else 
+            {
+                result.Insert(~pos, num);
+            }
     }
     
     public double FindMedian() {
-        
+        if(result.Count() == 0){ return int.MinValue;}
+
+        if(result.Count() % 2 == 0)
+        {
+            //even
+            return (result[result.Count()/2 - 1] + result[result.Count()/2])/2;
+        }
+        else
+        {
+            //odd
+            return result[result.Count()/2];
+        }
     }
+
+
 }
 
 /**
