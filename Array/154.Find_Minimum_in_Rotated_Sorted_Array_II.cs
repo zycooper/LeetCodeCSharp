@@ -23,7 +23,7 @@ nums is sorted and rotated between 1 and n times.
 
  /********************************************************************************
  Solution Category: 
- | Binary Search |
+ | Binary Search | Divide and Conquer + recursion |
  *********************************************************************************
  Time Range:
  From: 2021-04-23 15:20
@@ -36,6 +36,8 @@ nums is sorted and rotated between 1 and n times.
  Note: 
     when move left, keep note you should move the left to the one more right position by mid
     left = mid + 1;
+
+    when use Divide and Conquer, split into different small set and find the smallest, which use recursion
  *********************************************************************************/
 public class Solution {
     public int FindMin(int[] nums) {
