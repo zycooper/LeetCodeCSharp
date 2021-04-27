@@ -10,6 +10,11 @@ Submission Result:
 
 *********************************************************************************
 Note: 
+ 11-16-2020
+ still need to spend more time on this since the submission failed, anyway, start from the abandon on the vocabulary
+    1. get more familier with C# list 
+    2. get more familier with array
+    3. get more familier with dictionary and the build-in funcitons(and their names!)
 
 *********************************************************************************/
 
