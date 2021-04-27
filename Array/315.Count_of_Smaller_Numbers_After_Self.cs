@@ -26,7 +26,7 @@ Constraints:
 
  /********************************************************************************
  Solution Category: 
- | Binary Search Tree | Binary Indexed Tree |
+ | Binary Search Tree | Binary Indexed Tree | Merge Sort |
  
     Fenwick Tree
  *********************************************************************************
