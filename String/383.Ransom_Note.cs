@@ -27,6 +27,7 @@ You may assume that both strings contain only lowercase letters.
  To: 2021-04-27 12:44
  *********************************************************************************
  Submission Result:
+ by self
 Runtime: 104 ms, faster than 36.91% of C# online submissions for Ransom Note.
 Memory Usage: 28.9 MB, less than 20.17% of C# online submissions for Ransom Note.
  *********************************************************************************
