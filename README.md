@@ -1,6 +1,6 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-70-orange)<br>
-![](https://progress-bar.dev/17)<br>
+![](https://img.shields.io/badge/Submitted-76-orange)<br>
+![](https://progress-bar.dev/19)<br>
 <br>
 [Submit queue](./Plan.md)<br>
 
@@ -160,7 +160,7 @@
 |148|[Sort List](https://leetcode.com/problems/sort-list/description/)|[Medium](./LinkedList/148.Sort_List.cs)||
 |149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/)|[Hard](./Graph/149.Max_Points_on_a_Line.cs)||
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)|[Medium](./Stack&PriorityQueue/150.Evaluate_Reverse_Polish_Notation.cs)||
-|151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/)|[Medium](./String/151.Reverse_Words_in_a_String.cs)||
+|151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/)|[Medium](./String/151.Reverse_Words_in_a_String.cs)|2021-04-27|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)|[Medium](./Array/152.Maximum_Product_Subarray.cs)|2021-04-12|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)|[Medium](./Array/153.Find_Minimum_in_Rotated_Sorted_Array.cs)|2021-04-15|
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/)|[Hard](./Array/154.Find_Minimum_in_Rotated_Sorted_Array_II.cs)|2021-04-23|
@@ -195,7 +195,7 @@
 |183|[Customers Who Never Order    ]()|[Easy](./UnCategory/183.Customers_Who_Never_Order.cs)||
 |184|[Department Highest Salary    ]()|[Medium](./UnCategory/184.Department_Highest_Salary.cs)||
 |185|[Department Top Three Salaries    ]()|[Hard](./UnCategory/185.Department_Top_Three_Salaries.cs)||
-|186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/description/)|[Medium](./String/186.Reverse_Words_in_a_String_II.cs)||
+|186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/description/)|[Medium](./String/186.Reverse_Words_in_a_String_II.cs)|2021-04-27|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/description/)|[Medium](./String/187.Repeated_DNA_Sequences.cs)||
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/)|[Hard](./Array/188.Best_Time_to_Buy_and_Sell_Stock_IV.cs)||
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/)|[Medium](./Array/189.Rotate_Array.cs)|2021-03-17|
@@ -214,7 +214,7 @@
 |202|[Happy Number](https://leetcode.com/problems/happy-number/description/)|[Easy](./Math/202.Happy_Number.cs)||
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)|[Easy](./LinkedList/203.Remove_Linked_List_Elements.cs)||
 |204|[Count Primes](https://leetcode.com/problems/count-primes/description/)|[Easy](./Math/204.Count_Primes.cs)||
-|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)|[Easy](./String/205.Isomorphic_Strings.cs)||
+|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)|[Easy](./String/205.Isomorphic_Strings.cs)|2021-04-27|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)|[Easy](./LinkedList/206.Reverse_Linked_List.cs)||
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/description/)|[Medium](./Topological_Sort/207.Course_Schedule.cs)||
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)|[Medium](./Trie/208.Implement_Trie_(Prefix_Tree).cs)||
@@ -353,8 +353,8 @@
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[Medium](./Stack&PriorityQueue/341.Flatten_Nested_List_Iterator.cs)||
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/description/)|[Easy](./Math/342.Power_of_Four.cs)||
 |343|[Integer Break](https://leetcode.com/problems/integer-break/description/)|[Medium](./Math/343.Integer_Break.cs)||
-|344|[Reverse String](https://leetcode.com/problems/reverse-string/description/)|[Easy](./String/344.Reverse_String.cs)||
-|345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)|[Easy](./String/345.Reverse_Vowels_of_a_String.cs)||
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/description/)|[Easy](./String/344.Reverse_String.cs)|2021-04-27|
+|345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)|[Easy](./String/345.Reverse_Vowels_of_a_String.cs)|2021-04-27|
 |346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/description/)|[Easy](./Design/346.Moving_Average_from_Data_Stream.cs)||
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)|[Medium](./Stack&PriorityQueue/347.Top_K_Frequent_Elements.cs)||
 |348|[Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/description/)|[Medium](./Design/348.Design_Tic-Tac-Toe.cs)||
@@ -392,7 +392,7 @@
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Medium](./Random/380.Insert_Delete_GetRandom_O(1).cs)||
 |381|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)|[Hard](./Random/381.Insert_Delete_GetRandom_O(1)_Duplicates_allowed.cs)||
 |382|[Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)|[Medium](./Random/382.Linked_List_Random_Node.cs)||
-|383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/)|[Easy](./String/383.Ransom_Note.cs)||
+|383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/)|[Easy](./String/383.Ransom_Note.cs)|2021-04-27|
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[Medium](./Random/384.Shuffle_an_Array.cs)||
 |385|[Mini Parser](https://leetcode.com/problems/mini-parser/description/)|[Medium](./Stack&PriorityQueue/385.Mini_Parser.cs)||
 |386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/)|[Medium](./Math/386.Lexicographical_Numbers.cs)||

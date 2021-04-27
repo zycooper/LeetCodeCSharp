@@ -21,7 +21,8 @@ s and t consist of any valid ascii character.
 */
 
  /********************************************************************************
- Solution Category: 0
+ Solution Category: 
+ | HashTable | Dictionary |
  *********************************************************************************
  Time Range:
  From: 2021-04-27 14:50

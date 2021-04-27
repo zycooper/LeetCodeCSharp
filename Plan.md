@@ -72,12 +72,12 @@
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)|[Easy](./String/14.Longest_Common_Prefix.cs)|String|2021-04-27|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)|[Easy](./String/58.Length_of_Last_Word.cs)|String|2021-04-27|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)|[Easy](./String/387.First_Unique_Character_in_a_String.cs)|String|2021-04-27|
-|383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/)|[Easy](./String/383.Ransom_Note.cs)|String||
-|344|[Reverse String](https://leetcode.com/problems/reverse-string/description/)|[Easy](./String/344.Reverse_String.cs)|String||
-|151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/)|[Medium](./String/151.Reverse_Words_in_a_String.cs)|String||
-|186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/description/)|[Medium](./String/186.Reverse_Words_in_a_String_II.cs)|String||
-|345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)|[Easy](./String/345.Reverse_Vowels_of_a_String.cs)|String||
-|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)|[Easy](./String/205.Isomorphic_Strings.cs)|String||
+|383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/)|[Easy](./String/383.Ransom_Note.cs)|String|2021-04-27|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/description/)|[Easy](./String/344.Reverse_String.cs)|String|2021-04-27|
+|151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/)|[Medium](./String/151.Reverse_Words_in_a_String.cs)|String|2021-04-27|
+|186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/description/)|[Medium](./String/186.Reverse_Words_in_a_String_II.cs)|String|2021-04-27|
+|345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)|[Easy](./String/345.Reverse_Vowels_of_a_String.cs)|String|2021-04-27|
+|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)|[Easy](./String/205.Isomorphic_Strings.cs)|String|2021-04-27|
 |293|[Flip Game](https://leetcode.com/problems/flip-game/description/)|[Easy](./String/293.Flip_Game.cs)|String||
 |294|[Flip Game II](https://leetcode.com/problems/flip-game-ii/description/)|[Medium](./String/294.Flip_Game_II.cs)|String||
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/description/)|[Easy](./String/290.Word_Pattern.cs)|String||
