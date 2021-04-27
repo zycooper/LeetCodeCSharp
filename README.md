@@ -1,6 +1,6 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-66-orange)<br>
-![](https://progress-bar.dev/16)<br>
+![](https://img.shields.io/badge/Submitted-70-orange)<br>
+![](https://progress-bar.dev/17)<br>
 <br>
 [Submit queue](./Plan.md)<br>
 
@@ -23,7 +23,7 @@
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)|[Medium](./Array/11.Container_With_Most_Water.cs)|2021-03-25|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/)|[Medium](./String/12.Integer_to_Roman.cs)||
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)|[Easy](./String/13.Roman_to_Integer.cs)||
-|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)|[Easy](./String/14.Longest_Common_Prefix.cs)||
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)|[Easy](./String/14.Longest_Common_Prefix.cs)|2021-04-27|
 |15|[3Sum](https://leetcode.com/problems/3sum/description/)|[Medium](./Math/15.3Sum.cs)||
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/)|[Medium](./Math/16.3Sum_Closest.cs)||
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)|[Medium](./Backtracking/17.Letter_Combinations_of_a_Phone_Number.cs)||
@@ -37,7 +37,7 @@
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)|[Hard](./LinkedList/25.Reverse_Nodes_in_k-Group.cs)||
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[Easy](./Array/26.Remove_Duplicates_from_Sorted_Array.cs)|2021-03-16|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Easy](./Array/27.Remove_Element.cs)|2021-03-16|
-|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)|[Easy](./String/28.Implement_strStr().cs)||
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)|[Easy](./String/28.Implement_strStr().cs)|2021-04-27|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/)|[Medium](./Math/29.Divide_Two_Integers.cs)||
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/)|[Hard](./String/30.Substring_with_Concatenation_of_All_Words.cs)||
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/description/)|[Medium](./Backtracking/31.Next_Permutation.cs)||
@@ -67,7 +67,7 @@
 |55|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[Medium](./Array/55.Jump_Game.cs)|2021-03-23|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)|[Medium](./Array/56.Merge_Intervals.cs)|2021-04-12|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/description/)|[Medium](./Array/57.Insert_Interval.cs)|2021-04-12|
-|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)|[Easy](./String/58.Length_of_Last_Word.cs)||
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)|[Easy](./String/58.Length_of_Last_Word.cs)|2021-04-27|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/)|[Medium](./Matrix/59.Spiral_Matrix_II.cs)||
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/)|[Hard](./Backtracking/60.Permutation_Sequence.cs)||
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/description/)|[Medium](./LinkedList/61.Rotate_List.cs)||
@@ -396,7 +396,7 @@
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[Medium](./Random/384.Shuffle_an_Array.cs)||
 |385|[Mini Parser](https://leetcode.com/problems/mini-parser/description/)|[Medium](./Stack&PriorityQueue/385.Mini_Parser.cs)||
 |386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/)|[Medium](./Math/386.Lexicographical_Numbers.cs)||
-|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)|[Easy](./String/387.First_Unique_Character_in_a_String.cs)||
+|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)|[Easy](./String/387.First_Unique_Character_in_a_String.cs)|2021-04-27|
 |388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/description/)|[Medium](./Stack&PriorityQueue/388.Longest_Absolute_File_Path.cs)||
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/description/)|[Easy](./Bit_Manipulation/389.Find_the_Difference.cs)||
 |390|[Elimination Game](https://leetcode.com/problems/elimination-game/description/)|[Medium](./Math/390.Elimination_Game.cs)||

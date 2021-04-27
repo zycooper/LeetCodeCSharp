@@ -68,10 +68,10 @@
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)|[Hard](./Array/315.Count_of_Smaller_Numbers_After_Self.cs)|Array||
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)|[Medium](./Array/300.Longest_Increasing_Subsequence.cs)|Array|2021-04-19|
 |354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/)|[Hard](./Array/354.Russian_Doll_Envelopes.cs)|Array|2021-04-23|
-|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)|[Easy](./String/28.Implement_strStr().cs)|String||
-|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)|[Easy](./String/14.Longest_Common_Prefix.cs)|String||
-|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)|[Easy](./String/58.Length_of_Last_Word.cs)|String||
-|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)|[Easy](./String/387.First_Unique_Character_in_a_String.cs)|String||
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)|[Easy](./String/28.Implement_strStr().cs)|String|2021-04-27|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)|[Easy](./String/14.Longest_Common_Prefix.cs)|String|2021-04-27|
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)|[Easy](./String/58.Length_of_Last_Word.cs)|String|2021-04-27|
+|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)|[Easy](./String/387.First_Unique_Character_in_a_String.cs)|String|2021-04-27|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/)|[Easy](./String/383.Ransom_Note.cs)|String||
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/description/)|[Easy](./String/344.Reverse_String.cs)|String||
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/)|[Medium](./String/151.Reverse_Words_in_a_String.cs)|String||
