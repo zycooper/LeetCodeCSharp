@@ -23,17 +23,35 @@ currentState[i] is either '+' or '-'.
  Solution Category: 0
  *********************************************************************************
  Time Range:
- From: 
- To: 
+ From: 2021-04-28 09:20
+ To: 2021-04-28 09:23
  *********************************************************************************
  Submission Result:
-
+    Runtime: 236 ms, faster than 50.00% of C# online submissions for Flip Game.
+    Memory Usage: 32.6 MB, less than 50.00% of C# online submissions for Flip Game.
  *********************************************************************************
  Note: 
 
  *********************************************************************************/
 public class Solution {
     public IList<string> GeneratePossibleNextMoves(string currentState) {
+        List<string> result = new List<string>();
+
+        if(currentState.Length < 2){ return new List<string>();}
         
+        for(int i = 1; i < currentState.Length;i++)
+        {
+            if(currentState.Substring(i,1) == "+" && currentState.Substring(i-1,1) == "+")
+            {
+                StringBuilder sb = new StringBuilder(currentState);
+
+                sb[i] = '-';
+                sb[i - 1] = '-';
+
+                result.Add(sb.ToString());
+            }
+        }
+
+        return result;
     }
 }
