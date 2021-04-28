@@ -78,10 +78,10 @@
 |186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/description/)|[Medium](./String/186.Reverse_Words_in_a_String_II.cs)|String|2021-04-27|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)|[Easy](./String/345.Reverse_Vowels_of_a_String.cs)|String|2021-04-27|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)|[Easy](./String/205.Isomorphic_Strings.cs)|String|2021-04-27|
-|293|[Flip Game](https://leetcode.com/problems/flip-game/description/)|[Easy](./String/293.Flip_Game.cs)|String||
-|294|[Flip Game II](https://leetcode.com/problems/flip-game-ii/description/)|[Medium](./String/294.Flip_Game_II.cs)|String||
-|290|[Word Pattern](https://leetcode.com/problems/word-pattern/description/)|[Easy](./String/290.Word_Pattern.cs)|String||
-|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)|[Easy](./String/242.Valid_Anagram.cs)|String||
+|293|[Flip Game](https://leetcode.com/problems/flip-game/description/)|[Easy](./String/293.Flip_Game.cs)|String|2021-04-28|
+|294|[Flip Game II](https://leetcode.com/problems/flip-game-ii/description/)|[Medium](./String/294.Flip_Game_II.cs)|String|2021-04-28|
+|290|[Word Pattern](https://leetcode.com/problems/word-pattern/description/)|[Easy](./String/290.Word_Pattern.cs)|String|2021-04-28|
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)|[Easy](./String/242.Valid_Anagram.cs)|String|2021-04-28|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[Medium](./String/49.Group_Anagrams.cs)|String||
 |249|[Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/description/)|[Medium](./String/249.Group_Shifted_Strings.cs)|String||
 |87|[Scramble String](https://leetcode.com/problems/scramble-string/description/)|[Hard](./String/87.Scramble_String.cs)|String||

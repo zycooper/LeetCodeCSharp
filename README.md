@@ -1,6 +1,6 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-76-orange)<br>
-![](https://progress-bar.dev/19)<br>
+![](https://img.shields.io/badge/Submitted-80-orange)<br>
+![](https://progress-bar.dev/20)<br>
 <br>
 [Submit queue](./Plan.md)<br>
 
@@ -251,7 +251,7 @@
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/)|[Hard](./Array/239.Sliding_Window_Maximum.cs)||
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)|[Medium](./Matrix/240.Search_a_2D_Matrix_II.cs)||
 |241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/description/)|[Medium](./String/241.Different_Ways_to_Add_Parentheses.cs)||
-|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)|[Easy](./String/242.Valid_Anagram.cs)||
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)|[Easy](./String/242.Valid_Anagram.cs)|2021-04-28|
 |243|[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/description/)|[Easy](./Array/243.Shortest_Word_Distance.cs)|2021-03-22|
 |244|[Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/description/)|[Medium](./Array/244.Shortest_Word_Distance_II.cs)|2021-03-22|
 |245|[Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/description/)|[Medium](./Array/245.Shortest_Word_Distance_III.cs)|2021-03-22|
@@ -299,11 +299,11 @@
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)|[Medium](./Array/287.Find_the_Duplicate_Number.cs)|2021-03-26|
 |288|[Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/description/)|[Medium](./Design/288.Unique_Word_Abbreviation.cs)||
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/description/)|[Medium](./Array/289.Game_of_Life.cs)|2021-04-08|
-|290|[Word Pattern](https://leetcode.com/problems/word-pattern/description/)|[Easy](./String/290.Word_Pattern.cs)||
+|290|[Word Pattern](https://leetcode.com/problems/word-pattern/description/)|[Easy](./String/290.Word_Pattern.cs)|2021-04-28|
 |291|[Word Pattern II](https://leetcode.com/problems/word-pattern-ii/description/)|[Medium](./Backtracking/291.Word_Pattern_II.cs)||
 |292|[Nim Game](https://leetcode.com/problems/nim-game/description/)|[Easy](./Math/292.Nim_Game.cs)||
-|293|[Flip Game](https://leetcode.com/problems/flip-game/description/)|[Easy](./String/293.Flip_Game.cs)||
-|294|[Flip Game II](https://leetcode.com/problems/flip-game-ii/description/)|[Medium](./String/294.Flip_Game_II.cs)||
+|293|[Flip Game](https://leetcode.com/problems/flip-game/description/)|[Easy](./String/293.Flip_Game.cs)|2021-04-28|
+|294|[Flip Game II](https://leetcode.com/problems/flip-game-ii/description/)|[Medium](./String/294.Flip_Game_II.cs)|2021-04-28|
 |295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/)|[Hard](./Array/295.Find_Median_from_Data_Stream.cs)|2021-04-23|
 |296|[Best Meeting Point](https://leetcode.com/problems/best-meeting-point/description/)|[Hard](./Matrix/296.Best_Meeting_Point.cs)||
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)|[Hard](./Tree/297.Serialize_and_Deserialize_Binary_Tree.cs)||
