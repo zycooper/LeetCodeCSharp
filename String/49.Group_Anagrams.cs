@@ -26,16 +26,37 @@ strs[i] consists of lower-case English letters.
  *********************************************************************************
  Time Range:
  From: 2021-04-28 11:08
- To: 
+ To: 2021-04-29 09:31
  *********************************************************************************
  Submission Result:
-
+Runtime: 304 ms, faster than 32.45% of C# online submissions for Group Anagrams.
+Memory Usage: 39.4 MB, less than 54.67% of C# online submissions for Group Anagrams.
  *********************************************************************************
  Note: 
-
+I thought this is tricky one, but turns out it's straight as f
+just solve it with loop through..
  *********************************************************************************/
+ 
 public class Solution {
-    public IList<IList<string>> GroupAnagrams(string[] strs) {
-        
+    public IList<IList<string>> GroupAnagrams(string[] strs) {       
+        Dictionary<string,List<string>> ans= new Dictionary<string,List<string>>();
+
+        for(int i = 0; i < strs.Length; i++)
+        {
+            char[] temp_arr = strs[i].ToCharArray();
+            Array.Sort(temp_arr);
+
+            string new_str = new string(temp_arr);
+            if(ans.ContainsKey(new_str))
+            {
+                ans[new_str].Add(strs[i]);
+            }
+            else
+            {
+                ans.Add(new_str,new List<string>(){strs[i]});
+            }
+        }
+
+        return ans.Values.ToArray();
     }
 }
