@@ -1,5 +1,5 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-80-orange)<br>
+![](https://img.shields.io/badge/Submitted-82-orange)<br>
 ![](https://progress-bar.dev/20)<br>
 <br>
 [Submit queue](./Plan.md)<br>
@@ -58,7 +58,7 @@
 |46|[Permutations](https://leetcode.com/problems/permutations/description/)|[Medium](./Backtracking/46.Permutations.cs)||
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/description/)|[Medium](./Backtracking/47.Permutations_II.cs)||
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[Medium](./Matrix/48.Rotate_Image.cs)||
-|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[Medium](./String/49.Group_Anagrams.cs)||
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[Medium](./String/49.Group_Anagrams.cs)|2021-04-29|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/)|[Medium](./Math/50.Pow(x,_n).cs)||
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)|[Hard](./DFS&BFS/51.N-Queens.cs)||
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/description/)|[Hard](./DFS&BFS/52.N-Queens_II.cs)||
@@ -258,7 +258,7 @@
 |246|[Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/description/)|[Easy](./String/246.Strobogrammatic_Number.cs)||
 |247|[Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/description/)|[Medium](./String/247.Strobogrammatic_Number_II.cs)||
 |248|[Strobogrammatic Number III](https://leetcode.com/problems/strobogrammatic-number-iii/description/)|[Hard](./String/248.Strobogrammatic_Number_III.cs)||
-|249|[Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/description/)|[Medium](./String/249.Group_Shifted_Strings.cs)||
+|249|[Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/description/)|[Medium](./String/249.Group_Shifted_Strings.cs)|2021-04-29|
 |250|[Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/description/)|[Medium](./Tree/250.Count_Univalue_Subtrees.cs)||
 |251|[Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/description/s)|[Medium](./Design/251.Flatten_2D_Vector.cs)||
 |252|[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/description/)|[Easy](./Array/252.Meeting_Rooms.cs)|2021-03-30|
