@@ -85,9 +85,9 @@
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[Medium](./String/49.Group_Anagrams.cs)|String|2021-04-29|
 |249|[Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/description/)|[Medium](./String/249.Group_Shifted_Strings.cs)|String|2021-04-29|
 |87|[Scramble String](https://leetcode.com/problems/scramble-string/description/)|[Hard](./String/87.Scramble_String.cs)|String|Hold|
-|179|[Largest Number](https://leetcode.com/problems/largest-number/description/)|[Medium](./String/179.Largest_Number.cs)|String||
-|6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)|[Medium](./String/6.ZigZag_Conversion.cs)|String||
-|161|[One Edit Distance](https://leetcode.com/problems/one-edit-distance/)|[Medium](./String/161.One_Edit_Distance.cs)|String||
+|179|[Largest Number](https://leetcode.com/problems/largest-number/description/)|[Medium](./String/179.Largest_Number.cs)|String|2021-04-30|
+|6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)|[Medium](./String/6.ZigZag_Conversion.cs)|String|2021-04-30|
+|161|[One Edit Distance](https://leetcode.com/problems/one-edit-distance/)|[Medium](./String/161.One_Edit_Distance.cs)|String|2021-05-09|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/description/)|[Medium](./String/38.Count_and_Say.cs)|String||
 |358|[Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/description/)|[Hard](./String/358.Rearrange_String_k_Distance_Apart.cs)|String|Hold|
 |316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/description/)|[Medium](./String/316.Remove_Duplicate_Letters.cs)|String||
