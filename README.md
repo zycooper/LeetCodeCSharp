@@ -1,6 +1,6 @@
 ## LeetCode Progress (out of first 400 problems)
 ![](https://img.shields.io/badge/Submitted-85-orange)<br>
-![](https://progress-bar.dev/20)<br>
+![](https://progress-bar.dev/21)<br>
 <br>
 [Submit queue](./Plan.md)<br>
 
