@@ -1,5 +1,5 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-82-orange)<br>
+![](https://img.shields.io/badge/Submitted-85-orange)<br>
 ![](https://progress-bar.dev/20)<br>
 <br>
 [Submit queue](./Plan.md)<br>
@@ -15,7 +15,7 @@
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|[Medium](./String/3.Longest_Substring_Without_Repeating_Characters.cs)||
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)|[Hard](./Array/4.Median_of_Two_Sorted_Arrays.cs)|2021-04-21|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)|[Medium](./String/5.Longest_Palindromic_Substring.cs)||
-|6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)|[Medium](./String/6.ZigZag_Conversion.cs)||
+|6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)|[Medium](./String/6.ZigZag_Conversion.cs)|2021-04-30|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)|[Easy](./Math/7.Reverse_Integer.cs)||
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)|[Medium](./Math/8.String_to_Integer_(atoi).cs)||
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)|[Easy](./String/9.Palindrome_Number.cs)||
@@ -170,7 +170,7 @@
 |158|[Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/description/)|[Hard](./String/158.Read_N_Characters_Given_Read4_II_Call_multiple_times.cs)||
 |159|[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/description/)|[Medium](./String/159.Longest_Substring_with_At_Most_Two_Distinct_Characters.cs)||
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)|[Easy](./LinkedList/160.Intersection_of_Two_Linked_Lists.cs)||
-|161|[One Edit Distance](https://leetcode.com/problems/one-edit-distance/)|[Medium](./String/161.One_Edit_Distance.cs)||
+|161|[One Edit Distance](https://leetcode.com/problems/one-edit-distance/)|[Medium](./String/161.One_Edit_Distance.cs)|2021-05-09|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)|[Medium](./Array/162.Find_Peak_Element.cs)|2021-04-15|
 |163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/description/)|[Easy](./Array/163.Missing_Ranges.cs)|2021-04-13|
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/description/)|[Hard](./Array/164.Maximum_Gap.cs)|2021-04-21|
@@ -188,7 +188,7 @@
 |176|[Second Highest Salary    ]()|[Easy](./UnCategory/176.Second_Highest_Salary.cs)||
 |177|[Nth Highest Salary    ]()|[Medium](./UnCategory/177.Nth_Highest_Salary.cs)||
 |178|[Rank Scores    ]()|[Medium](./UnCategory/178.Rank_Scores.cs)||
-|179|[Largest Number](https://leetcode.com/problems/largest-number/description/)|[Medium](./String/179.Largest_Number.cs)||
+|179|[Largest Number](https://leetcode.com/problems/largest-number/description/)|[Medium](./String/179.Largest_Number.cs)|2021-04-30|
 |180|[Consecutive Numbers    ]()|[Medium](./UnCategory/180.Consecutive_Numbers.cs)||
 |181|[Employees Earning More Than Their Managers    ]()|[Easy](./UnCategory/181.Employees_Earning_More_Than_Their_Managers.cs)||
 |182|[Duplicate Emails    ]()|[Easy](./UnCategory/182.Duplicate_Emails.cs)||
