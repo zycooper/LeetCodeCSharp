@@ -1,5 +1,5 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-85-orange)<br>
+![](https://img.shields.io/badge/Submitted-86-orange)<br>
 ![](https://progress-bar.dev/21)<br>
 <br>
 [Submit queue](./Plan.md)<br>
@@ -47,7 +47,7 @@
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|[Easy](./Array/35.Search_Insert_Position.cs)|2021-04-14|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)|[Medium](./Matrix/36.Valid_Sudoku.cs)||
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/)|[Hard](./Matrix/37.Sudoku_Solver.cs)||
-|38|[Count and Say](https://leetcode.com/problems/count-and-say/description/)|[Medium](./String/38.Count_and_Say.cs)||
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/description/)|[Medium](./String/38.Count_and_Say.cs)|2021-05-12|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/description/)|[Medium](./Backtracking/39.Combination_Sum.cs)||
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)|[Medium](./Backtracking/40.Combination_Sum_II.cs)||
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|[Hard](./Array/41.First_Missing_Positive.cs)|2021-03-31|
