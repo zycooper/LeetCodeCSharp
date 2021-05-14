@@ -91,10 +91,10 @@
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/description/)|[Medium](./String/38.Count_and_Say.cs)|String|2021-05-12|
 |358|[Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/description/)|[Hard](./String/358.Rearrange_String_k_Distance_Apart.cs)|String|Hold|
 |316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/description/)|[Medium](./String/316.Remove_Duplicate_Letters.cs)|String|2021-05-13|
-|271|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/description/)|[Medium](./String/271.Encode_and_Decode_Strings.cs)|String||
-|168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)|[Easy](./String/168.Excel_Sheet_Column_Title.cs)|String||
-|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/)|[Easy](./String/171.Excel_Sheet_Column_Number.cs)|String||
-|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)|[Easy](./String/13.Roman_to_Integer.cs)|String||
+|271|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/description/)|[Medium](./String/271.Encode_and_Decode_Strings.cs)|String|2021-05-14|
+|168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)|[Easy](./String/168.Excel_Sheet_Column_Title.cs)|String|2021-05-14|
+|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/)|[Easy](./String/171.Excel_Sheet_Column_Number.cs)|String|2021-05-14|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)|[Easy](./String/13.Roman_to_Integer.cs)|String|2021-05-14|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/)|[Medium](./String/12.Integer_to_Roman.cs)|String||
 |273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/)|[Hard](./String/273.Integer_to_English_Words.cs)|String||
 |246|[Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/description/)|[Easy](./String/246.Strobogrammatic_Number.cs)|String||
