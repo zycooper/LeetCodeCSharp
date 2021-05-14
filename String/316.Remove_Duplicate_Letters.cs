@@ -28,7 +28,7 @@ Memory Usage: 24.6 MB, less than 63.54% of C# online submissions for Remove Dupl
 
  *********************************************************************************
  Note: 
-
+https://www.youtube.com/watch?v=YbY1abVflOY&t=634s
  *********************************************************************************/
 public class Solution {
     public string RemoveDuplicateLetters(string s) {
