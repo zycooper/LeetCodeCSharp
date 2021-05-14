@@ -47,24 +47,59 @@ strs[i] contains any possible characters out of 256 valid ASCII characters.
  *********************************************************************************
  Time Range:
  From: 2021-05-14 14:23
- To: 
+ To: 2021-05-14 15:07
  *********************************************************************************
  Submission Result:
-
+Runtime: 268 ms, faster than 69.84% of C# online submissions for Encode and Decode Strings.
+Memory Usage: 41 MB, less than 31.75% of C# online submissions for Encode and Decode Strings.
  *********************************************************************************
  Note: 
+https://leetcode.com/problems/encode-and-decode-strings/discuss/476762/Easy-C-Solution
 
+string.Join(",",sizeArr)
+
+list has .Count()
+array has .Length
  *********************************************************************************/
 public class Codec {
 
     // Encodes a list of strings to a single string.
     public string encode(IList<string> strs) {
+
+        int[] sizeArr = new int[strs.Count()];
+        StringBuilder sb = new StringBuilder();
         
+        for(int i = 0; i < strs.Count(); i++)
+        {
+            sizeArr[i] = strs[i].Length; 
+            sb.Append(strs[i]);
+        }
+
+        return string.Join(",",sizeArr) + "|" + sb.ToString();
     }
 
     // Decodes a single string to a list of strings.
     public IList<string> decode(string s) {
-        
+
+        //locate the delimiter
+        int delimiterLoc = 0;
+        while(s[delimiterLoc] != '|')
+        {
+            delimiterLoc++;
+        }
+
+        string[] sizeArr = s.Substring(0,delimiterLoc).Split(new char[]{','});
+        List<string> strs = new List<string>();
+
+        int nextDelimiterLoc = delimiterLoc + 1;
+        for(int i = 0; i < sizeArr.Length; i++)
+        {
+            int size =int.Parse(sizeArr[i]);
+            strs.Add(s.Substring(nextDelimiterLoc,size));
+            nextDelimiterLoc += size;
+        }
+
+        return strs;
     }
 }
 
