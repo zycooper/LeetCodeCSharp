@@ -90,7 +90,7 @@
 |161|[One Edit Distance](https://leetcode.com/problems/one-edit-distance/)|[Medium](./String/161.One_Edit_Distance.cs)|String|2021-05-09|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/description/)|[Medium](./String/38.Count_and_Say.cs)|String|2021-05-12|
 |358|[Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/description/)|[Hard](./String/358.Rearrange_String_k_Distance_Apart.cs)|String|Hold|
-|316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/description/)|[Medium](./String/316.Remove_Duplicate_Letters.cs)|String||
+|316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/description/)|[Medium](./String/316.Remove_Duplicate_Letters.cs)|String|2021-05-13|
 |271|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/description/)|[Medium](./String/271.Encode_and_Decode_Strings.cs)|String||
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)|[Easy](./String/168.Excel_Sheet_Column_Title.cs)|String||
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/)|[Easy](./String/171.Excel_Sheet_Column_Number.cs)|String||
