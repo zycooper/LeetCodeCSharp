@@ -1,5 +1,5 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-86-orange)<br>
+![](https://img.shields.io/badge/Submitted-87-orange)<br>
 ![](https://progress-bar.dev/21)<br>
 <br>
 [Submit queue](./Plan.md)<br>
@@ -325,7 +325,7 @@
 |313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/description/)|[Medium](./Stack&PriorityQueue/313.Super_Ugly_Number.cs)||
 |314|[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/)|[Medium](./Tree/314.Binary_Tree_Vertical_Order_Traversal.cs)||
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)|[Hard](./Array/315.Count_of_Smaller_Numbers_After_Self.cs)||
-|316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/description/)|[Medium](./String/316.Remove_Duplicate_Letters.cs)||
+|316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/description/)|[Medium](./String/316.Remove_Duplicate_Letters.cs)|2021-05-13|
 |317|[Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/description/)|[Hard](./Matrix/317.Shortest_Distance_from_All_Buildings.cs)||
 |318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/description/)|[Medium](./Bit_Manipulation/318.Maximum_Product_of_Word_Lengths.cs)||
 |319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/)|[Medium](./Math/319.Bulb_Switcher.cs)||
