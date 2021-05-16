@@ -54,17 +54,47 @@ Constraints:
  Mirror Question : 13
  *********************************************************************************
  Time Range:
- From: 
- To: 
+ From: 2021-05-16 15:30
+ To: 2021-05-16 15:51
  *********************************************************************************
  Submission Result:
-
+Runtime: 116 ms, faster than 5.80% of C# online submissions for Integer to Roman.
+Memory Usage: 27 MB, less than 57.71% of C# online submissions for Integer to Roman.
  *********************************************************************************
  Note: 
-
+keep minus the largest number in dict which is less than the target number and append the corresponding string
  *********************************************************************************/
 public class Solution {
     public string IntToRoman(int num) {
+        Dictionary<int,string> _dict = new Dictionary<int,string>()
+        {
+          [1000] = "M",
+          [900] = "CM",
+          [500] = "D",
+          [400] = "CD",
+          [100] = "C",
+          [90] = "XC",
+          [50] = "L",
+          [40] = "XL",
+          [10] = "X",
+          [9] = "IX",
+          [5] = "V",
+          [4] = "IV",
+          [1] = "I"
+        };
+         
+        StringBuilder sb = new StringBuilder();
+            
+         for(int i = 0; i < _dict.Count && num > 0; i++)
+         {
+             //below is  <= not <, if < will miss the seniro
+             while(_dict.Keys.ElementAt(i) <= num)
+             {
+                 num -= _dict.Keys.ElementAt(i);
+                 sb.Append(_dict.Values.ElementAt(i));
+             }
+         }
         
+        return sb.ToString();
     }
 }
