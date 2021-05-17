@@ -26,7 +26,8 @@ num does not contain any leading zeros except for zero itself.
 */
 
  /********************************************************************************
- Solution Category: 0
+ Solution Category: 
+ 
  *********************************************************************************
  Time Range:
  From: 2021-05-17 10:07
