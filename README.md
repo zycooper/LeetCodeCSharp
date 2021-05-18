@@ -1,5 +1,5 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-92-orange)<br>
+![](https://img.shields.io/badge/Submitted-95-orange)<br>
 ![](https://progress-bar.dev/23)<br>
 <br>
 [Submit queue](./Plan.md)<br>
@@ -166,7 +166,7 @@
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/)|[Hard](./Array/154.Find_Minimum_in_Rotated_Sorted_Array_II.cs)|2021-04-23|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/description/)|[Easy](./Stack&PriorityQueue/155.Min_Stack.cs)||
 |156|[Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/description/)|[Medium](./Tree/156.Binary_Tree_Upside_Down.cs)||
-|157|[Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/description/)|[Easy](./String/157.Read_N_Characters_Given_Read4.cs)||
+|157|[Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/description/)|[Easy](./String/157.Read_N_Characters_Given_Read4.cs)|2021-05-17|
 |158|[Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/description/)|[Hard](./String/158.Read_N_Characters_Given_Read4_II_Call_multiple_times.cs)||
 |159|[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/description/)|[Medium](./String/159.Longest_Substring_with_At_Most_Two_Distinct_Characters.cs)||
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)|[Easy](./LinkedList/160.Intersection_of_Two_Linked_Lists.cs)||
@@ -255,8 +255,8 @@
 |243|[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/description/)|[Easy](./Array/243.Shortest_Word_Distance.cs)|2021-03-22|
 |244|[Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/description/)|[Medium](./Array/244.Shortest_Word_Distance_II.cs)|2021-03-22|
 |245|[Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/description/)|[Medium](./Array/245.Shortest_Word_Distance_III.cs)|2021-03-22|
-|246|[Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/description/)|[Easy](./String/246.Strobogrammatic_Number.cs)||
-|247|[Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/description/)|[Medium](./String/247.Strobogrammatic_Number_II.cs)||
+|246|[Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/description/)|[Easy](./String/246.Strobogrammatic_Number.cs)|2021-05-16|
+|247|[Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/description/)|[Medium](./String/247.Strobogrammatic_Number_II.cs)|2021-05-16|
 |248|[Strobogrammatic Number III](https://leetcode.com/problems/strobogrammatic-number-iii/description/)|[Hard](./String/248.Strobogrammatic_Number_III.cs)||
 |249|[Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/description/)|[Medium](./String/249.Group_Shifted_Strings.cs)|2021-04-29|
 |250|[Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/description/)|[Medium](./Tree/250.Count_Univalue_Subtrees.cs)||

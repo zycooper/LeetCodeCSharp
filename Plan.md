@@ -97,10 +97,10 @@
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)|[Easy](./String/13.Roman_to_Integer.cs)|String|2021-05-14|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/)|[Medium](./String/12.Integer_to_Roman.cs)|String|2021-05-15|
 |273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/)|[Hard](./String/273.Integer_to_English_Words.cs)|String||
-|246|[Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/description/)|[Easy](./String/246.Strobogrammatic_Number.cs)|String||
-|247|[Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/description/)|[Medium](./String/247.Strobogrammatic_Number_II.cs)|String||
+|246|[Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/description/)|[Easy](./String/246.Strobogrammatic_Number.cs)|String|2021-05-17|
+|247|[Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/description/)|[Medium](./String/247.Strobogrammatic_Number_II.cs)|String|2021-05-17|
 |248|[Strobogrammatic Number III](https://leetcode.com/problems/strobogrammatic-number-iii/description/)|[Hard](./String/248.Strobogrammatic_Number_III.cs)|String|Hold|
-|157|[Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/description/)|[Easy](./String/157.Read_N_Characters_Given_Read4.cs)|String||
+|157|[Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/description/)|[Easy](./String/157.Read_N_Characters_Given_Read4.cs)|String|2021-05-18|
 |158|[Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/description/)|[Hard](./String/158.Read_N_Characters_Given_Read4_II_Call_multiple_times.cs)|String||
 |68|[Text Justification](https://leetcode.com/problems/text-justification/description/)|[Hard](./String/68.Text_Justification.cs)|String||
 |65|[Valid Number](https://leetcode.com/problems/valid-number/description/)|[Hard](./String/65.Valid_Number.cs)|String||
