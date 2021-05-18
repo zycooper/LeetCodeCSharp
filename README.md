@@ -1,6 +1,6 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-95-orange)<br>
-![](https://progress-bar.dev/23)<br>
+![](https://img.shields.io/badge/Submitted-96-orange)<br>
+![](https://progress-bar.dev/24)<br>
 <br>
 [Submit queue](./Plan.md)<br>
 
@@ -77,7 +77,7 @@
 |65|[Valid Number](https://leetcode.com/problems/valid-number/description/)|[Hard](./String/65.Valid_Number.cs)||
 |66|[Plus One](https://leetcode.com/problems/plus-one/description/)|[Easy](./Math/66.Plus_One.cs)||
 |67|[Add Binary](https://leetcode.com/problems/add-binary/description/)|[Easy](./Math/67.Add_Binary.cs)||
-|68|[Text Justification](https://leetcode.com/problems/text-justification/description/)|[Hard](./String/68.Text_Justification.cs)||
+|68|[Text Justification](https://leetcode.com/problems/text-justification/description/)|[Hard](./String/68.Text_Justification.cs)|2021-05-18|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|[Easy](./Math/69.Sqrt(x).cs)||
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)|[Easy](./Dynamic_Programming/70.Climbing_Stairs.cs)||
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/description/)|[Medium](./Stack&PriorityQueue/71.Simplify_Path.cs)||

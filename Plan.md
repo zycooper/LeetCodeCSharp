@@ -102,7 +102,7 @@
 |248|[Strobogrammatic Number III](https://leetcode.com/problems/strobogrammatic-number-iii/description/)|[Hard](./String/248.Strobogrammatic_Number_III.cs)|String|Hold|
 |157|[Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/description/)|[Easy](./String/157.Read_N_Characters_Given_Read4.cs)|String|2021-05-18|
 |158|[Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/description/)|[Hard](./String/158.Read_N_Characters_Given_Read4_II_Call_multiple_times.cs)|String||
-|68|[Text Justification](https://leetcode.com/problems/text-justification/description/)|[Hard](./String/68.Text_Justification.cs)|String||
+|68|[Text Justification](https://leetcode.com/problems/text-justification/description/)|[Hard](./String/68.Text_Justification.cs)|String|2021-05-18|
 |65|[Valid Number](https://leetcode.com/problems/valid-number/description/)|[Hard](./String/65.Valid_Number.cs)|String||
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)|[Hard](./String/76.Minimum_Window_Substring.cs)|String||
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/)|[Hard](./String/30.Substring_with_Concatenation_of_All_Words.cs)|String||
