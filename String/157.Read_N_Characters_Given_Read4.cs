@@ -79,13 +79,14 @@ file consist of English letters and digits.
  *********************************************************************************
  Time Range:
  From: 2021-05-17  14:33
- To: 
+ To: 2021-05-18 14:03
  *********************************************************************************
  Submission Result:
-
+Runtime: 80 ms, faster than 89.81% of C# online submissions for Read N Characters Given Read4.
+Memory Usage: 23.1 MB, less than 66.20% of C# online submissions for Read N Characters Given Read4.
  *********************************************************************************
  Note: 
-
+weird question, couldn't under stand what the api does and the result is expected.
  *********************************************************************************/
 /**
  * The Read4 API is defined in the parent class Reader4.
@@ -98,6 +99,23 @@ public class Solution : Reader4 {
      * @return    The number of actual characters read
      */
     public int Read(char[] buf, int n) {
+
+        int i = 0;
         
+        while(i < n)
+        {
+            char[] temp_buf = new char[4];
+            int temp_count = Read4(temp_buf);
+            
+            if(temp_count == 0){ break;}
+            
+            for(int j = 0; i < n && j < temp_count;j++)
+            {               
+                buf[i] = temp_buf[j];
+                i++;
+            }
+        }
+
+        return i;
     }
 }
