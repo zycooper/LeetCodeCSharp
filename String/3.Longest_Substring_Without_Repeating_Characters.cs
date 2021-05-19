@@ -1,5 +1,4 @@
 /*
-TABBBBBBB
 Given a string s, find the length of the longest substring without repeating characters.
 
 Example 1:
@@ -33,21 +32,73 @@ Tab
 
 /********************************************************************************
 Solution Category: 
-
+Sliding Window
 *********************************************************************************
 Time Range:
-From: 
-To: 
+From: 2021-05-19 10:28
+To: 2021-05-19 13:45
 *********************************************************************************
 Submission Result:
-
+Runtime: 80 ms, faster than 87.82% of C# online submissions for Longest Substring Without Repeating Characters.
+Memory Usage: 26.4 MB, less than 58.72% of C# online submissions for Longest Substring Without Repeating Characters.
 *********************************************************************************
 Note: 
-
+I submit for four times today and the success one is from the official solution, will need to get more familier with the sliding window al, especially how to update left and right cursor.
 *********************************************************************************/
 
-/*-- Test --*/
 public class Solution {
+    public int LengthOfLongestSubstring(string s)
+    {
+        //Sliding Window
+        if(string.IsNullOrEmpty(s)){ return 0;}
+        if(s.Length == 1){ return 1;}
+       
+        int res = 0;
+        int left = 0;
+        Dictionary<char,int> dict = new Dictionary<char,int>();
+
+       for (int right = 0; right < s.Length; right++)
+            {
+                if (dict.Keys.Contains(s[right]))
+                {
+                    //left = dict[s[right]] + 1;
+                    left = Math.Max(dict[s[right]], left);
+                }
+
+                dict[s[right]] = right + 1;
+                res = Math.Max(res, right - left + 1);
+            }
+
+        return res;
+    }
+    public int LengthOfLongestSubstring(string s)
+    {
+        //this one below has issue, not work on "dvdf"
+        if(string.IsNullOrEmpty(s)){ return 0;}
+        if(s.Length == 1){ return 1;}
+       
+        int res = 0;
+            int temp_count = 0;
+            List<char> temp_list = new List<char>();
+
+            for (int i = 0; i < s.Length; i++)
+            {
+                if (temp_list.Contains(s[i]))
+                {
+                    //start over
+                    temp_list.Clear();                   
+                    temp_count = 1;
+                }
+                else
+                {
+                    temp_count++;
+                }
+                res = Math.Max(temp_count, res);
+                temp_list.Add(s[i]);
+            }
+
+        return res;
+    }
     public int LengthOfLongestSubstring(string s) {
         //first try
         //11/16/2020
