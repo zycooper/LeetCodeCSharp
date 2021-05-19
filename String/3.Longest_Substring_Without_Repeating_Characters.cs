@@ -26,9 +26,6 @@ Constraints:
  > s consists of English letters, digits, symbols and spaces.
 
 */
-/*
-Tab
-*/
 
 /********************************************************************************
 Solution Category: 
