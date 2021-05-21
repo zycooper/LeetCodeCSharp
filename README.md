@@ -1,5 +1,5 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-97-orange)<br>
+![](https://img.shields.io/badge/Submitted-98-orange)<br>
 ![](https://progress-bar.dev/24)<br>
 <br>
 [Submit queue](./Plan.md)<br>
@@ -349,7 +349,7 @@
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/description/)|[Medium](./Tree/337.House_Robber_III.cs)||
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/description/)|[Medium](./Bit_Manipulation/338.Counting_Bits.cs)||
 |339|[Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/description/)|[Medium](./DFS&BFS/339.Nested_List_Weight_Sum.cs)||
-|340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/description/)|[Medium](./String/340.Longest_Substring_with_At_Most_K_Distinct_Characters.cs)||
+|340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/description/)|[Medium](./String/340.Longest_Substring_with_At_Most_K_Distinct_Characters.cs)|2021-05-21|
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[Medium](./Stack&PriorityQueue/341.Flatten_Nested_List_Iterator.cs)||
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/description/)|[Easy](./Math/342.Power_of_Four.cs)||
 |343|[Integer Break](https://leetcode.com/problems/integer-break/description/)|[Medium](./Math/343.Integer_Break.cs)||
