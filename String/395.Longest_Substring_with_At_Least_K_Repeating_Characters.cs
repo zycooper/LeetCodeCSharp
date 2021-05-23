@@ -23,7 +23,8 @@ s consists of only lowercase English letters.
 */
 
  /********************************************************************************
- Solution Category: 0
+ Solution Category: 
+ Divide And Conquer | Recursion
  *********************************************************************************
  Time Range:
  From: 
