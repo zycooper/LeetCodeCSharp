@@ -1,5 +1,5 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-100-orange)<br>
+![](https://img.shields.io/badge/Submitted-103-orange)<br>
 ![](https://progress-bar.dev/25)<br>
 <br>
 [Submit queue](./Plan.md)<br>
@@ -18,7 +18,7 @@
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)|[Medium](./String/6.ZigZag_Conversion.cs)|2021-04-30|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)|[Easy](./Math/7.Reverse_Integer.cs)||
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)|[Medium](./Math/8.String_to_Integer_(atoi).cs)||
-|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)|[Easy](./String/9.Palindrome_Number.cs)||
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)|[Easy](./String/9.Palindrome_Number.cs)|2021-05-24|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)|[Hard](./Dynamic_Programming/10.Regular_Expression_Matching.cs)||
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)|[Medium](./Array/11.Container_With_Most_Water.cs)|2021-03-25|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/)|[Medium](./String/12.Integer_to_Roman.cs)|2021-05-15|
@@ -134,7 +134,7 @@
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)|[Easy](./Array/122.Best_Time_to_Buy_and_Sell_Stock_II.cs)|2021-03-24|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/)|[Hard](./Array/123.Best_Time_to_Buy_and_Sell_Stock_III.cs)|2021-03-25|
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)|[Hard](./Tree/124.Binary_Tree_Maximum_Path_Sum.cs)||
-|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)|[Easy](./String/125.Valid_Palindrome.cs)||
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)|[Easy](./String/125.Valid_Palindrome.cs)|2021-05-24|
 |126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/description/)|[Hard](./DFS&BFS/126.Word_Ladder_II.cs)||
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/description/)|[Hard](./DFS&BFS/127.Word_Ladder.cs)||
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)|[Hard](./Array/128.Longest_Consecutive_Sequence.cs)|2021-04-21|
@@ -275,7 +275,7 @@
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/description/)|[Easy](./Math/263.Ugly_Number.cs)||
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/)|[Medium](./Math/264.Ugly_Number_II.cs)||
 |265|[Paint House II](https://leetcode.com/problems/paint-house-ii/description/)|[Hard](./Dynamic_Programming/265.Paint_House_II.cs)||
-|266|[Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/description/)|[Easy](./String/266.Palindrome_Permutation.cs)||
+|266|[Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/description/)|[Easy](./String/266.Palindrome_Permutation.cs)|2021-05-24|
 |267|[Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/description/)|[Medium](./String/267.Palindrome_Permutation_II.cs)||
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/)|[Easy](./Bit_Manipulation/268.Missing_Number.cs)||
 |269|[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/description/)|[Hard](./Topological_Sort/269.Alien_Dictionary.cs)||
