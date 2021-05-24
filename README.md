@@ -1,5 +1,5 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-98-orange)<br>
+![](https://img.shields.io/badge/Submitted-99-orange)<br>
 ![](https://progress-bar.dev/24)<br>
 <br>
 [Submit queue](./Plan.md)<br>
@@ -404,7 +404,7 @@
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)|[Easy](./String/392.Is_Subsequence.cs)||
 |393|[UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/description/)|[Medium](./Bit_Manipulation/393.UTF-8_Validation.cs)||
 |394|[Decode String](https://leetcode.com/problems/decode-string/)|[Medium](./Stack&PriorityQueue/394.Decode_String.cs)||
-|395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/description/)|[Medium](./String/395.Longest_Substring_with_At_Least_K_Repeating_Characters.cs)||
+|395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/description/)|[Medium](./String/395.Longest_Substring_with_At_Least_K_Repeating_Characters.cs)|2021-05-24|
 |396|[Rotate Function](https://leetcode.com/problems/rotate-function/description/)|[Medium](./Math/396.Rotate_Function.cs)||
 |397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/description/)|[Medium](./Math/397.Integer_Replacement.cs)||
 |398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[Medium](./Random/398.Random_Pick_Index.cs)||
