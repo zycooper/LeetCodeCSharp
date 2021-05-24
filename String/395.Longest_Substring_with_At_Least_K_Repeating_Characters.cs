@@ -31,11 +31,64 @@ s consists of only lowercase English letters.
  To: 
  *********************************************************************************
  Submission Result:
-
+Runtime: 68 ms, faster than 100.00% of C# online submissions for Longest Substring with At Least K Repeating Characters.
+Memory Usage: 22.6 MB, less than 56.82% of C# online submissions for Longest Substring with At Least K Repeating Characters.
  *********************************************************************************
  Note: 
 
  *********************************************************************************/
+ //working one below
+ public class Solution {
+     //basically the same solution from previous,split the string into smaller and smaller piece and check each one's length, get the longest one
+    public int LongestSubstring(string s, int k) {
+      
+        int[] dict = new int[26];
+        
+        for(int i = 0; i < s.Length; i++)
+        {
+            dict[s[i] - 'a']++;
+        }
+        
+        bool allmatch = true;
+        for(int d = 0; d < dict.Length; d++)
+        {
+            if(dict[d] < k && dict[d] > 0)
+            {
+                allmatch = false;
+            }
+        }
+        
+        if(allmatch)
+        {
+            return s.Length;
+        }
+        
+        int res = 0;
+
+        for(int j = 0; j < s.Length; j++)
+        {
+            if(dict[s[j] - 'a'] < k)
+            {
+                //delimiter
+                continue;
+            }
+            else
+            {
+                int right = j;
+                while(right < s.Length && dict[s[right] - 'a'] >= k)
+                {
+                    right++;
+                }
+                
+                res =  Math.Max(res, LongestSubstring(s.Substring(j,right - j), k));
+                j = right;
+            }
+        }
+        
+        return res;
+    }
+       
+}
 public class Solution {
  //first try, doesn't work on "bbaaacb" - 3
     public int LongestSubstring(string s, int k) {
