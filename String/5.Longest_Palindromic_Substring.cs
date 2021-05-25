@@ -29,18 +29,56 @@ s consist of only digits and English letters (lower-case and/or upper-case),
 */
 
  /********************************************************************************
- Solution Category: 0
+ Solution Category: 
+ Two Pointers && 
  *********************************************************************************
  Time Range:
  From: 2021-05-24 16:02
- To: 
+ To: 2021-05-24 23:55
  *********************************************************************************
  Submission Result:
-
+Runtime: 88 ms, faster than 95.40% of C# online submissions for Longest Palindromic Substring.
+Memory Usage: 24.7 MB, less than 68.34% of C# online submissions for Longest Palindromic Substring.
  *********************************************************************************
  Note: 
 
  *********************************************************************************/
+
+public class Solution {
+ //accordint to huahua on ytb
+    public string LongestPalindrome(string s) {
+        //final result's start index and length
+        int start = 0;
+        int len = 0;
+        
+        for(int i = 0; i < s.Length; i++)
+        {
+            int cur_len = Math.Max(SubStr(s,i,i),SubStr(s,i,i+1));
+            
+            if(cur_len > len)
+            {
+                //update len and start
+                len = cur_len;
+                start = i - (len-1)/2;
+            }
+        }
+        
+        return s.Substring(start,len);
+    }
+    
+    private int SubStr(string s, int left,int right)
+    {
+        while(left >=0 && right <= s.Length-1 && s[left] == s[right])
+        {
+            left--;
+            right++;
+        }
+        
+        //because right and left are acutally out of boundry since when they jump out of the while, they have been -- and ++ already
+        return right - left - 1;
+    }
+}
+
 public class Solution {
     //time out
     public string LongestPalindrome(string s) {
