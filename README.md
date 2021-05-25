@@ -1,6 +1,6 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-103-orange)<br>
-![](https://progress-bar.dev/25)<br>
+![](https://img.shields.io/badge/Submitted-104-orange)<br>
+![](https://progress-bar.dev/26)<br>
 <br>
 [Submit queue](./Plan.md)<br>
 
@@ -14,7 +14,7 @@
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)|[Medium](./LinkedList/2.Add_Two_Numbers.cs)||
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|[Medium](./String/3.Longest_Substring_Without_Repeating_Characters.cs)|2021-05-19|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)|[Hard](./Array/4.Median_of_Two_Sorted_Arrays.cs)|2021-04-21|
-|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)|[Medium](./String/5.Longest_Palindromic_Substring.cs)||
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)|[Medium](./String/5.Longest_Palindromic_Substring.cs)|2021-05-24|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)|[Medium](./String/6.ZigZag_Conversion.cs)|2021-04-30|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)|[Easy](./Math/7.Reverse_Integer.cs)||
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)|[Medium](./Math/8.String_to_Integer_(atoi).cs)||
