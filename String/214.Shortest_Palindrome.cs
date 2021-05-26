@@ -31,8 +31,10 @@ will need to check KMP again later
 to reverse a string :  string reverseStr = new string(sampleStr.Reverse().ToArray())
 slower than            string reverseStr = new string(sampleStr.ToCharArray().Reverse().ToArray());
  *********************************************************************************/
- public class Solution
+public class Solution
 {
+    //for help
+    //https://leetcode.com/problems/shortest-palindrome/discuss/1044511/C-KMP-implementation
     
     public string ShortestPalindrome(string s)
     {       
