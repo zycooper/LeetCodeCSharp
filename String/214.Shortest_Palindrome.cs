@@ -13,18 +13,62 @@ s consists of lowercase English letters only.
 */
 
  /********************************************************************************
- Solution Category: 0
+ Solution Category: 
+ KMP
  *********************************************************************************
  Time Range:
- From: 
- To: 
+ From: 2021-05-25
+ To: 2021-05-26 13:37
  *********************************************************************************
  Submission Result:
-
+Runtime: 84 ms, faster than 83.67% of C# online submissions for Shortest Palindrome.
+Memory Usage: 25.2 MB, less than 34.69% of C# online submissions for Shortest Palindrome.
  *********************************************************************************
  Note: 
+use KMP to solve this, not all the function, just need to calculate the next table
+will need to check KMP again later
 
+to reverse a string :  string reverseStr = new string(sampleStr.Reverse().ToArray())
+slower than            string reverseStr = new string(sampleStr.ToCharArray().Reverse().ToArray());
  *********************************************************************************/
+ public class Solution
+{
+    
+    public string ShortestPalindrome(string s)
+    {       
+        //KMP
+        //pre-condition
+        
+        //normal-condition
+        string reverseStr = new string(s.ToCharArray().Reverse().ToArray());
+            //new string(s.Reverse().ToArray());
+        string Str = s  + "#" + reverseStr;
+        
+        int[] kmp_tbl =new int[Str.Length];
+        
+        for(int i = 1; i < Str.Length; i++)
+        {
+            //i is suffix index
+            //j is prefix index
+            int j = kmp_tbl[i-1];
+            
+            //move j to the last char which doesn't match
+            while(j > 0 && Str[j] != Str[i])
+            {
+                j = kmp_tbl[j-1];
+            }
+            
+            //update kmp table if the current still match
+            if(Str[j] == Str[i])
+            {
+                kmp_tbl[i] = j + 1;
+            }
+        }
+        
+        return reverseStr.Substring(0,s.Length-kmp_tbl[Str.Length - 1]) + s;
+        
+    }
+}
 public class Solution
 {
     //time out
