@@ -1,5 +1,5 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-105-orange)<br>
+![](https://img.shields.io/badge/Submitted-107-orange)<br>
 ![](https://progress-bar.dev/26)<br>
 <br>
 [Submit queue](./Plan.md)<br>
@@ -29,7 +29,7 @@
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)|[Medium](./Backtracking/17.Letter_Combinations_of_a_Phone_Number.cs)||
 |18|[4Sum](https://leetcode.com/problems/4sum/description/)|[Medium](./Math/18.4Sum.cs)||
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)|[Medium](./LinkedList/19.Remove_Nth_Node_From_End_of_List.cs)||
-|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)|[Easy](./String/20.Valid_Parentheses.cs)||
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)|[Easy](./String/20.Valid_Parentheses.cs)|2021-05-26|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[Easy](./LinkedList/21.Merge_Two_Sorted_Lists.cs)||
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)|[Medium](./String/22.Generate_Parentheses.cs)||
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)|[Hard](./LinkedList/23.Merge_k_Sorted_Lists.cs)||
@@ -401,7 +401,7 @@
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/description/)|[Easy](./Bit_Manipulation/389.Find_the_Difference.cs)||
 |390|[Elimination Game](https://leetcode.com/problems/elimination-game/description/)|[Medium](./Math/390.Elimination_Game.cs)||
 |391|[Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/description/)|[Hard](./Graph/391.Perfect_Rectangle.cs)||
-|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)|[Easy](./String/392.Is_Subsequence.cs)||
+|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)|[Easy](./String/392.Is_Subsequence.cs)|2021-05-26|
 |393|[UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/description/)|[Medium](./Bit_Manipulation/393.UTF-8_Validation.cs)||
 |394|[Decode String](https://leetcode.com/problems/decode-string/)|[Medium](./Stack&PriorityQueue/394.Decode_String.cs)||
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/description/)|[Medium](./String/395.Longest_Substring_with_At_Least_K_Repeating_Characters.cs)|2021-05-24|
