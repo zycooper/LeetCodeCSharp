@@ -1,5 +1,5 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-104-orange)<br>
+![](https://img.shields.io/badge/Submitted-105-orange)<br>
 ![](https://progress-bar.dev/26)<br>
 <br>
 [Submit queue](./Plan.md)<br>
@@ -223,7 +223,7 @@
 |211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/description/)|[Medium](./Trie/211.Add_and_Search_Word_Data_structure_design.cs)||
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/description/)|[Hard](./Trie/212.Word_Search_II.cs)||
 |213|[House Robber II]()|[Medium](./Dynamic_Programming/213.House_Robber_II.cs)||
-|214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/description/)|[Hard](./String/214.Shortest_Palindrome.cs)||
+|214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/description/)|[Hard](./String/214.Shortest_Palindrome.cs)|2021-05-26|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)|[Medium](./Stack&PriorityQueue/215.Kth_Largest_Element_in_an_Array.cs)||
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/)|[Medium](./Backtracking/216.Combination_Sum_III.cs)||
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)|[Easy](./Array/217.Contains_Duplicate.cs)|2021-03-22|

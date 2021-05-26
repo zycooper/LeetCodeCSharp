@@ -114,7 +114,7 @@
 |266|[Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/description/)|[Easy](./String/266.Palindrome_Permutation.cs)|String|2021-05-24|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)|[Medium](./String/5.Longest_Palindromic_Substring.cs)|String|2021-05-24|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)|[Easy](./String/9.Palindrome_Number.cs)|String|2021-05-24|
-|214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/description/)|[Hard](./String/214.Shortest_Palindrome.cs)|String||
+|214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/description/)|[Hard](./String/214.Shortest_Palindrome.cs)|String|2021-05-26|
 |336|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/description/)|[Hard](./String/336.Palindrome_Pairs.cs)|String||
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/)|[Medium](./String/131.Palindrome_Partitioning.cs)|String||
 |132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/description/)|[Hard](./String/132.Palindrome_Partitioning_II.cs)|String|Hold|
