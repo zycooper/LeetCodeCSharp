@@ -1,6 +1,6 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-107-orange)<br>
-![](https://progress-bar.dev/26)<br>
+![](https://img.shields.io/badge/Submitted-108-orange)<br>
+![](https://progress-bar.dev/27)<br>
 <br>
 [Submit queue](./Plan.md)<br>
 
@@ -196,7 +196,7 @@
 |184|[Department Highest Salary    ]()|[Medium](./UnCategory/184.Department_Highest_Salary.cs)||
 |185|[Department Top Three Salaries    ]()|[Hard](./UnCategory/185.Department_Top_Three_Salaries.cs)||
 |186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/description/)|[Medium](./String/186.Reverse_Words_in_a_String_II.cs)|2021-04-27|
-|187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/description/)|[Medium](./String/187.Repeated_DNA_Sequences.cs)||
+|187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/description/)|[Medium](./String/187.Repeated_DNA_Sequences.cs)|2021-05-27|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/)|[Hard](./Array/188.Best_Time_to_Buy_and_Sell_Stock_IV.cs)||
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/)|[Medium](./Array/189.Rotate_Array.cs)|2021-03-17|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/description/)|[Easy](./Bit_Manipulation/190.Reverse_Bits.cs)||

@@ -122,7 +122,7 @@
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/description/)|[Hard](./String/301.Remove_Invalid_Parentheses.cs)|String||
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)|[Easy](./String/392.Is_Subsequence.cs)|String|2021-05-26|
 |115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/)|[Hard](./String/115.Distinct_Subsequences.cs)|String||
-|187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/description/)|[Medium](./String/187.Repeated_DNA_Sequences.cs)|String||
+|187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/description/)|[Medium](./String/187.Repeated_DNA_Sequences.cs)|String|2021-05-27|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)|[Easy](./Math/7.Reverse_Integer.cs)|Math||
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/)|[Medium](./Math/165.Compare_Version_Numbers.cs)|Math||
 |66|[Plus One](https://leetcode.com/problems/plus-one/description/)|[Easy](./Math/66.Plus_One.cs)|Math||
