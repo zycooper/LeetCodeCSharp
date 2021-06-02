@@ -1,5 +1,5 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-110-orange)<br>
+![](https://img.shields.io/badge/Submitted-111-orange)<br>
 ![](https://progress-bar.dev/27)<br>
 <br>
 [Submit queue](./Plan.md)<br>
@@ -74,7 +74,7 @@
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/description/)|[Medium](./Dynamic_Programming/62.Unique_Paths.cs)||
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)|[Medium](./Dynamic_Programming/63.Unique_Paths_II.cs)||
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)|[Medium](./Dynamic_Programming/64.Minimum_Path_Sum.cs)||
-|65|[Valid Number](https://leetcode.com/problems/valid-number/description/)|[Hard](./String/65.Valid_Number.cs)||
+|65|[Valid Number](https://leetcode.com/problems/valid-number/description/)|[Hard](./String/65.Valid_Number.cs)|2021-06-02|
 |66|[Plus One](https://leetcode.com/problems/plus-one/description/)|[Easy](./Math/66.Plus_One.cs)||
 |67|[Add Binary](https://leetcode.com/problems/add-binary/description/)|[Easy](./Math/67.Add_Binary.cs)||
 |68|[Text Justification](https://leetcode.com/problems/text-justification/description/)|[Hard](./String/68.Text_Justification.cs)|2021-05-18|
