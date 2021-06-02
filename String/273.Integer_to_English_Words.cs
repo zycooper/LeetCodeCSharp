@@ -26,14 +26,138 @@ Constraints:
  *********************************************************************************
  Time Range:
  From: 2021-05-27 09:34
- To: 
+ To: 2021-06-02 10:28
  *********************************************************************************
  Submission Result:
-
+Runtime: 120 ms, faster than 8.66% of C# online submissions for Integer to English Words.
+Memory Usage: 24 MB, less than 95.05% of C# online submissions for Integer to English Words.
  *********************************************************************************
  Note: 
-
+this question is not hard, it's just annoying
  *********************************************************************************/
+  public class Solution
+    {
+      //working version, but slow
+        public string NumberToWords(int num)
+        {
+            if(num == 0) { return "Zero"; }
+            int billion = num / 1000000000;
+            int million = (num - billion * 1000000000) / 1000000;
+            int thousand = (num - billion * 1000000000 - million * 1000000) / 1000;
+            int res = num - billion * 1000000000 - million * 1000000 - thousand * 1000;
+
+            string res_str = "";
+
+            if (billion != 0)
+            {
+                res_str += ThreeDigit(billion) + " Billion";
+            }
+
+            if (million != 0)
+            {
+                res_str += (string.IsNullOrEmpty(res_str) ? "" : " ") + ThreeDigit(million) + " Million";
+            }
+
+            if (thousand != 0)
+            {
+                res_str += (string.IsNullOrEmpty(res_str) ? "" : " ") + ThreeDigit(thousand) + " Thousand";
+            }
+
+            if (res != 0)
+            {
+                res_str += (string.IsNullOrEmpty(res_str) ? "" : " ") + ThreeDigit(res);
+            }
+
+            return res_str;
+        }
+
+        private string OneDigit(int num)
+        {
+            switch (num)
+            {
+                case 1: return "One"; break;
+                case 2: return "Two"; break;
+                case 3: return "Three"; break;
+                case 4: return "Four"; break;
+                case 5: return "Five"; break;
+                case 6: return "Six"; break;
+                case 7: return "Seven"; break;
+                case 8: return "Eight"; break;
+                case 9: return "Nine"; break;
+                default: return "";
+            }
+        }
+        private string TwoDigit(int num)
+        {
+            if (num < 10)
+            {
+                return OneDigit(num);
+            }
+            else if (num < 20)
+            {
+                switch (num)
+                {
+                    case 10: return "Ten"; break;
+                    case 11: return "Eleven"; break;
+                    case 12: return "Twelve"; break;
+                    case 13: return "Thirteen"; break;
+                    case 14: return "Fourteen"; break;
+                    case 15: return "Fifteen"; break;
+                    case 16: return "Sixteen"; break;
+                    case 17: return "Seventeen"; break;
+                    case 18: return "Eighteen"; break;
+                    case 19: return "Nineteen"; break;
+                    default: return "";
+                }
+            }
+            else
+            {
+                return TwoDigitAbovetweteen(num);
+            }
+        }
+        private string TwoDigitAbovetweteen(int num)
+        {
+            int ten = num / 10;
+            int one = num - ten * 10;
+
+            string res_ten = "";
+
+            switch (ten)
+            {
+                case 2: res_ten = "Twenty"; break;
+                case 3: res_ten = "Thirty"; break;
+                case 4: res_ten = "Forty"; break;
+                case 5: res_ten = "Fifty"; break;
+                case 6: res_ten = "Sixty"; break;
+                case 7: res_ten = "Seventy"; break;
+                case 8: res_ten = "Eighty"; break;
+                case 9: res_ten = "Ninety"; break;
+            }
+
+            return (one == 0) ? res_ten : res_ten + " " + OneDigit(one);
+        }
+        private string ThreeDigit(int num)
+        {
+            int hundred = num / 100;
+            int ten = num - hundred * 100;
+
+            //100
+            if (hundred != 0 && ten == 0) 
+            {
+                return OneDigit(hundred) + " Hundred";
+            }
+            //10
+            else if (hundred == 0 && ten != 0) 
+            {
+                return TwoDigit(ten);
+            }
+            //123
+            else 
+            {
+                return OneDigit(hundred) + " Hundred " + TwoDigit(ten);
+            }            
+        }
+    }
 public class Solution {
     public string NumberToWords(int num) {
         
