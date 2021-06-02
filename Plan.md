@@ -94,7 +94,7 @@
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/)|[Easy](./String/171.Excel_Sheet_Column_Number.cs)|String|2021-05-14|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)|[Easy](./String/13.Roman_to_Integer.cs)|String|2021-05-14|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/)|[Medium](./String/12.Integer_to_Roman.cs)|String|2021-05-15|
-|273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/)|[Hard](./String/273.Integer_to_English_Words.cs)|String||
+|273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/)|[Hard](./String/273.Integer_to_English_Words.cs)|String|2021-06-02|
 |246|[Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/description/)|[Easy](./String/246.Strobogrammatic_Number.cs)|String|2021-05-17|
 |247|[Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/description/)|[Medium](./String/247.Strobogrammatic_Number_II.cs)|String|2021-05-17|
 |157|[Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/description/)|[Easy](./String/157.Read_N_Characters_Given_Read4.cs)|String|2021-05-18|
