@@ -1,6 +1,6 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-111-orange)<br>
-![](https://progress-bar.dev/27)<br>
+![](https://img.shields.io/badge/Submitted-112-orange)<br>
+![](https://progress-bar.dev/28)<br>
 <br>
 [Submit queue](./Plan.md)<br>
 
@@ -85,7 +85,7 @@
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)|[Medium](./Matrix/73.Set_Matrix_Zeroes.cs)||
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)|[Medium](./Matrix/74.Search_a_2D_Matrix.cs)||
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/description/)|[Medium](./Array/75.Sort_Colors.cs)|2021-04-14|
-|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)|[Hard](./String/76.Minimum_Window_Substring.cs)||
+|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)|[Hard](./String/76.Minimum_Window_Substring.cs)|2021-06-03|
 |77|[Combinations](https://leetcode.com/problems/combinations/description/)|[Medium](./Backtracking/77.Combinations.cs)||
 |78|[Subsets](https://leetcode.com/problems/subsets/description/)|[Medium](./Backtracking/78.Subsets.cs)||
 |79|[Word Search](https://leetcode.com/problems/word-search/description/)|[Medium](./Matrix/79.Word_Search.cs)||
