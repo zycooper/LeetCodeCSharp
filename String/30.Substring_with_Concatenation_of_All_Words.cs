@@ -31,14 +31,85 @@ words[i] consists of lower-case English letters.
  *********************************************************************************
  Time Range:
  From: 2021-06-03 16:00
- To: 
+ To: 2021-06-04 09:53
  *********************************************************************************
  Submission Result:
-
+Runtime: 2544 ms, faster than 5.55% of C# online submissions for Substring with Concatenation of All Words.
+Memory Usage: 53.1 MB, less than 6.11% of C# online submissions for Substring with Concatenation of All Words.
  *********************************************************************************
  Note: 
-
+ first time TLE, second time little bit optimization, but still slower than most of the submission
  *********************************************************************************/
+ public class Solution {
+    public IList<int> FindSubstring(string s, string[] words) {
+
+        List<int> res = new List<int>();
+
+        Dictionary<string,int> dict = new Dictionary<string,int>();
+        int totalLen = 0;
+        for(int i = 0; i < words.Length; i++)
+        {
+            totalLen += words[i].Length;
+
+            if(dict.Keys.Contains(words[i]))
+            {
+                dict[words[i]]++;
+            }
+            else
+            {
+                dict.Add(words[i],1);
+            }
+        }
+
+        for(int i = 0; i < s.Length - totalLen + 1; i++)
+        {
+            if(isSub(s.Substring(i,totalLen),dict,words[0].Length))
+            {
+                res.Add(i);
+            }
+        }
+
+        return res;
+    }
+
+    private bool isSub(string sub_str, Dictionary<string,int> dict_source,int len)
+    {
+        Dictionary<string,int> dict = new Dictionary<string, int>();
+        
+        int count = 0;
+        for(int i = 0 ; i < sub_str.Length; i=i+len)
+        {
+            string cur_str =sub_str.Substring(i,len);
+            
+            if(dict_source.Keys.Contains(cur_str))
+            {
+                if(dict.Keys.Contains(cur_str))
+                {
+                    dict[cur_str]++;
+                }
+                else
+                {
+                    dict.Add(cur_str,1);
+                }
+                
+                if(dict[cur_str] > dict_source[cur_str])
+                {
+                    return false;
+                }
+                else if(dict[cur_str] == dict_source[cur_str])
+                {
+                    count++;
+                }
+            }
+            else
+            {
+                return false;
+            }
+        }
+        
+        return true;
+    }
+}
 public class Solution {
     public IList<int> FindSubstring(string s, string[] words) {
         //All cases passed, but took too long
