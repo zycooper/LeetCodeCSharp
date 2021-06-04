@@ -1,5 +1,5 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-112-orange)<br>
+![](https://img.shields.io/badge/Submitted-113-orange)<br>
 ![](https://progress-bar.dev/28)<br>
 <br>
 [Submit queue](./Plan.md)<br>
@@ -39,7 +39,7 @@
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Easy](./Array/27.Remove_Element.cs)|2021-03-16|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)|[Easy](./String/28.Implement_strStr().cs)|2021-04-27|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/)|[Medium](./Math/29.Divide_Two_Integers.cs)||
-|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/)|[Hard](./String/30.Substring_with_Concatenation_of_All_Words.cs)||
+|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/)|[Hard](./String/30.Substring_with_Concatenation_of_All_Words.cs)|2021-06-04|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/description/)|[Medium](./Backtracking/31.Next_Permutation.cs)||
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)|[Hard](./String/32.Longest_Valid_Parentheses.cs)||
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[Medium](./Array/33.Search_in_Rotated_Sorted_Array.cs)|2021-04-14|

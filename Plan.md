@@ -102,7 +102,7 @@
 |68|[Text Justification](https://leetcode.com/problems/text-justification/description/)|[Hard](./String/68.Text_Justification.cs)|String|2021-05-18|
 |65|[Valid Number](https://leetcode.com/problems/valid-number/description/)|[Hard](./String/65.Valid_Number.cs)|String|2021-06-02|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)|[Hard](./String/76.Minimum_Window_Substring.cs)|String|2021-06-03|
-|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/)|[Hard](./String/30.Substring_with_Concatenation_of_All_Words.cs)|String||
+|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/)|[Hard](./String/30.Substring_with_Concatenation_of_All_Words.cs)|String|2021-06-04|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|[Medium](./String/3.Longest_Substring_Without_Repeating_Characters.cs)|String|2021-05-19|
 |340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/description/)|[Medium](./String/340.Longest_Substring_with_At_Most_K_Distinct_Characters.cs)|String|2021-05-21|
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/description/)|[Medium](./String/395.Longest_Substring_with_At_Least_K_Repeating_Characters.cs)|String|2021-05-24|
