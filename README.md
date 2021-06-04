@@ -1,5 +1,5 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-113-orange)<br>
+![](https://img.shields.io/badge/Submitted-114-orange)<br>
 ![](https://progress-bar.dev/28)<br>
 <br>
 [Submit queue](./Plan.md)<br>
@@ -31,7 +31,7 @@
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)|[Medium](./LinkedList/19.Remove_Nth_Node_From_End_of_List.cs)||
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)|[Easy](./String/20.Valid_Parentheses.cs)|2021-05-26|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[Easy](./LinkedList/21.Merge_Two_Sorted_Lists.cs)||
-|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)|[Medium](./String/22.Generate_Parentheses.cs)||
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)|[Medium](./String/22.Generate_Parentheses.cs)|2021-06-04|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)|[Hard](./LinkedList/23.Merge_k_Sorted_Lists.cs)||
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)|[Medium](./LinkedList/24.Swap_Nodes_in_Pairs.cs)||
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)|[Hard](./LinkedList/25.Reverse_Nodes_in_k-Group.cs)||
