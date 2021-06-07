@@ -1,6 +1,6 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-115-orange)<br>
-![](https://progress-bar.dev/28)<br>
+![](https://img.shields.io/badge/Submitted-116-orange)<br>
+![](https://progress-bar.dev/29)<br>
 <br>
 [Submit queue](./Plan.md)<br>
 
@@ -41,7 +41,7 @@
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/)|[Medium](./Math/29.Divide_Two_Integers.cs)||
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/)|[Hard](./String/30.Substring_with_Concatenation_of_All_Words.cs)|2021-06-04|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/description/)|[Medium](./Backtracking/31.Next_Permutation.cs)||
-|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)|[Hard](./String/32.Longest_Valid_Parentheses.cs)||
+|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)|[Hard](./String/32.Longest_Valid_Parentheses.cs)|2021-06-07|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[Medium](./Array/33.Search_in_Rotated_Sorted_Array.cs)|2021-04-14|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|[Medium](./Array/34.Find_First_and_Last_Position_of_Element_in_Sorted_Array.cs)|2021-04-15|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|[Easy](./Array/35.Search_Insert_Position.cs)|2021-04-14|
