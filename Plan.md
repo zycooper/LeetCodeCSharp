@@ -118,7 +118,7 @@
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)|[Easy](./String/20.Valid_Parentheses.cs)|String|2021-05-26|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)|[Medium](./String/22.Generate_Parentheses.cs)|String|2021-06-04|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)|[Hard](./String/32.Longest_Valid_Parentheses.cs)|String||
-|241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/description/)|[Medium](./String/241.Different_Ways_to_Add_Parentheses.cs)|String||
+|241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/description/)|[Medium](./String/241.Different_Ways_to_Add_Parentheses.cs)|String|2021-06-06|
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/description/)|[Hard](./String/301.Remove_Invalid_Parentheses.cs)|String||
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)|[Easy](./String/392.Is_Subsequence.cs)|String|2021-05-26|
 |115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/)|[Hard](./String/115.Distinct_Subsequences.cs)|String||

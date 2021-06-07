@@ -1,5 +1,5 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-114-orange)<br>
+![](https://img.shields.io/badge/Submitted-115-orange)<br>
 ![](https://progress-bar.dev/28)<br>
 <br>
 [Submit queue](./Plan.md)<br>
@@ -250,7 +250,7 @@
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)|[Medium](./Array/238.Product_of_Array_Except_Self.cs)|2021-04-12|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/)|[Hard](./Array/239.Sliding_Window_Maximum.cs)||
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)|[Medium](./Matrix/240.Search_a_2D_Matrix_II.cs)||
-|241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/description/)|[Medium](./String/241.Different_Ways_to_Add_Parentheses.cs)||
+|241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/description/)|[Medium](./String/241.Different_Ways_to_Add_Parentheses.cs)|2021-06-06|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)|[Easy](./String/242.Valid_Anagram.cs)|2021-04-28|
 |243|[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/description/)|[Easy](./Array/243.Shortest_Word_Distance.cs)|2021-03-22|
 |244|[Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/description/)|[Medium](./Array/244.Shortest_Word_Distance_II.cs)|2021-03-22|
