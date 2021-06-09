@@ -31,7 +31,8 @@ s and t consist of English letters.
 */
 
  /********************************************************************************
- Solution Category: 0
+ Solution Category: 
+ Dynamic Programming || DP
  *********************************************************************************
  Time Range:
  From: 
