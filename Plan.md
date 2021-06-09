@@ -334,7 +334,7 @@
 |218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/)|[Hard](./Stack&PriorityQueue/218.The_Skyline_Problem.cs)|Stack&PriorityQueue||
 |332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/description/)|[Medium](./Stack&PriorityQueue/332.Reconstruct_Itinerary.cs)|Stack&PriorityQueue||
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[Medium](./Stack&PriorityQueue/341.Flatten_Nested_List_Iterator.cs)|Stack&PriorityQueue||
-|739|[](https://leetcode.com/problems/daily-temperatures/)|[Medium](./Stack&PriorityQueue/739.Daily_Temperatures.cs)|Stack&PriorityQueue|2021-06-09|
+|739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Medium](./Stack&PriorityQueue/739.Daily_Temperatures.cs)|Stack&PriorityQueue|2021-06-09|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/description/)|[Easy](./Bit_Manipulation/389.Find_the_Difference.cs)|Bit Manipulation||
 |136|[Single Number](https://leetcode.com/problems/single-number/description/)|[Easy](./Bit_Manipulation/136.Single_Number.cs)|Bit Manipulation||
 |318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/description/)|[Medium](./Bit_Manipulation/318.Maximum_Product_of_Word_Lengths.cs)|Bit Manipulation||
