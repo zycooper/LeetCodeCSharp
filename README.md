@@ -1,5 +1,5 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-116-orange)<br>
+![](https://img.shields.io/badge/Submitted-119-orange)<br>
 ![](https://progress-bar.dev/29)<br>
 <br>
 [Submit queue](./Plan.md)<br>
@@ -33,7 +33,7 @@
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[Easy](./LinkedList/21.Merge_Two_Sorted_Lists.cs)||
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)|[Medium](./String/22.Generate_Parentheses.cs)|2021-06-04|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)|[Hard](./LinkedList/23.Merge_k_Sorted_Lists.cs)||
-|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)|[Medium](./LinkedList/24.Swap_Nodes_in_Pairs.cs)||
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)|[Medium](./LinkedList/24.Swap_Nodes_in_Pairs.cs)|2021-06-11|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)|[Hard](./LinkedList/25.Reverse_Nodes_in_k-Group.cs)||
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[Easy](./Array/26.Remove_Duplicates_from_Sorted_Array.cs)|2021-03-16|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Easy](./Array/27.Remove_Element.cs)|2021-03-16|
@@ -150,7 +150,7 @@
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Medium](./Random/138.Copy_List_with_Random_Pointer.cs)||
 |139|[Word Break](https://leetcode.com/problems/word-break/)|[Medium](./Dynamic_Programming/139.Word_Break.cs)||
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/description/)|[Hard](./Backtracking/140.Word_Break_II.cs)||
-|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)|[Easy](./LinkedList/141.Linked_List_Cycle.cs)||
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)|[Easy](./LinkedList/141.Linked_List_Cycle.cs)|2021-06-10|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)|[Medium](./LinkedList/142.Linked_List_Cycle_II.cs)||
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/description/)|[Medium](./LinkedList/143.Reorder_List.cs)||
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)|[Medium](./Tree/144.Binary_Tree_Preorder_Traversal.cs)||
@@ -215,7 +215,7 @@
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)|[Easy](./LinkedList/203.Remove_Linked_List_Elements.cs)||
 |204|[Count Primes](https://leetcode.com/problems/count-primes/description/)|[Easy](./Math/204.Count_Primes.cs)||
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)|[Easy](./String/205.Isomorphic_Strings.cs)|2021-04-27|
-|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)|[Easy](./LinkedList/206.Reverse_Linked_List.cs)||
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)|[Easy](./LinkedList/206.Reverse_Linked_List.cs)|2021-06-10|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/description/)|[Medium](./Topological_Sort/207.Course_Schedule.cs)||
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)|[Medium](./Trie/208.Implement_Trie_(Prefix_Tree).cs)||
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)|[Medium](./Array/209.Minimum_Size_Subarray_Sum.cs)|2021-04-12|
