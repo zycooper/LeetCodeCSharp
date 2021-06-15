@@ -1,6 +1,6 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-123-orange)<br>
-![](https://progress-bar.dev/30)<br>
+![](https://img.shields.io/badge/Submitted-124-orange)<br>
+![](https://progress-bar.dev/31)<br>
 <br>
 [Submit queue](./Plan.md)<br>
 
@@ -212,7 +212,7 @@
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Medium](./DFS&BFS/200.Number_of_Islands.cs)||
 |201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/)|[Medium](./Bit_Manipulation/201.Bitwise_AND_of_Numbers_Range.cs)||
 |202|[Happy Number](https://leetcode.com/problems/happy-number/description/)|[Easy](./Math/202.Happy_Number.cs)||
-|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)|[Easy](./LinkedList/203.Remove_Linked_List_Elements.cs)||
+|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)|[Easy](./LinkedList/203.Remove_Linked_List_Elements.cs)|2021-06-15|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/description/)|[Easy](./Math/204.Count_Primes.cs)||
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)|[Easy](./String/205.Isomorphic_Strings.cs)|2021-04-27|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)|[Easy](./LinkedList/206.Reverse_Linked_List.cs)|2021-06-10|
