@@ -1,5 +1,5 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-120-orange)<br>
+![](https://img.shields.io/badge/Submitted-121-orange)<br>
 ![](https://progress-bar.dev/30)<br>
 <br>
 [Submit queue](./Plan.md)<br>
@@ -337,7 +337,7 @@
 |325|[Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)|[Medium](./Array/325.Maximum_Size_Subarray_Sum_Equals_k.cs)|2021-04-12|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/description/)|[Easy](./Math/326.Power_of_Three.cs)||
 |327|[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/description/)|[Hard](./Array/327.Count_of_Range_Sum.cs)||
-|328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)|[Medium](./LinkedList/328.Odd_Even_Linked_List.cs)||
+|328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)|[Medium](./LinkedList/328.Odd_Even_Linked_List.cs)|2021-06-15|
 |329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)|[Hard](./Matrix/329.Longest_Increasing_Path_in_a_Matrix.cs)||
 |330|[Patching Array](https://leetcode.com/problems/patching-array/description/)|[Hard](./Array/330.Patching_Array.cs)||
 |331|[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/description/)|[Medium](./Tree/331.Verify_Preorder_Serialization_of_a_Binary_Tree.cs)||
