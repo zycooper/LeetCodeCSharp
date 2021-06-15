@@ -1,5 +1,5 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-122-orange)<br>
+![](https://img.shields.io/badge/Submitted-123-orange)<br>
 ![](https://progress-bar.dev/30)<br>
 <br>
 [Submit queue](./Plan.md)<br>
@@ -92,7 +92,7 @@
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)|[Medium](./Array/80.Remove_Duplicates_from_Sorted_Array_II.cs)|2021-03-16|
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)|[Medium](./Array/81.Search_in_Rotated_Sorted_Array_II.cs)|2021-04-14|
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)|[Medium](./LinkedList/82.Remove_Duplicates_from_Sorted_List_II.cs)||
-|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[Easy](./LinkedList/83.Remove_Duplicates_from_Sorted_List.cs)||
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[Easy](./LinkedList/83.Remove_Duplicates_from_Sorted_List.cs)|2021-06-15|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)|[Hard](./Stack&PriorityQueue/84.Largest_Rectangle_in_Histogram.cs)||
 |85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/)|[Hard](./Dynamic_Programming/85.Maximal_Rectangle.cs)||
 |86|[Partition List](https://leetcode.com/problems/partition-list/description/)|[Medium](./LinkedList/86.Partition_List.cs)||

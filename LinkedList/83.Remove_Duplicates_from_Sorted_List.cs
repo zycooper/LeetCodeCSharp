@@ -7,7 +7,7 @@
  *********************************************************************************
  Time Range:
  From: 
- To: 
+ To: 2021-06-15 16:40
  *********************************************************************************
  Submission Result:
 Runtime: 92 ms, faster than 82.28% of C# online submissions for Remove Duplicates from Sorted List.
