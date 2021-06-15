@@ -39,6 +39,31 @@ Memory Usage: 25 MB, less than 79.27% of C# online submissions for Reverse Linke
  *     }
  * }
  */
+ public class Solution {
+     //use the code in Q92
+     /*
+     Runtime: 92 ms, faster than 72.35% of C# online submissions for Reverse Linked List.
+     Memory Usage: 25 MB, less than 61.08% of C# online submissions for Reverse Linked List.
+     */
+    public ListNode ReverseList(ListNode head) {
+        
+        if(head == null){ return head;}
+        
+        ListNode dummy = new ListNode();
+        dummy.next = head;             
+        ListNode cur = dummy.next;
+        
+        while(cur.next != null)
+        {
+            ListNode next = cur.next;
+            cur.next = next.next;
+            next.next = dummy.next;
+            dummy.next = next;
+        }
+                
+        return dummy.next;
+    }
+}
 public class Solution {
     public ListNode ReverseList(ListNode head) {
         /*
