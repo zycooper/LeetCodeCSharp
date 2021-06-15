@@ -1,5 +1,5 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-121-orange)<br>
+![](https://img.shields.io/badge/Submitted-122-orange)<br>
 ![](https://progress-bar.dev/30)<br>
 <br>
 [Submit queue](./Plan.md)<br>
@@ -246,7 +246,7 @@
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)|[Easy](./LinkedList/234.Palindrome_Linked_List.cs)||
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)|[Easy](./Tree/235.Lowest_Common_Ancestor_of_a_Binary_Search_Tree.cs)||
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)|[Medium](./Tree/236.Lowest_Common_Ancestor_of_a_Binary_Tree.cs)||
-|237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)|[Easy](./LinkedList/237.Delete_Node_in_a_Linked_List.cs)||
+|237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)|[Easy](./LinkedList/237.Delete_Node_in_a_Linked_List.cs)|2021-06-15|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)|[Medium](./Array/238.Product_of_Array_Except_Self.cs)|2021-04-12|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/)|[Hard](./Array/239.Sliding_Window_Maximum.cs)||
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)|[Medium](./Matrix/240.Search_a_2D_Matrix_II.cs)||

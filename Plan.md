@@ -258,7 +258,7 @@
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)|[Medium](./LinkedList/24.Swap_Nodes_in_Pairs.cs)|LinkedList|2021-06-11|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)|[Medium](./LinkedList/328.Odd_Even_Linked_List.cs)|LinkedList|2021-06-15|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/)|[Medium](./LinkedList/92.Reverse_Linked_List_II.cs)|LinkedList|2021-06-15|
-|237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)|[Easy](./LinkedList/237.Delete_Node_in_a_Linked_List.cs)|LinkedList||
+|237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)|[Easy](./LinkedList/237.Delete_Node_in_a_Linked_List.cs)|LinkedList|2021-06-15|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)|[Medium](./LinkedList/19.Remove_Nth_Node_From_End_of_List.cs)|LinkedList||
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[Easy](./LinkedList/83.Remove_Duplicates_from_Sorted_List.cs)|LinkedList||
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)|[Easy](./LinkedList/203.Remove_Linked_List_Elements.cs)|LinkedList||
