@@ -1,6 +1,6 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-119-orange)<br>
-![](https://progress-bar.dev/29)<br>
+![](https://img.shields.io/badge/Submitted-120-orange)<br>
+![](https://progress-bar.dev/30)<br>
 <br>
 [Submit queue](./Plan.md)<br>
 
@@ -101,7 +101,7 @@
 |89|[Gray Code](https://leetcode.com/problems/gray-code/description/)|[Medium](./Bit_Manipulation/89.Gray_Code.cs)||
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/description/)|[Medium](./Backtracking/90.Subsets_II.cs)||
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/description/)|[Medium](./Dynamic_Programming/91.Decode_Ways.cs)||
-|92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/)|[Medium](./LinkedList/92.Reverse_Linked_List_II.cs)||
+|92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/)|[Medium](./LinkedList/92.Reverse_Linked_List_II.cs)|2021-06-15|
 |93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/)|[Medium](./Backtracking/93.Restore_IP_Addresses.cs)||
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)|[Medium](./Tree/94.Binary_Tree_Inorder_Traversal.cs)||
 |95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/)|[Medium](./Tree/95.Unique_Binary_Search_Trees_II.cs)||
