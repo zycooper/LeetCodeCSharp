@@ -15,7 +15,6 @@ You must solve the problem without modifying the values in the list's nodes (i.e
  *********************************************************************************
  Note: 
 Dont' initial a listnode to null like ListNode node = null, use this ListNode node = new ListNode();
-
 and get more familier about the head inside while
  *********************************************************************************/
 /**
@@ -43,10 +42,7 @@ and get more familier about the head inside while
  */
 public class Solution {
     public ListNode SwapPairs(ListNode head) {
-        //working version
-        //if(head.next == null || head.next.next == null) return new ListNode();
-        
-        //prev left right next
+        //working version               
         ListNode newhead = new ListNode();
         newhead.next = head;
         
@@ -56,17 +52,13 @@ public class Solution {
         {
             ListNode leftNode = head;
             ListNode rightNode = head.next;
-            //switch           
-            //ListNode nextNode = rightNode.next;
-            
+            //switch
             prevNode.next = rightNode;
             leftNode.next = rightNode.next;
             rightNode.next = leftNode;
             
             //move to next
             prevNode = leftNode;
-            // leftNode = leftNode.next;
-            // rightNode = leftNode.next.next;
             head = leftNode.next;
         }
         
