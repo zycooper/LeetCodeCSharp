@@ -1,5 +1,5 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-126-orange)<br>
+![](https://img.shields.io/badge/Submitted-127-orange)<br>
 ![](https://progress-bar.dev/31)<br>
 <br>
 [Submit queue](./Plan.md)<br>
@@ -378,7 +378,7 @@
 |366|[Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/description/)|[Medium](./Tree/366.Find_Leaves_of_Binary_Tree.cs)||
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)|[Easy](./Math/367.Valid_Perfect_Square.cs)||
 |368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/)|[Medium](./Math/368.Largest_Divisible_Subset.cs)||
-|369|[Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/description/)|[Medium](./LinkedList/369.Plus_One_Linked_List.cs)||
+|369|[Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/description/)|[Medium](./LinkedList/369.Plus_One_Linked_List.cs)|2021-06-16|
 |370|[Range Addition](https://leetcode.com/problems/range-addition/description/)|[Medium](./Matrix/370.Range_Addition.cs)||
 |371|[Sum of Two Integers emove Element](https://leetcode.com/problems/sum-of-two-integers/description/)|[Medium](./Bit_Manipulation/371.Sum_of_Two_Integers_emove_Element.cs)||
 |372|[Super Pow](https://leetcode.com/problems/super-pow/description/)|[Medium](./Math/372.Super_Pow.cs)||
