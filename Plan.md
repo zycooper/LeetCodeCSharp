@@ -262,7 +262,7 @@
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)|[Medium](./LinkedList/19.Remove_Nth_Node_From_End_of_List.cs)|LinkedList|2021-06-16|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[Easy](./LinkedList/83.Remove_Duplicates_from_Sorted_List.cs)|LinkedList|2021-06-15|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)|[Easy](./LinkedList/203.Remove_Linked_List_Elements.cs)|LinkedList|2021-06-15|
-|82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)|[Medium](./LinkedList/82.Remove_Duplicates_from_Sorted_List_II.cs)|LinkedList||
+|82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)|[Medium](./LinkedList/82.Remove_Duplicates_from_Sorted_List_II.cs)|LinkedList|2021-06-16|
 |369|[Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/description/)|[Medium](./LinkedList/369.Plus_One_Linked_List.cs)|LinkedList||
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)|[Medium](./LinkedList/2.Add_Two_Numbers.cs)|LinkedList||
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)|[Easy](./LinkedList/160.Intersection_of_Two_Linked_Lists.cs)|LinkedList||
