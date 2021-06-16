@@ -1,5 +1,5 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-124-orange)<br>
+![](https://img.shields.io/badge/Submitted-125-orange)<br>
 ![](https://progress-bar.dev/31)<br>
 <br>
 [Submit queue](./Plan.md)<br>
@@ -28,7 +28,7 @@
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/)|[Medium](./Math/16.3Sum_Closest.cs)||
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)|[Medium](./Backtracking/17.Letter_Combinations_of_a_Phone_Number.cs)||
 |18|[4Sum](https://leetcode.com/problems/4sum/description/)|[Medium](./Math/18.4Sum.cs)||
-|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)|[Medium](./LinkedList/19.Remove_Nth_Node_From_End_of_List.cs)||
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)|[Medium](./LinkedList/19.Remove_Nth_Node_From_End_of_List.cs)|2021-06-16|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)|[Easy](./String/20.Valid_Parentheses.cs)|2021-05-26|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[Easy](./LinkedList/21.Merge_Two_Sorted_Lists.cs)||
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)|[Medium](./String/22.Generate_Parentheses.cs)|2021-06-04|
