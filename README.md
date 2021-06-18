@@ -1,5 +1,5 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-130-orange)<br>
+![](https://img.shields.io/badge/Submitted-131-orange)<br>
 ![](https://progress-bar.dev/32)<br>
 <br>
 [Submit queue](./Plan.md)<br>
@@ -243,7 +243,7 @@
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/description/)|[Easy](./Math/231.Power_of_Two.cs)||
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)|[Easy](./Stack&PriorityQueue/232.Implement_Queue_using_Stacks.cs)||
 |233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/description/)|[Hard](./Math/233.Number_of_Digit_One.cs)||
-|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)|[Easy](./LinkedList/234.Palindrome_Linked_List.cs)||
+|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)|[Easy](./LinkedList/234.Palindrome_Linked_List.cs)|2021-06-18|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)|[Easy](./Tree/235.Lowest_Common_Ancestor_of_a_Binary_Search_Tree.cs)||
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)|[Medium](./Tree/236.Lowest_Common_Ancestor_of_a_Binary_Tree.cs)||
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)|[Easy](./LinkedList/237.Delete_Node_in_a_Linked_List.cs)|2021-06-15|
