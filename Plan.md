@@ -268,7 +268,7 @@
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)|[Easy](./LinkedList/160.Intersection_of_Two_Linked_Lists.cs)|LinkedList|2021-06-16|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[Easy](./LinkedList/21.Merge_Two_Sorted_Lists.cs)|LinkedList|2021-06-16|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)|[Easy](./LinkedList/234.Palindrome_Linked_List.cs)|LinkedList|2021-06-18|
-|143|[Reorder List](https://leetcode.com/problems/reorder-list/description/)|[Medium](./LinkedList/143.Reorder_List.cs)|LinkedList||
+|143|[Reorder List](https://leetcode.com/problems/reorder-list/description/)|[Medium](./LinkedList/143.Reorder_List.cs)|LinkedList|2021-06-18|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)|[Medium](./LinkedList/142.Linked_List_Cycle_II.cs)|LinkedList||
 |148|[Sort List](https://leetcode.com/problems/sort-list/description/)|[Medium](./LinkedList/148.Sort_List.cs)|LinkedList||
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)|[Hard](./LinkedList/25.Reverse_Nodes_in_k-Group.cs)|LinkedList||
