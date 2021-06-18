@@ -1,6 +1,6 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-131-orange)<br>
-![](https://progress-bar.dev/32)<br>
+![](https://img.shields.io/badge/Submitted-132-orange)<br>
+![](https://progress-bar.dev/33)<br>
 <br>
 [Submit queue](./Plan.md)<br>
 
@@ -152,7 +152,7 @@
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/description/)|[Hard](./Backtracking/140.Word_Break_II.cs)||
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)|[Easy](./LinkedList/141.Linked_List_Cycle.cs)|2021-06-10|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)|[Medium](./LinkedList/142.Linked_List_Cycle_II.cs)||
-|143|[Reorder List](https://leetcode.com/problems/reorder-list/description/)|[Medium](./LinkedList/143.Reorder_List.cs)||
+|143|[Reorder List](https://leetcode.com/problems/reorder-list/description/)|[Medium](./LinkedList/143.Reorder_List.cs)|2021-06-18|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)|[Medium](./Tree/144.Binary_Tree_Preorder_Traversal.cs)||
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)|[Medium](./Tree/145.Binary_Tree_Postorder_Traversal.cs)||
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/description/)|[Medium](./Design/146.LRU_Cache.cs)||
