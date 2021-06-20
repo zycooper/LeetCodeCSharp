@@ -272,8 +272,8 @@
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)|[Medium](./LinkedList/142.Linked_List_Cycle_II.cs)|LinkedList|2021-06-18|
 |148|[Sort List](https://leetcode.com/problems/sort-list/description/)|[Medium](./LinkedList/148.Sort_List.cs)|LinkedList||
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)|[Hard](./LinkedList/25.Reverse_Nodes_in_k-Group.cs)|LinkedList||
-|61|[Rotate List](https://leetcode.com/problems/rotate-list/description/)|[Medium](./LinkedList/61.Rotate_List.cs)|LinkedList||
-|86|[Partition List](https://leetcode.com/problems/partition-list/description/)|[Medium](./LinkedList/86.Partition_List.cs)|LinkedList||
+|61|[Rotate List](https://leetcode.com/problems/rotate-list/description/)|[Medium](./LinkedList/61.Rotate_List.cs)|LinkedList|2021-06-20|
+|86|[Partition List](https://leetcode.com/problems/partition-list/description/)|[Medium](./LinkedList/86.Partition_List.cs)|LinkedList|2021-06-20|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)|[Hard](./LinkedList/23.Merge_k_Sorted_Lists.cs)|LinkedList||
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/)|[Medium](./LinkedList/147.Insertion_Sort_List.cs)|LinkedList||
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/description/)|[Easy](./Array/278.First_Bad_Version.cs)|Binary Search|2021-04-14|
