@@ -1,5 +1,5 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-133-orange)<br>
+![](https://img.shields.io/badge/Submitted-135-orange)<br>
 ![](https://progress-bar.dev/33)<br>
 <br>
 [Submit queue](./Plan.md)<br>
@@ -70,7 +70,7 @@
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)|[Easy](./String/58.Length_of_Last_Word.cs)|2021-04-27|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/)|[Medium](./Matrix/59.Spiral_Matrix_II.cs)||
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/)|[Hard](./Backtracking/60.Permutation_Sequence.cs)||
-|61|[Rotate List](https://leetcode.com/problems/rotate-list/description/)|[Medium](./LinkedList/61.Rotate_List.cs)||
+|61|[Rotate List](https://leetcode.com/problems/rotate-list/description/)|[Medium](./LinkedList/61.Rotate_List.cs)|2021-06-20|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/description/)|[Medium](./Dynamic_Programming/62.Unique_Paths.cs)||
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)|[Medium](./Dynamic_Programming/63.Unique_Paths_II.cs)||
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)|[Medium](./Dynamic_Programming/64.Minimum_Path_Sum.cs)||
@@ -95,7 +95,7 @@
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[Easy](./LinkedList/83.Remove_Duplicates_from_Sorted_List.cs)|2021-06-15|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)|[Hard](./Stack&PriorityQueue/84.Largest_Rectangle_in_Histogram.cs)||
 |85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/)|[Hard](./Dynamic_Programming/85.Maximal_Rectangle.cs)||
-|86|[Partition List](https://leetcode.com/problems/partition-list/description/)|[Medium](./LinkedList/86.Partition_List.cs)||
+|86|[Partition List](https://leetcode.com/problems/partition-list/description/)|[Medium](./LinkedList/86.Partition_List.cs)|2021-06-20|
 |87|[Scramble String](https://leetcode.com/problems/scramble-string/description/)|[Hard](./String/87.Scramble_String.cs)||
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)|[Easy](./Array/88.Merge_Sorted_Array.cs)|2021-04-13|
 |89|[Gray Code](https://leetcode.com/problems/gray-code/description/)|[Medium](./Bit_Manipulation/89.Gray_Code.cs)||
