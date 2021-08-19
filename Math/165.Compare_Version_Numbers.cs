@@ -42,16 +42,38 @@ Output: -1
  *********************************************************************************
  Time Range:
  From: 2021-08-18 15:07
- To: 
+ To: 2021-08-19 14:44
  *********************************************************************************
  Submission Result:
-
+Runtime: 80 ms, faster than 44.39% of C# online submissions for Compare Version Numbers.
+Memory Usage: 23 MB, less than 45.41% of C# online submissions for Compare Version Numbers.
  *********************************************************************************
  Note: 
-
+ str.Split('');
  *********************************************************************************/
 public class Solution {
     public int CompareVersion(string version1, string version2) {
+        
+        string[] strArr1 = version1.Split('.');
+        string[] strArr2 = version2.Split('.');
+
+        for(int i = 0; i < Math.Max(strArr1.Length,strArr2.Length);i++)
+        {            
+            int temp_int_1 = i < strArr1.Length ? int.Parse(strArr1[i]) : 0;
+            int temp_int_2 = i < strArr2.Length ? int.Parse(strArr2[i]) : 0;
+
+            if (temp_int_1 < temp_int_2)
+            {
+                return -1;
+            }
+            else if(temp_int_1 > temp_int_2)
+            {
+                return 1;
+            }
+        }
+
+        return 0;
+
         
     }
 }

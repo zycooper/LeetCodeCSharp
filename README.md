@@ -1,6 +1,6 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-135-orange)<br>
-![](https://progress-bar.dev/33)<br>
+![](https://img.shields.io/badge/Submitted-137-orange)<br>
+![](https://progress-bar.dev/34)<br>
 <br>
 [Submit queue](./Plan.md)<br>
 
@@ -16,7 +16,7 @@
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)|[Hard](./Array/4.Median_of_Two_Sorted_Arrays.cs)|2021-04-21|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)|[Medium](./String/5.Longest_Palindromic_Substring.cs)|2021-05-24|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)|[Medium](./String/6.ZigZag_Conversion.cs)|2021-04-30|
-|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)|[Easy](./Math/7.Reverse_Integer.cs)||
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)|[Easy](./Math/7.Reverse_Integer.cs)|2021-08-18|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)|[Medium](./Math/8.String_to_Integer_(atoi).cs)||
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)|[Easy](./String/9.Palindrome_Number.cs)|2021-05-24|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)|[Hard](./Dynamic_Programming/10.Regular_Expression_Matching.cs)||
@@ -174,7 +174,7 @@
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)|[Medium](./Array/162.Find_Peak_Element.cs)|2021-04-15|
 |163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/description/)|[Easy](./Array/163.Missing_Ranges.cs)|2021-04-13|
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/description/)|[Hard](./Array/164.Maximum_Gap.cs)|2021-04-21|
-|165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/)|[Medium](./Math/165.Compare_Version_Numbers.cs)||
+|165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/)|[Medium](./Math/165.Compare_Version_Numbers.cs)|2021-08-19|
 |166|[Fraction to Recurring Decimal    ]()|[Medium](./UnCategory/166.Fraction_to_Recurring_Decimal.cs)||
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[Easy](./Math/167.Two_Sum_II_Input_array_is_sorted.cs)||
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)|[Easy](./String/168.Excel_Sheet_Column_Title.cs)|2021-05-14|

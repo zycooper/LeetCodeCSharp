@@ -123,8 +123,8 @@
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)|[Easy](./String/392.Is_Subsequence.cs)|String|2021-05-26|
 |115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/)|[Hard](./String/115.Distinct_Subsequences.cs)|String||
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/description/)|[Medium](./String/187.Repeated_DNA_Sequences.cs)|String|2021-05-27|
-|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)|[Easy](./Math/7.Reverse_Integer.cs)|Math||
-|165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/)|[Medium](./Math/165.Compare_Version_Numbers.cs)|Math||
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)|[Easy](./Math/7.Reverse_Integer.cs)|Math|2021-08-18|
+|165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/)|[Medium](./Math/165.Compare_Version_Numbers.cs)|Math|2021-08-19|
 |66|[Plus One](https://leetcode.com/problems/plus-one/description/)|[Easy](./Math/66.Plus_One.cs)|Math||
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)|[Medium](./Math/8.String_to_Integer_(atoi).cs)|Math||
 |258|[Add Digits](https://leetcode.com/problems/add-digits/description/)|[Easy](./Math/258.Add_Digits.cs)|Math||
