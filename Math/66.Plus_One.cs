@@ -20,6 +20,7 @@ Memory Usage: 30.8 MB, less than 47.31% of C# online submissions for Plus One.
  *********************************************************************************
  Note: 
 All by my self, O(n)
+initialize a new int[], if not set the value, all element will be 0.
  *********************************************************************************/
 public class Solution {
     public int[] PlusOne(int[] digits) {
