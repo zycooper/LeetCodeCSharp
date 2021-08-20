@@ -1,5 +1,5 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-137-orange)<br>
+![](https://img.shields.io/badge/Submitted-139-orange)<br>
 ![](https://progress-bar.dev/34)<br>
 <br>
 [Submit queue](./Plan.md)<br>
@@ -17,7 +17,7 @@
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)|[Medium](./String/5.Longest_Palindromic_Substring.cs)|2021-05-24|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)|[Medium](./String/6.ZigZag_Conversion.cs)|2021-04-30|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)|[Easy](./Math/7.Reverse_Integer.cs)|2021-08-18|
-|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)|[Medium](./Math/8.String_to_Integer_(atoi).cs)||
+|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)|[Medium](./Math/8.String_to_Integer_(atoi).cs)|2021-08-20|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)|[Easy](./String/9.Palindrome_Number.cs)|2021-05-24|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)|[Hard](./Dynamic_Programming/10.Regular_Expression_Matching.cs)||
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)|[Medium](./Array/11.Container_With_Most_Water.cs)|2021-03-25|
@@ -75,7 +75,7 @@
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)|[Medium](./Dynamic_Programming/63.Unique_Paths_II.cs)||
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)|[Medium](./Dynamic_Programming/64.Minimum_Path_Sum.cs)||
 |65|[Valid Number](https://leetcode.com/problems/valid-number/description/)|[Hard](./String/65.Valid_Number.cs)|2021-06-02|
-|66|[Plus One](https://leetcode.com/problems/plus-one/description/)|[Easy](./Math/66.Plus_One.cs)||
+|66|[Plus One](https://leetcode.com/problems/plus-one/description/)|[Easy](./Math/66.Plus_One.cs)|2021-08-20|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/description/)|[Easy](./Math/67.Add_Binary.cs)||
 |68|[Text Justification](https://leetcode.com/problems/text-justification/description/)|[Hard](./String/68.Text_Justification.cs)|2021-05-18|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|[Easy](./Math/69.Sqrt(x).cs)||
