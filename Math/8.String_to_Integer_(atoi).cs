@@ -87,45 +87,101 @@ Since -91283472332 is less than the lower bound of the range [-231, 231 - 1], th
  *********************************************************************************
  Time Range:
  From: 2021-08-19 15:05
- To: 
+ To: 2021-08-20 16:17
  *********************************************************************************
  Submission Result:
-
+Runtime: 84 ms, faster than 32.53% of C# online submissions for String to Integer (atoi).
+Memory Usage: 25.8 MB, less than 39.20% of C# online submissions for String to Integer (atoi).
  *********************************************************************************
  Note: 
-
+    1. to check if int out of range (result == Int32.MaxValue / 10 && int.Parse(s[i].ToString()) > Int32.MaxValue % 10) || (result > Int32.MaxValue / 10)
+    2. to check if char is int digit char >= '0' and char <= '9'
+    3. to convert char to int: char - '0'
+    4. in for loop, continue mean skip this i, break means jump out of this for
  *********************************************************************************/
+
+ static public class Solution
+    {
+        //working version below
+        static public int MyAtoi(string s)
+        {
+            int result = 0;
+            int negative = 0;
+            int digitCursor = -1;
+            for (int i = 0; i < s.Length; i++)
+            {
+                if (negative == 0 && digitCursor == -1 && (s[i] == '+' || s[i] == '-'))
+                {
+                    negative = (s[i] == '-' ? -1 : +1);
+                }
+                else if (s[i] >= '0' && s[i] <= '9')
+                {
+                    //found digit here
+                    digitCursor = i;
+                    if (s[i] == '0' && result == 0)
+                    {
+                        continue;
+                    }
+                    else if ((result == Int32.MaxValue / 10 && int.Parse(s[i].ToString()) > Int32.MaxValue % 10) || (result > Int32.MaxValue / 10))
+                    {
+                        return (negative > -1 ? Int32.MaxValue : Int32.MinValue);
+                    }
+                    else
+                    {
+                        result = result * 10 + s[i] - '0';                            
+                    }
+                }
+                else if (s[i] != ' ' || ((digitCursor != -1 || negative != 0) && s[i] == ' ') || (digitCursor != -1 && s[i] == '.'))
+                {
+                    break;
+                }                           
+            }
+            return result * (negative > -1 ? 1 : -1);
+        }
+    } 
 public class Solution {
     public int MyAtoi(string s) {
-        /*
-        int result = 0;        
+       int result = 0;        
 
         int negative = 0;
-        int start = -1;
+        int cursor = -1;
         for(int i = 0; i < s.Length; i++)
         {
-            if((s[i] == '+' || s[i] == '-') && negative == 0 && i != s.Length - 1 && int.TryParse(s[i+1],out result_1))
+            if((s[i] == '+' || s[i] == '-') && negative == 0 && i != s.Length - 1 && int.TryParse(s[i+1].ToString(),out int result_1))
             {
                 negative = (s[i] == '-' ? -1: +1);
-                break;
+                continue;
             }
 
-            if(int.TryParse(s[i].ToString(),out result_2))
+            bool currentIsdigit = int.TryParse(s[i].ToString(),out int result_2);
+            if(currentIsdigit)
             {
+                //normal number
                 result = result*10 + int.Parse(s[i].ToString());
-            }
-            else
-            {
-                if(result > int32.MaxValue)
+                if(result > Int32.MaxValue)
                 {
-                    return int32.MaxValue;
+                    return Int32.MaxValue * (negative > -1 ? 1: -1);
+                }
+                cursor = i;
+            }
+            else if(!currentIsdigit && cursor != -1)
+            {
+                //end
+                if(result > Int32.MaxValue || result < Int32.MinValue)
+                {
+                    return (negative > -1 )? Int32.MaxValue : Int32.MinValue;
                 }
                 else
                 {
-                    return result;
+                    return result * (negative > -1 ? 1: -1);
                 }                                
             }
+            else if(!currentIsdigit && cursor == -1)
+            {
+                return result;
+            }
         }
-        */      
-    }
+
+        return result * (negative > -1 ? 1: -1);
+    }   
 }
