@@ -1,5 +1,5 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-140-orange)<br>
+![](https://img.shields.io/badge/Submitted-141-orange)<br>
 ![](https://progress-bar.dev/35)<br>
 <br>
 [Submit queue](./Plan.md)<br>
@@ -176,7 +176,7 @@
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/description/)|[Hard](./Array/164.Maximum_Gap.cs)|2021-04-21|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/)|[Medium](./Math/165.Compare_Version_Numbers.cs)|2021-08-19|
 |166|[Fraction to Recurring Decimal    ]()|[Medium](./UnCategory/166.Fraction_to_Recurring_Decimal.cs)||
-|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[Easy](./Math/167.Two_Sum_II_Input_array_is_sorted.cs)||
+|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[Easy](./Math/167.Two_Sum_II_Input_array_is_sorted.cs)|2021-08-20|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)|[Easy](./String/168.Excel_Sheet_Column_Title.cs)|2021-05-14|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/description/)|[Easy](./Array/169.Majority_Element.cs)|2021-03-19|
 |170|[Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/description/)|[Easy](./Design/170.Two_Sum_III_Data_structure_design.cs)||

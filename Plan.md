@@ -137,7 +137,7 @@
 |365|[Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/description/)|[Medium](./Math/365.Water_and_Jug_Problem.cs)|Math||
 |204|[Count Primes](https://leetcode.com/problems/count-primes/description/)|[Easy](./Math/204.Count_Primes.cs)|Math||
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[Easy](./Math/1.Two_Sum.cs)|Math|2020-11-16|
-|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[Easy](./Math/167.Two_Sum_II_Input_array_is_sorted.cs)|Math||
+|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[Easy](./Math/167.Two_Sum_II_Input_array_is_sorted.cs)|Math|2021-08-20|
 |15|[3Sum](https://leetcode.com/problems/3sum/description/)|[Medium](./Math/15.3Sum.cs)|Math||
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/)|[Medium](./Math/16.3Sum_Closest.cs)|Math||
 |259|[3Sum Smaller](https://leetcode.com/problems/3sum-smaller/description/)|[Medium](./Math/259.3Sum_Smaller.cs)|Math||
