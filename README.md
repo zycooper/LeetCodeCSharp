@@ -1,6 +1,6 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-139-orange)<br>
-![](https://progress-bar.dev/34)<br>
+![](https://img.shields.io/badge/Submitted-140-orange)<br>
+![](https://progress-bar.dev/35)<br>
 <br>
 [Submit queue](./Plan.md)<br>
 
@@ -267,7 +267,7 @@
 |255|[Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/description/)|[Medium](./Tree/255.Verify_Preorder_Sequence_in_Binary_Search_Tree.cs)||
 |256|[Paint House](https://leetcode.com/problems/paint-house/description/)|[Medium](./Dynamic_Programming/256.Paint_House.cs)||
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/)|[Easy](./Tree/257.Binary_Tree_Paths.cs)||
-|258|[Add Digits](https://leetcode.com/problems/add-digits/description/)|[Easy](./Math/258.Add_Digits.cs)||
+|258|[Add Digits](https://leetcode.com/problems/add-digits/description/)|[Easy](./Math/258.Add_Digits.cs)|2021-08-20|
 |259|[3Sum Smaller](https://leetcode.com/problems/3sum-smaller/description/)|[Medium](./Math/259.3Sum_Smaller.cs)||
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/description/)|[Medium](./Bit_Manipulation/260.Single_Number_III.cs)||
 |261|[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/description/)|[Medium](./Union_Find/261.Graph_Valid_Tree.cs)||

@@ -127,7 +127,7 @@
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/)|[Medium](./Math/165.Compare_Version_Numbers.cs)|Math|2021-08-19|
 |66|[Plus One](https://leetcode.com/problems/plus-one/description/)|[Easy](./Math/66.Plus_One.cs)|Math|2021-08-19|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)|[Medium](./Math/8.String_to_Integer_(atoi).cs)|Math|2021-08-20|
-|258|[Add Digits](https://leetcode.com/problems/add-digits/description/)|[Easy](./Math/258.Add_Digits.cs)|Math||
+|258|[Add Digits](https://leetcode.com/problems/add-digits/description/)|[Easy](./Math/258.Add_Digits.cs)|Math|2021-08-20|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/description/)|[Easy](./Math/67.Add_Binary.cs)|Math||
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)|[Medium](./Math/43.Multiply_Strings.cs)|Math||
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/)|[Medium](./Math/29.Divide_Two_Integers.cs)|Math||
