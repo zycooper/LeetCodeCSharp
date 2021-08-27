@@ -1,5 +1,5 @@
 ## LeetCode Progress (out of first 400 problems)
-![](https://img.shields.io/badge/Submitted-141-orange)<br>
+![](https://img.shields.io/badge/Submitted-142-orange)<br>
 ![](https://progress-bar.dev/35)<br>
 <br>
 [Submit queue](./Plan.md)<br>
@@ -240,7 +240,7 @@
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/description/)|[Easy](./Array/228.Summary_Ranges.cs)|2021-04-13|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/description/)|[Medium](./Array/229.Majority_Element_II.cs)|2021-03-19|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)|[Medium](./Tree/230.Kth_Smallest_Element_in_a_BST.cs)||
-|231|[Power of Two](https://leetcode.com/problems/power-of-two/description/)|[Easy](./Math/231.Power_of_Two.cs)||
+|231|[Power of Two](https://leetcode.com/problems/power-of-two/description/)|[Easy](./Math/231.Power_of_Two.cs)|2021-08-27|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)|[Easy](./Stack&PriorityQueue/232.Implement_Queue_using_Stacks.cs)||
 |233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/description/)|[Hard](./Math/233.Number_of_Digit_One.cs)||
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)|[Easy](./LinkedList/234.Palindrome_Linked_List.cs)|2021-06-18|

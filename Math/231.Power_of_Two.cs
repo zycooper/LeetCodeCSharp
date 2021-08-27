@@ -35,24 +35,39 @@ Constraints:
 */
 
  /********************************************************************************
- Solution Category: 0
+ Solution Category: Bit Operation
  *********************************************************************************
  Time Range:
  From: 2021-08-20 21:20
- To: 
+ To: 2021-0827 16:40
  *********************************************************************************
  Submission Result:
-
+Runtime: 52 ms, faster than 13.35% of C# online submissions for Power of Two.
+Memory Usage: 15.2 MB, less than 66.49% of C# online submissions for Power of Two.
  *********************************************************************************
  Note: 
 
  *********************************************************************************/
 public class Solution {
+    public bool IsPowerOfTwo(int n) 
+    {
+        
+        if(n < 1){ return false;}
+
+        int count = 0;
+        while(n > 0)
+        {
+            count += (n & 1);
+            n>>=1;
+        }
+
+        return count == 1;
+        
+    }
     //time out!!
-    public bool IsPowerOfTwo(int n) {
+    public bool IsPowerOfTwo_old(int n) {
         return IsPowerOf(n,2);
     }
-
     private bool IsPowerOf(int n, int powerSeed)
     {
         

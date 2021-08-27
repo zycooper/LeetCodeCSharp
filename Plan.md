@@ -142,7 +142,7 @@
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/)|[Medium](./Math/16.3Sum_Closest.cs)|Math||
 |259|[3Sum Smaller](https://leetcode.com/problems/3sum-smaller/description/)|[Medium](./Math/259.3Sum_Smaller.cs)|Math||
 |18|[4Sum](https://leetcode.com/problems/4sum/description/)|[Medium](./Math/18.4Sum.cs)|Math||
-|231|[Power of Two](https://leetcode.com/problems/power-of-two/description/)|[Easy](./Math/231.Power_of_Two.cs)|Math||
+|231|[Power of Two](https://leetcode.com/problems/power-of-two/description/)|[Easy](./Math/231.Power_of_Two.cs)|Math|2021-08-27|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/description/)|[Easy](./Math/326.Power_of_Three.cs)|Math||
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/description/)|[Easy](./Math/342.Power_of_Four.cs)|Math||
 |372|[Super Pow](https://leetcode.com/problems/super-pow/description/)|[Medium](./Math/372.Super_Pow.cs)|Math||
