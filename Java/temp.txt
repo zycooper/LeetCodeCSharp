@@ -1,0 +1,23 @@
+class Solution {
+    public double findMaxAverage(int[] nums, int k) {
+        //pre condition
+        //normal condition
+        int LargestSum = 0;//should be the least double value
+        int Window_Cursor_Left = 0;
+        int Current_Sum = 0;
+        for(int Window_Cursor_Right = 0;  Window_Cursor_Right <= nums.length; Window_Cursor_Right++)
+        {
+            Current_Sum += nums[Window_Cursor_Right];
+
+            if(Window_Cursor_Right >= k - 1)
+            {
+                //window is valid
+                LargestSum = Math.Max(Current_Sum,LargestSum);
+                Current_Sum -= nums[Window_Cursor_Left];
+                Window_Cursor_Left++;
+            }
+        }
+
+        return LargestSum/k;
+    }
+}
