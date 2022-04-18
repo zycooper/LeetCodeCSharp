@@ -1,6 +1,6 @@
 ## LeetCode Java Progress
 ![](https://img.shields.io/badge/Submitted-1-red)<br>
-![](https://progress-bar.dev/1)<br>
+<!-- ![](https://progress-bar.dev/0)<br> -->
 <br>
 
 | # | Title | Difficulty | Category | Submit |
