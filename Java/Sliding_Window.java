@@ -23,6 +23,7 @@ class Solution {
             if(Window_Cursor_Right >= k - 1)
             {
                 //reset the final result first
+                //note: Math.max, not Math.Max
                 LargestSum = Math.max(Current_Sum,LargestSum);
 
                 //then reset the temporary value
