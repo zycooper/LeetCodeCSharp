@@ -1,4 +1,4 @@
-## LeetCode Progress (out of first 400 problems)
+## LeetCode C# Progress (out of first 400 problems)
 ![](https://img.shields.io/badge/Submitted-142-orange)<br>
 ![](https://progress-bar.dev/35)<br>
 <br>
