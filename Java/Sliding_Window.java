@@ -50,3 +50,8 @@ class Solution {
         return (double)LargestSum/k;
     }
 }
+/*
+    Q: 3. Longest Substring Without Repeating Characters
+    Note: when you create a dict to store the key and the last index this key appears, you won't need to remove everything before this key, instead you can move the left cursor to the next position where latest duplicate key appears, then next time when the right cursor enconters an existing key, just check the left cursor and this duplicate key's value, if left cursor is more than the exist value then you don't have to worry about it, if not, move left cursor
+
+*/

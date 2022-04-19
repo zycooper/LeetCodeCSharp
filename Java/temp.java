@@ -2,45 +2,38 @@ import java.util.*;
 
 class LongestSubstringKDistinct
 {
-    public int totalFruit(int[] fruits)
-    {
+    public int lengthOfLongestSubstring(String s) {
         //pre condition
-        if(fruits.length <= 2)
+        if(s == null )
         {
-            return fruits.length();
+            return 0;
         }
 
-        int left_cursor = 0;
-        int maxFruitsCount = 0;
-
-        //key is fruit index
-        //value is count
-        Map<Integer, Integer> dict = new HashMap();
-
-        for(int right_cursor = 0; right_cursor < fruits.length(); right_cursor++)
+        if(s.length() == 1)
         {
-            int right_fruit = fruits[right_cursor];
-            //add the right cursor fruit
-            dict.put(right_fruit, dict.getOrDefault(right_fruit,0) + 1);
+            return 1;
+        }
 
-            //check if the dict is valid, if not, move left cursor to right
-            while(dict.size() > 2)
+        //normal condition
+        int left_cursor = 0;
+        int maxLength = 0;
+        //key is the char and the value is the index of this char appears last time
+        Map<Character,Integer> dict = new HashMap();
+
+        for(int right_cursor = 0; right_cursor < s.length(); right_cursor++)
+        {
+            //add char at right cursor to the dict
+            char charAtRightCursor = s.charAt(right_cursor);
+            if(dict.containsKey(charAtRightCursor))
             {
-                //fruits type more than 2, move left cursor
-                int left_fruit = fruites[left_cursor];
-                dict.put(left_fruit, dict.get(left_fruit) - 1);
-
-                if(dict.get(left_fruit) == 0)
-                {
-                    dict.remove(left_fruit);
-                }
-
-                left_cursor++;
+                left_cursor = Math.max(left_cursor,dict.get(charAtRightCursor) + 1);
             }
 
-            maxFruitsCount = Math.max(maxFruitsCount, right_cursor - left_cursor + 1);
+            //update or insert the key and value
+            dict.put(charAtRightCursor, right_cursor);
+            maxLength = Math.max(maxLength, right_cursor - left_cursor + 1);
         }
 
-        return maxFruitsCount;
+        return maxLength;
     }
 }
