@@ -17,6 +17,7 @@ class Solution {
         for(int Window_Cursor_Right = 0;  Window_Cursor_Right < nums.length; Window_Cursor_Right++)
         {
             //reset the temporary value, but don't have to touch the final result yet
+            //reset it first, then check if the temp is valid or not, see -> longest-substring-with-at-most-k-distinct-characters
             Current_Sum += nums[Window_Cursor_Right];
 
             //code block below may have different form base on needs

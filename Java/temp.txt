@@ -1,0 +1,45 @@
+import java.util.*;
+
+class LongestSubstringKDistinct {
+  public static int findLength(String str, int k) {
+    //pre-condition
+    //upper case? lower case?
+
+    //normal condition
+    int left_cursor = 0;
+
+    int final_max_length = 0;
+    Dictionary<char,int> dict = new Dictionary<char,int>();
+
+    for(int right_cursor = 0; right_cursor < str.length; right_cursor++)
+    {
+        //check if dict has already have this char
+        if(dict.containskey(str[right_cursor]) || dict.keys.count() <= k)
+        {
+            final_max_length = Math.max(right_cursor - left_cursor + 1, final_max_length);
+
+            dict[str[right_cursor]]++;
+        }
+        else
+        {
+            //new key and already have k keys
+            //move left cursor until there is only k keys in dict
+            while(left_cursor < right_cursor && dict.keys.count > k)
+            {
+                if(dict[str[left_cursor]] == 1)
+                {
+                    //only one char left at left_cursor
+                    dict.remove(str[left_cursor]);
+                }
+                else
+                {
+                    dict[str[left_cursor]]--;
+                }
+                left_cursor++;
+            }
+        }
+    }
+
+    return -1;
+  }
+}
