@@ -19,6 +19,8 @@ class Solution {
             //reset the temporary value, but don't have to touch the final result yet
             Current_Sum += nums[Window_Cursor_Right];
 
+            //code block below may have different form base on needs
+            //0. simply move sliding window left cursor to the right one more index
             //check if the window lengh is valid -> note it should be right_cursor >= k - 1
             if(Window_Cursor_Right >= k - 1)
             {
@@ -30,6 +32,16 @@ class Solution {
                 Current_Sum -= nums[Window_Cursor_Left];
 
                 //left curos moves as well.
+                Window_Cursor_Left++;
+            }
+
+            //1. keep moving left cursor until one cenerio meets
+            //the sliding window is more and more shorter
+            while(Current_Sum >= 7)
+            {
+                LargestSum = Math.max(Current_Sum,LargestSum);
+
+                Current_Sum -= nums[Window_Cursor_Left];
                 Window_Cursor_Left++;
             }
         }
