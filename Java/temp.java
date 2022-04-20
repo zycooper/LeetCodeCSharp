@@ -1,39 +1,64 @@
-import java.util.*;
-
-class LongestSubstringKDistinct
-{
-    public int lengthOfLongestSubstring(String s) {
+class Solution {
+    public String minWindow(String str, String pattern) {
         //pre condition
-        if(s == null )
+        if(str.length() < pattern.length() || str.length() == 0)
         {
-            return 0;
+            return "";
         }
-
-        if(s.length() == 1)
-        {
-            return 1;
-        }
-
         //normal condition
         int left_cursor = 0;
-        int maxLength = 0;
-        //key is the char and the value is the index of this char appears last time
-        Map<Character,Integer> dict = new HashMap();
-
-        for(int right_cursor = 0; right_cursor < s.length(); right_cursor++)
+        Map<Character, Integer> charFrequencyMap = new HashMap();
+        String res = "";
+        int match = 0;
+        
+        //fill frequency map
+        for(int i = 0; i < pattern.length(); i++)
         {
-            //add char at right cursor to the dict
-            char charAtRightCursor = s.charAt(right_cursor);
-            if(dict.containsKey(charAtRightCursor))
-            {
-                left_cursor = Math.max(left_cursor,dict.get(charAtRightCursor) + 1);
-            }
-
-            //update or insert the key and value
-            dict.put(charAtRightCursor, right_cursor);
-            maxLength = Math.max(maxLength, right_cursor - left_cursor + 1);
+            char charCurrent = pattern.charAt(i);
+            charFrequencyMap.put(charCurrent, charFrequencyMap.getOrDefault(charCurrent, 0) + 1);
         }
+        
+        //form window sliding
+        for(int right_cursor = 0; right_cursor < str.length(); right_cursor++)
+        {
+            //check right cursor one exist in map
+            char charAtRightCursor = str.charAt(right_cursor);
+            if(charFrequencyMap.containsKey(charAtRightCursor))
+            {
+                charFrequencyMap.put(charAtRightCursor, charFrequencyMap.get(charAtRightCursor) - 1);
 
-        return maxLength;
+                if(charFrequencyMap.get(charAtRightCursor) == 0)
+                {
+                    match++;
+                }
+            }
+            
+            //check if current window is valid
+            if(match == charFrequencyMap.size())
+            {                
+                if(res.length() > right_cursor - left_cursor + 1 || res == "")
+                {
+                     res = str.substring(left_cursor, right_cursor + 1);
+                }
+                
+                //move left cursor
+                while(match == charFrequencyMap.size())
+                {
+                    char charAtLeftCursor = str.charAt(left_cursor++);
+                    
+                    if(charFrequencyMap.containsKey(charAtLeftCursor))
+                    {
+                        if(charFrequencyMap.get(charAtRightCursor) == 0)
+                        {
+                            match--;
+                        }
+                        
+                        charFrequencyMap.put(charAtLeftCursor, charFrequencyMap.get(charAtLeftCursor) + 1);
+                    }
+                }
+            }
+        }
+        
+        return res;//"ADOBECODEBANC".substring(11,12);//
     }
 }
