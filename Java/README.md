@@ -1,5 +1,5 @@
 ## LeetCode Java Progress
-![](https://img.shields.io/badge/Submitted-7-red)<br>
+![](https://img.shields.io/badge/Submitted-8-red)<br>
 <br>
 
 | # | Title | Difficulty | Category | Submit | Note |
