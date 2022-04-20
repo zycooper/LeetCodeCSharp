@@ -1,6 +1,5 @@
 ## LeetCode Java Progress
-![](https://img.shields.io/badge/Submitted-6-red)<br>
-<!-- ![](https://progress-bar.dev/0)<br> -->
+![](https://img.shields.io/badge/Submitted-7-red)<br>
 <br>
 
 | # | Title | Difficulty | Category | Submit | Note |
@@ -11,3 +10,5 @@
 |904|[Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)|Medium|Sliding Window|4-19-2022|Exactly the same with 304|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|Medium|Sliding Window|4-19-2022||
 |424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|Medium|Sliding Window|4-19-2022|Brilliant Idea|
+|1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)|Medium|Sliding Window|4-20-2022|Basically the same with 424|
+|567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/)|Medium|Sliding Window|4-20-2022||
