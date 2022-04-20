@@ -57,6 +57,6 @@ class Solution {
 */
 
 /*
-    Q: 567. Permutation in String 
+    Q: 567. Permutation in String
     Note: pay attention to the window size during the cursors moving process, sometime when you start a new loop(right cursor move), the window size is in-valid, make sure every time before the final check the window size is valid
 */
