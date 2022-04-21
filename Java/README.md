@@ -13,3 +13,5 @@
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)|Medium|Sliding Window|4-20-2022|Basically the same with 424|
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/)|Medium|Sliding Window|4-20-2022||
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|Medium|Sliding Window|4-20-2022|same with 567|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|Easy|LinkdeList|4-21-2022||
+|92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|Medium|LinkdeList|4-21-2022||
