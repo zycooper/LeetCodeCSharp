@@ -2,3 +2,4 @@
 - if use string as an array => str.charAt(index) is the char.
 - java normally use camel case to represent function, not Pascal case like c#
 - length can be used for int[], double[], String[] && length() can be used for String, StringBuilder, etc
+- break inside while loop doesn't work!

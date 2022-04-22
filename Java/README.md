@@ -1,5 +1,5 @@
 ## LeetCode Java Progress
-![](https://img.shields.io/badge/Submitted-13-green)<br>
+![](https://img.shields.io/badge/Submitted-16-green)<br>
 <br>
 
 | # | Title | Difficulty | Category | Submit | Note |
@@ -17,3 +17,6 @@
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|Medium|LinkdeList|4-21-2022||
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|Medium|BFS|4-22-2022||
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|Medium|BFS|4-22-2022||
+|103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|Medium|BFS|4-22-2022||
+|637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|Medium|BFS|4-22-2022||
+|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|Medium|BFS|4-22-2022||
