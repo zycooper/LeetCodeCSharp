@@ -3,3 +3,4 @@
 - java normally use camel case to represent function, not Pascal case like c#
 - length can be used for int[], double[], String[] && length() can be used for String, StringBuilder, etc
 - break inside while loop doesn't work!
+- when the result is getting a least greater number or greatest smaller number, set it to Integer.MAX_VALUE or Integer.MIN_VALUE
