@@ -26,6 +26,7 @@ class LevelOrderTraversal {
     queue.offer(root);
     while(!queue.isEmpty())
     {
+        //be caution with this line, reset the int of size every loop, if you use queue.size() instead may not be correct!
         int currentLevelSize = queue.size();
         List<Integer> currentLevelList = new ArrayList<Integer>(currentLevelSize);
 
