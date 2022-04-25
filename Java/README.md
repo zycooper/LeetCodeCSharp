@@ -1,5 +1,5 @@
 ## LeetCode Java Progress
-![](https://img.shields.io/badge/Submitted-18-green)<br>
+![](https://img.shields.io/badge/Submitted-21-green)<br>
 <br>
 
 | # | Title | Difficulty | Category | Submit | Note |
@@ -22,3 +22,6 @@
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|Easy|BFS|4-22-2022||
 |285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)|Medium|BFS|4-23-2022||
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|Medium|BFS|4-24-2022||
+|112|[Path Sum](https://leetcode.com/problems/path-sum/)|Medium|DFS|4-24-2022||
+|113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|Medium|DFS|4-24-2022||
+|129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|Medium|DFS|4-24-2022||
