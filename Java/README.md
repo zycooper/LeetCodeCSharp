@@ -1,5 +1,5 @@
 ## LeetCode Java Progress
-![](https://img.shields.io/badge/Submitted-21-green)<br>
+<!-- ![](https://img.shields.io/badge/Submitted-21-green)<br> -->
 <br>
 
 | # | Title | Difficulty | Category | Submit | Note |
@@ -24,4 +24,11 @@
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|Medium|BFS|4-24-2022||
 |112|[Path Sum](https://leetcode.com/problems/path-sum/)|Medium|DFS|4-24-2022||
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|Medium|DFS|4-24-2022||
-|129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|Medium|DFS|4-24-2022||
+|129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|Medium|DFS|4-25-2022||
+|167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|Medium|Two Pointers|4-25-2022||
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|Easy|Two Pointers|4-25-2022||
+|977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|Easy|Two Pointers|4-26-2022||
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|Easy|Fast&Slow Pointers|4-26-2022||
+
+
+. 
