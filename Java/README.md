@@ -29,6 +29,3 @@
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|Easy|Two Pointers|4-25-2022||
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|Easy|Two Pointers|4-26-2022||
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|Easy|Fast&Slow Pointers|4-26-2022||
-
-
-. 
