@@ -4,7 +4,7 @@ class Solution {
         {
             return false;
         }
-        
+
         //break/end point
         //if left is null or right is null, it will go to the first line which returns false
         //leaf
@@ -12,7 +12,7 @@ class Solution {
         {
             return true;
         }
-        
+
         return hasPathSum(root.left, targetSum - root.val) 
             || hasPathSum(root.right, targetSum - root.val);
     }
