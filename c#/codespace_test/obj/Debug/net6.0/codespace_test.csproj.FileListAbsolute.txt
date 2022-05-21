@@ -1,0 +1,15 @@
+/workspaces/LeetCodePractice/c#/codespace_test/bin/Debug/net6.0/codespace_test
+/workspaces/LeetCodePractice/c#/codespace_test/bin/Debug/net6.0/codespace_test.deps.json
+/workspaces/LeetCodePractice/c#/codespace_test/bin/Debug/net6.0/codespace_test.runtimeconfig.json
+/workspaces/LeetCodePractice/c#/codespace_test/bin/Debug/net6.0/codespace_test.dll
+/workspaces/LeetCodePractice/c#/codespace_test/bin/Debug/net6.0/codespace_test.pdb
+/workspaces/LeetCodePractice/c#/codespace_test/obj/Debug/net6.0/codespace_test.csproj.AssemblyReference.cache
+/workspaces/LeetCodePractice/c#/codespace_test/obj/Debug/net6.0/codespace_test.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/LeetCodePractice/c#/codespace_test/obj/Debug/net6.0/codespace_test.AssemblyInfoInputs.cache
+/workspaces/LeetCodePractice/c#/codespace_test/obj/Debug/net6.0/codespace_test.AssemblyInfo.cs
+/workspaces/LeetCodePractice/c#/codespace_test/obj/Debug/net6.0/codespace_test.csproj.CoreCompileInputs.cache
+/workspaces/LeetCodePractice/c#/codespace_test/obj/Debug/net6.0/codespace_test.dll
+/workspaces/LeetCodePractice/c#/codespace_test/obj/Debug/net6.0/refint/codespace_test.dll
+/workspaces/LeetCodePractice/c#/codespace_test/obj/Debug/net6.0/codespace_test.pdb
+/workspaces/LeetCodePractice/c#/codespace_test/obj/Debug/net6.0/codespace_test.genruntimeconfig.cache
+/workspaces/LeetCodePractice/c#/codespace_test/obj/Debug/net6.0/ref/codespace_test.dll
